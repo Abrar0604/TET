@@ -41,9 +41,9 @@ export default function QuestionAnalysisView({ result, onBackToDashboard, title 
   const isRTLText = (text) => /[\u0600-\u06FF]/.test(text || '');
 
   return (
-    <div className="p-6 md:p-8 max-w-5xl mx-auto space-y-6">
+    <div className="p-4 sm:p-6 md:p-8 max-w-5xl mx-auto space-y-5 sm:space-y-6">
       {/* Header Bar */}
-      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4 border-b border-theme-border pb-6">
+      <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-3 sm:gap-4 border-b border-theme-border pb-4 sm:pb-6">
         <div>
           <button
             onClick={onBackToDashboard || (() => navigate('/'))}
@@ -52,7 +52,7 @@ export default function QuestionAnalysisView({ result, onBackToDashboard, title 
             <ArrowLeft size={14} />
             <span>Back to Dashboard</span>
           </button>
-          <h1 className="text-2xl sm:text-3xl font-serif text-theme-textPrimary font-semibold">
+          <h1 className="text-xl sm:text-2xl md:text-3xl font-serif text-theme-textPrimary font-semibold">
             {title || result?.title || 'Test Analysis & Review'}
           </h1>
           <p className="text-xs text-theme-textSecondary mt-1">
@@ -62,7 +62,7 @@ export default function QuestionAnalysisView({ result, onBackToDashboard, title 
         </div>
 
         {/* View Switch: Analysis Tab vs Summary */}
-        <div className="flex items-center bg-theme-surface border border-theme-border rounded-lg p-1 text-xs font-medium">
+        <div className="flex items-center bg-theme-surface border border-theme-border rounded-lg p-1 text-xs font-medium self-start sm:self-auto">
           <button
             onClick={() => setActiveTab('analysis')}
             className={`px-3 py-1.5 rounded-md transition-colors flex items-center space-x-1.5 ${activeTab === 'analysis' ? 'bg-theme-primary text-theme-textPrimary font-semibold' : 'text-theme-textSecondary hover:text-theme-textPrimary'}`}
@@ -75,37 +75,37 @@ export default function QuestionAnalysisView({ result, onBackToDashboard, title 
             className={`px-3 py-1.5 rounded-md transition-colors flex items-center space-x-1.5 ${activeTab === 'summary' ? 'bg-theme-primary text-theme-textPrimary font-semibold' : 'text-theme-textSecondary hover:text-theme-textPrimary'}`}
           >
             <BarChart2 size={14} />
-            <span>Scorecard & Metrics</span>
+            <span>Scorecard</span>
           </button>
         </div>
       </div>
 
       {/* Top Metric Cards Bar */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-4">
-        <div className="bg-theme-surface border border-theme-border rounded-xl p-4">
-          <p className="text-xs uppercase tracking-wider text-theme-textSecondary">Score</p>
-          <p className="text-2xl font-serif font-semibold text-theme-textPrimary mt-1">
-            {result?.score} <span className="text-sm font-normal text-theme-textSecondary">/ {result?.max_score}</span>
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-2.5 sm:gap-4">
+        <div className="bg-theme-surface border border-theme-border rounded-xl p-3 sm:p-4">
+          <p className="text-[11px] sm:text-xs uppercase tracking-wider text-theme-textSecondary">Score</p>
+          <p className="text-xl sm:text-2xl font-serif font-semibold text-theme-textPrimary mt-1">
+            {result?.score} <span className="text-xs sm:text-sm font-normal text-theme-textSecondary">/ {result?.max_score}</span>
           </p>
         </div>
 
-        <div className="bg-theme-surface border border-theme-border rounded-xl p-4">
-          <p className="text-xs uppercase tracking-wider text-theme-textSecondary">Accuracy</p>
-          <p className="text-2xl font-serif font-semibold text-theme-textPrimary mt-1">
+        <div className="bg-theme-surface border border-theme-border rounded-xl p-3 sm:p-4">
+          <p className="text-[11px] sm:text-xs uppercase tracking-wider text-theme-textSecondary">Accuracy</p>
+          <p className="text-xl sm:text-2xl font-serif font-semibold text-theme-textPrimary mt-1">
             {accuracy}%
           </p>
         </div>
 
-        <div className="bg-[#F2F8F0] border border-[#CDE3CB] rounded-xl p-4">
-          <p className="text-xs uppercase tracking-wider text-[#355B2E]">Right (Correct)</p>
-          <p className="text-2xl font-serif font-semibold text-[#2D5226] mt-1">
+        <div className="bg-[#F2F8F0] border border-[#CDE3CB] rounded-xl p-3 sm:p-4">
+          <p className="text-[11px] sm:text-xs uppercase tracking-wider text-[#355B2E]">Right (Correct)</p>
+          <p className="text-xl sm:text-2xl font-serif font-semibold text-[#2D5226] mt-1">
             {correctCount}
           </p>
         </div>
 
-        <div className="bg-[#FDF0ED] border border-[#F4CCC6] rounded-xl p-4">
-          <p className="text-xs uppercase tracking-wider text-[#8A3328]">Wrong (Incorrect)</p>
-          <p className="text-2xl font-serif font-semibold text-[#802D22] mt-1">
+        <div className="bg-[#FDF0ED] border border-[#F4CCC6] rounded-xl p-3 sm:p-4">
+          <p className="text-[11px] sm:text-xs uppercase tracking-wider text-[#8A3328]">Wrong (Incorrect)</p>
+          <p className="text-xl sm:text-2xl font-serif font-semibold text-[#802D22] mt-1">
             {incorrectCount}
           </p>
         </div>
@@ -336,15 +336,15 @@ export default function QuestionAnalysisView({ result, onBackToDashboard, title 
                             <div
                               key={key}
                               dir={isRtl ? 'rtl' : 'ltr'}
-                              className={`p-3.5 rounded-lg border flex items-center justify-between transition-colors ${isRtl ? 'flex-row-reverse text-right' : 'text-left'} ${optionStyle}`}
+                              className={`p-3 sm:p-3.5 rounded-lg border flex flex-col sm:flex-row sm:items-center justify-between gap-2 transition-colors ${isRtl ? 'text-right' : 'text-left'} ${optionStyle}`}
                             >
-                              <div className={`flex items-start space-x-3 ${isRtl ? 'space-x-reverse' : ''}`}>
+                              <div className={`flex items-start space-x-2.5 sm:space-x-3 ${isRtl ? 'space-x-reverse' : ''}`}>
                                 <div className={`flex-shrink-0 w-6 h-6 rounded-full border text-xs flex items-center justify-center font-mono ${isCorrectOption ? 'border-[#355B2E] bg-[#355B2E] text-white' : (isUserChoice ? 'border-[#802D22] bg-[#802D22] text-white' : 'border-theme-border bg-theme-surface text-theme-textSecondary')}`}>
                                   {key}
                                 </div>
-                                <span className="text-sm pt-0.5">{optText}</span>
+                                <span className="text-xs sm:text-sm pt-0.5 leading-snug">{optText}</span>
                               </div>
-                              {badge && <div className={isRtl ? 'mr-3' : 'ml-3'}>{badge}</div>}
+                              {badge && <div className={`flex-shrink-0 ${isRtl ? 'sm:mr-3' : 'sm:ml-3'} self-end sm:self-center`}>{badge}</div>}
                             </div>
                           );
                         })}
@@ -368,15 +368,15 @@ export default function QuestionAnalysisView({ result, onBackToDashboard, title 
 
           {/* FOCUS VIEW (ONE QUESTION AT A TIME) */}
           {viewMode === 'focus' && questions.length > 0 && (
-            <div className="bg-theme-surface border border-theme-border rounded-xl p-6">
+            <div className="bg-theme-surface border border-theme-border rounded-xl p-4 sm:p-6">
               {(() => {
                 const q = questions[focusedIndex] || questions[0];
                 const isRtl = isRTLText(q.question_text);
 
                 return (
                   <div>
-                    <div className="flex justify-between items-center pb-4 mb-4 border-b border-theme-border">
-                      <span className="font-serif font-semibold text-theme-textPrimary">
+                    <div className="flex flex-wrap justify-between items-center gap-2 pb-3 sm:pb-4 mb-4 border-b border-theme-border">
+                      <span className="font-serif font-semibold text-theme-textPrimary text-sm sm:text-base">
                         Question {focusedIndex + 1} of {questions.length} ({q.subject_name || q.subject})
                       </span>
                       <div>
@@ -390,11 +390,11 @@ export default function QuestionAnalysisView({ result, onBackToDashboard, title 
                       </div>
                     </div>
 
-                    <p dir={isRtl ? 'rtl' : 'ltr'} className={`text-lg text-theme-textPrimary mb-6 whitespace-pre-wrap leading-relaxed ${isRtl ? 'text-right font-serif' : ''}`}>
+                    <p dir={isRtl ? 'rtl' : 'ltr'} className={`text-base sm:text-lg text-theme-textPrimary mb-5 sm:mb-6 whitespace-pre-wrap leading-relaxed ${isRtl ? 'text-right font-serif' : ''}`}>
                       {q.question_text}
                     </p>
 
-                    <div className="space-y-3 mb-6">
+                    <div className="space-y-2.5 sm:space-y-3 mb-6">
                       {Object.keys(q.options || {}).map((key) => {
                         const optKey = parseInt(key);
                         const optText = q.options[key];
@@ -407,36 +407,36 @@ export default function QuestionAnalysisView({ result, onBackToDashboard, title 
                         else if (isCorrectOption) style = 'border-[#B4DCB0] bg-[#F2F8F0] text-[#2D5226] font-medium';
 
                         return (
-                          <div key={key} dir={isRtl ? 'rtl' : 'ltr'} className={`p-4 rounded-lg border flex items-center justify-between ${style}`}>
-                            <div className="flex items-center space-x-3">
-                              <span className="w-6 h-6 rounded-full border border-current flex items-center justify-center text-xs">{key}</span>
-                              <span className="text-sm">{optText}</span>
+                          <div key={key} dir={isRtl ? 'rtl' : 'ltr'} className={`p-3 sm:p-4 rounded-lg border flex flex-col sm:flex-row sm:items-center justify-between gap-2 ${style}`}>
+                            <div className="flex items-start space-x-2.5 sm:space-x-3">
+                              <span className="w-6 h-6 rounded-full border border-current flex-shrink-0 flex items-center justify-center text-xs font-mono">{key}</span>
+                              <span className="text-xs sm:text-sm pt-0.5">{optText}</span>
                             </div>
-                            {isUserChoice && isCorrectOption && <span className="text-xs text-[#24471D] font-semibold">Your Answer (Correct)</span>}
-                            {isUserChoice && !isCorrectOption && <span className="text-xs text-[#78241B] font-semibold">Your Choice (Incorrect)</span>}
-                            {!isUserChoice && isCorrectOption && <span className="text-xs text-[#2D5226] font-semibold">Correct Answer</span>}
+                            {isUserChoice && isCorrectOption && <span className="text-xs text-[#24471D] font-semibold self-end sm:self-center">Your Answer (Correct)</span>}
+                            {isUserChoice && !isCorrectOption && <span className="text-xs text-[#78241B] font-semibold self-end sm:self-center">Your Choice (Incorrect)</span>}
+                            {!isUserChoice && isCorrectOption && <span className="text-xs text-[#2D5226] font-semibold self-end sm:self-center">Correct Answer</span>}
                           </div>
                         );
                       })}
                     </div>
 
-                    <div className="flex justify-between items-center pt-4 border-t border-theme-border">
+                    <div className="flex flex-wrap justify-between items-center gap-2 pt-4 border-t border-theme-border">
                       <button
                         onClick={() => setFocusedIndex(prev => Math.max(0, prev - 1))}
                         disabled={focusedIndex === 0}
-                        className="px-4 py-2 border border-theme-border rounded-lg text-xs font-medium text-theme-textSecondary disabled:opacity-40 hover:bg-theme-background"
+                        className="px-3.5 sm:px-4 py-2 border border-theme-border rounded-lg text-xs font-medium text-theme-textSecondary disabled:opacity-40 hover:bg-theme-background"
                       >
-                        &larr; Previous Question
+                        &larr; Prev
                       </button>
-                      <span className="text-xs text-theme-textSecondary">
+                      <span className="text-xs text-theme-textSecondary hidden sm:inline">
                         Use the question navigator above to jump to any question
                       </span>
                       <button
                         onClick={() => setFocusedIndex(prev => Math.min(questions.length - 1, prev + 1))}
                         disabled={focusedIndex === questions.length - 1}
-                        className="px-4 py-2 bg-theme-primary text-theme-textPrimary rounded-lg text-xs font-medium disabled:opacity-40 hover:opacity-90"
+                        className="px-3.5 sm:px-4 py-2 bg-theme-primary text-theme-textPrimary rounded-lg text-xs font-medium disabled:opacity-40 hover:opacity-90 font-semibold"
                       >
-                        Next Question &rarr;
+                        Next &rarr;
                       </button>
                     </div>
                   </div>

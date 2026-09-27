@@ -89,22 +89,22 @@ export default function Dashboard() {
   const subjectList = Object.values(subjectsMap);
 
   return (
-    <div className="p-6 md:p-8 max-w-6xl mx-auto space-y-8">
+    <div className="p-4 sm:p-6 md:p-8 max-w-6xl mx-auto space-y-6 sm:space-y-8">
       {/* Top Welcome / Auth Banner */}
-      <div className="bg-theme-surface border border-theme-border rounded-xl p-6 flex flex-col md:flex-row md:items-center justify-between gap-4">
+      <div className="bg-theme-surface border border-theme-border rounded-xl p-4 sm:p-6 flex flex-col md:flex-row md:items-center justify-between gap-4">
         <div>
-          <div className="flex items-center space-x-2">
-            <h1 className="text-2xl sm:text-3xl font-serif text-theme-textPrimary font-semibold">
+          <div className="flex flex-wrap items-center gap-2">
+            <h1 className="text-xl sm:text-2xl md:text-3xl font-serif text-theme-textPrimary font-semibold">
               {user ? `Welcome, ${user.username}` : 'Exam Preparation Dashboard'}
             </h1>
             {user && (
-              <span className="text-xs px-2.5 py-0.5 rounded-full bg-[#EAF4E8] text-[#24471D] border border-[#B7CDB0] font-medium flex items-center space-x-1">
+              <span className="text-[11px] sm:text-xs px-2.5 py-0.5 rounded-full bg-[#EAF4E8] text-[#24471D] border border-[#B7CDB0] font-medium flex items-center space-x-1">
                 <UserCheck size={12} />
                 <span>Active Account</span>
               </span>
             )}
           </div>
-          <p className="text-xs text-theme-textSecondary mt-1">
+          <p className="text-xs text-theme-textSecondary mt-1 leading-relaxed">
             {user 
               ? 'Your performance metrics, subject strengths, and complete test history are synced to your account.'
               : 'You are currently in Guest Mode. Sign in or register to sync your test history and lifetime progress across devices.'
@@ -112,7 +112,7 @@ export default function Dashboard() {
           </p>
         </div>
 
-        <div className="flex items-center space-x-3">
+        <div className="flex items-center space-x-3 self-start md:self-center">
           {!user ? (
             <button
               onClick={() => setAuthModalOpen(true)}
@@ -133,7 +133,7 @@ export default function Dashboard() {
 
       {/* Active Ongoing Test Banner */}
       {activeSession && (
-        <div className="bg-[#FAF4ED] border border-[#F2D9B1] rounded-xl p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+        <div className="bg-[#FAF4ED] border border-[#F2D9B1] rounded-xl p-4 sm:p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div className="space-y-1">
             <div className="flex items-center space-x-2">
               <span className="w-2.5 h-2.5 rounded-full bg-[#D48B38] animate-pulse"></span>
@@ -146,11 +146,11 @@ export default function Dashboard() {
                 </span>
               )}
             </div>
-            <h3 className="font-serif font-semibold text-theme-textPrimary text-base">
+            <h3 className="font-serif font-semibold text-theme-textPrimary text-base sm:text-lg">
               {activeSession.title}
             </h3>
             <p className="text-xs text-theme-textSecondary flex items-center space-x-2">
-              <Clock size={13} className="text-theme-textSecondary" />
+              <Clock size={13} className="text-theme-textSecondary flex-shrink-0" />
               <span>
                 {formatSeconds(activeSession.remaining_seconds)} remaining
                 {activeSession.can_pause ? ' • Timer can be paused' : ' • Timer runs continuously'}
@@ -160,7 +160,7 @@ export default function Dashboard() {
 
           <Link
             to={`/test/${activeSession.attempt_id}`}
-            className="px-4 py-2.5 bg-theme-primary text-theme-textPrimary rounded-lg text-xs font-semibold hover:opacity-90 transition-opacity border border-theme-primary/40 flex items-center space-x-1.5 self-start sm:self-center whitespace-nowrap"
+            className="w-full sm:w-auto text-center px-4 py-2.5 bg-theme-primary text-theme-textPrimary rounded-lg text-xs font-semibold hover:opacity-90 transition-opacity border border-theme-primary/40 flex items-center justify-center space-x-1.5 whitespace-nowrap"
           >
             <span>Resume Test Now</span>
             <ArrowRight size={14} />
@@ -170,24 +170,24 @@ export default function Dashboard() {
 
       {!hasTests ? (
         /* Empty State */
-        <div className="bg-theme-surface border border-theme-border rounded-xl p-12 text-center flex flex-col items-center justify-center">
-          <div className="w-16 h-16 rounded-full bg-theme-background border border-theme-border flex items-center justify-center mb-4 text-theme-primary">
-            <Activity size={32} />
+        <div className="bg-theme-surface border border-theme-border rounded-xl p-6 sm:p-12 text-center flex flex-col items-center justify-center">
+          <div className="w-14 h-14 sm:w-16 sm:h-16 rounded-full bg-theme-background border border-theme-border flex items-center justify-center mb-4 text-theme-primary">
+            <Activity size={28} />
           </div>
-          <h2 className="text-xl font-serif font-medium text-theme-textPrimary mb-2">No tests recorded yet</h2>
-          <p className="text-xs text-theme-textSecondary max-w-md mb-6">
+          <h2 className="text-lg sm:text-xl font-serif font-medium text-theme-textPrimary mb-2">No tests recorded yet</h2>
+          <p className="text-xs text-theme-textSecondary max-w-md mb-6 leading-relaxed">
             Begin your preparation by taking a focused subject-wise practice test or a full-length comprehensive mock. Your accuracy, pacing, and subject diagnostics will appear here automatically.
           </p>
-          <div className="flex flex-wrap gap-3 justify-center">
+          <div className="flex flex-col sm:flex-row gap-3 w-full sm:w-auto justify-center">
             <Link 
               to="/practice" 
-              className="bg-theme-primary text-theme-textPrimary px-5 py-2.5 rounded-lg text-xs font-semibold hover:opacity-90 transition-opacity border border-theme-primary/40"
+              className="bg-theme-primary text-theme-textPrimary px-5 py-2.5 rounded-lg text-xs font-semibold hover:opacity-90 transition-opacity border border-theme-primary/40 text-center"
             >
               Take Subject Practice
             </Link>
             <Link 
               to="/full-mock" 
-              className="bg-theme-tertiary text-theme-textPrimary px-5 py-2.5 rounded-lg text-xs font-semibold hover:opacity-90 transition-opacity border border-theme-tertiary/40"
+              className="bg-theme-tertiary text-theme-textPrimary px-5 py-2.5 rounded-lg text-xs font-semibold hover:opacity-90 transition-opacity border border-theme-tertiary/40 text-center"
             >
               Start Full Length Mock
             </Link>
@@ -195,14 +195,14 @@ export default function Dashboard() {
         </div>
       ) : (
         <>
-          {/* Top Key Metrics Grid */}
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            <div className="bg-theme-surface border border-theme-border rounded-xl p-5">
+          {/* Top Key Metrics Grid: 1 col on mobile, 2 col on tablet, 4 on desktop */}
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3 sm:gap-4">
+            <div className="bg-theme-surface border border-theme-border rounded-xl p-4 sm:p-5">
               <div className="flex items-center justify-between text-theme-textSecondary mb-2">
-                <span className="text-xs uppercase tracking-wider">Overall Accuracy</span>
-                <Target size={16} className="text-theme-primary" />
+                <span className="text-[11px] sm:text-xs uppercase tracking-wider font-semibold">Overall Accuracy</span>
+                <Target size={16} className="text-theme-primary flex-shrink-0" />
               </div>
-              <p className="text-3xl font-serif font-semibold text-theme-textPrimary">
+              <p className="text-2xl sm:text-3xl font-serif font-semibold text-theme-textPrimary">
                 {summary.overall_accuracy}%
               </p>
               <p className="text-[11px] text-theme-textSecondary mt-1">
@@ -210,12 +210,12 @@ export default function Dashboard() {
               </p>
             </div>
 
-            <div className="bg-theme-surface border border-theme-border rounded-xl p-5">
+            <div className="bg-theme-surface border border-theme-border rounded-xl p-4 sm:p-5">
               <div className="flex items-center justify-between text-theme-textSecondary mb-2">
-                <span className="text-xs uppercase tracking-wider">Tests Completed</span>
-                <CheckCircle size={16} className="text-[#355B2E]" />
+                <span className="text-[11px] sm:text-xs uppercase tracking-wider font-semibold">Tests Completed</span>
+                <CheckCircle size={16} className="text-[#355B2E] flex-shrink-0" />
               </div>
-              <p className="text-3xl font-serif font-semibold text-theme-textPrimary">
+              <p className="text-2xl sm:text-3xl font-serif font-semibold text-theme-textPrimary">
                 {summary.total_tests_taken}
               </p>
               <p className="text-[11px] text-theme-textSecondary mt-1">
@@ -223,12 +223,12 @@ export default function Dashboard() {
               </p>
             </div>
 
-            <div className="bg-theme-surface border border-theme-border rounded-xl p-5">
+            <div className="bg-theme-surface border border-theme-border rounded-xl p-4 sm:p-5">
               <div className="flex items-center justify-between text-theme-textSecondary mb-2">
-                <span className="text-xs uppercase tracking-wider">Total Questions</span>
-                <BookOpen size={16} className="text-theme-secondary" />
+                <span className="text-[11px] sm:text-xs uppercase tracking-wider font-semibold">Total Questions</span>
+                <BookOpen size={16} className="text-theme-secondary flex-shrink-0" />
               </div>
-              <p className="text-3xl font-serif font-semibold text-theme-textPrimary">
+              <p className="text-2xl sm:text-3xl font-serif font-semibold text-theme-textPrimary">
                 {summary.total_correct} <span className="text-sm font-normal text-theme-textSecondary">/ {summary.total_questions_attempted}</span>
               </p>
               <p className="text-[11px] text-theme-textSecondary mt-1">
@@ -236,12 +236,12 @@ export default function Dashboard() {
               </p>
             </div>
 
-            <div className="bg-theme-surface border border-theme-border rounded-xl p-5">
+            <div className="bg-theme-surface border border-theme-border rounded-xl p-4 sm:p-5">
               <div className="flex items-center justify-between text-theme-textSecondary mb-2">
-                <span className="text-xs uppercase tracking-wider">Average Pacing</span>
-                <Clock size={16} className="text-theme-tertiary" />
+                <span className="text-[11px] sm:text-xs uppercase tracking-wider font-semibold">Average Pacing</span>
+                <Clock size={16} className="text-theme-tertiary flex-shrink-0" />
               </div>
-              <p className="text-3xl font-serif font-semibold text-theme-textPrimary">
+              <p className="text-2xl sm:text-3xl font-serif font-semibold text-theme-textPrimary">
                 {summary.average_time_per_question > 0 ? `${summary.average_time_per_question}s` : '—'}
               </p>
               <p className="text-[11px] text-theme-textSecondary mt-1">

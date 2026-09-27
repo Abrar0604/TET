@@ -37,9 +37,9 @@ export default function FullLengthMock() {
   ];
 
   return (
-    <div className="p-6 md:p-8 max-w-4xl mx-auto space-y-6">
-      <div className="border-b border-theme-border pb-6">
-        <h1 className="text-2xl sm:text-3xl font-serif text-theme-textPrimary font-semibold">
+    <div className="p-4 sm:p-6 md:p-8 max-w-4xl mx-auto space-y-6">
+      <div className="border-b border-theme-border pb-4 sm:pb-6">
+        <h1 className="text-xl sm:text-2xl md:text-3xl font-serif text-theme-textPrimary font-semibold">
           Full-Length Mock Examination
         </h1>
         <p className="text-xs text-theme-textSecondary mt-1">
@@ -47,9 +47,9 @@ export default function FullLengthMock() {
         </p>
       </div>
       
-      <div className="bg-theme-surface border border-theme-border rounded-xl p-6 sm:p-8 max-w-2xl mx-auto shadow-sm space-y-6">
+      <div className="bg-theme-surface border border-theme-border rounded-xl p-4 sm:p-6 md:p-8 max-w-2xl mx-auto shadow-sm space-y-5 sm:space-y-6">
         <div>
-          <h2 className="text-xl font-serif font-semibold text-theme-textPrimary mb-1">
+          <h2 className="text-lg sm:text-xl font-serif font-semibold text-theme-textPrimary mb-1">
             Exam Overview & Instructions
           </h2>
           <p className="text-xs text-theme-textSecondary leading-relaxed">

@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { useParams, useNavigate, useLocation } from 'react-router-dom';
-import { Check, X, Bookmark, Clock, ArrowRight, ArrowLeft, Pause, Play, AlertCircle } from 'lucide-react';
+import { Check, X, Bookmark, Clock, ArrowRight, ArrowLeft, Pause, Play, AlertCircle, LayoutGrid } from 'lucide-react';
 import QuestionAnalysisView from './QuestionAnalysisView';
 import { useAuth } from '../context/AuthContext';
 
@@ -25,6 +25,7 @@ export default function TestScreen() {
   const [result, setResult] = useState(null);
   const [loading, setLoading] = useState(true);
   const [submitting, setSubmitting] = useState(false);
+  const [mobilePaletteOpen, setMobilePaletteOpen] = useState(false);
 
   // Autosave helper ref to avoid closures issues
   const answersRef = useRef(answers);
@@ -274,30 +275,79 @@ export default function TestScreen() {
   const isWarning = timeLeft <= 300; // 5 mins
   const isRtl = /[\u0600-\u06FF]/.test(currentQuestion.question_text || '');
 
+  const renderPaletteGrid = (onSelect) => (
+    <div className="grid grid-cols-5 gap-2">
+      {questions.map((q, idx) => {
+        const qId = q.question_id;
+        const hasAns = answers[currentSubject]?.[qId] !== undefined && answers[currentSubject]?.[qId] !== null;
+        const isMark = markedForReview[currentSubject]?.[qId];
+        
+        let bgColor = 'bg-theme-background border border-theme-border';
+        let textColor = 'text-theme-textSecondary';
+        
+        if (isMark) {
+          bgColor = 'bg-theme-tertiary border-transparent';
+          textColor = 'text-theme-textPrimary font-semibold';
+        } else if (hasAns) {
+          bgColor = 'bg-theme-success border-transparent';
+          textColor = 'text-theme-textPrimary font-semibold';
+        } else if (idx < currentQIndex) {
+          bgColor = 'bg-theme-error border-transparent';
+          textColor = 'text-theme-textPrimary';
+        }
+
+        const isCurrent = idx === currentQIndex;
+        
+        return (
+          <button
+            key={qId}
+            onClick={() => {
+              setCurrentQIndex(idx);
+              if (onSelect) onSelect();
+            }}
+            className={`aspect-square flex items-center justify-center rounded-md text-xs font-medium transition-all ${bgColor} ${textColor} ${isCurrent ? 'ring-2 ring-theme-textPrimary ring-offset-1' : ''}`}
+          >
+            {idx + 1}
+          </button>
+        );
+      })}
+    </div>
+  );
+
   return (
     <div className="flex flex-col h-full bg-theme-background">
       {/* Top Test Header Bar */}
-      <div className="bg-theme-surface border-b border-theme-border px-6 py-3.5 flex justify-between items-center flex-shrink-0">
+      <div className="bg-theme-surface border-b border-theme-border px-3 sm:px-6 py-2.5 sm:py-3.5 flex flex-wrap gap-2 justify-between items-center flex-shrink-0">
         {/* Subject Navigation Tabs */}
-        <div className="flex space-x-2 overflow-x-auto pb-1 sm:pb-0">
+        <div className="flex space-x-1.5 sm:space-x-2 overflow-x-auto pb-0.5 max-w-full sm:max-w-[65%] no-scrollbar">
           {subjects.map(sub => (
             <button 
               key={sub}
               onClick={() => { setCurrentSubject(sub); setCurrentQIndex(0); }}
-              className={`px-3.5 py-1.5 rounded-lg text-xs font-medium transition-colors whitespace-nowrap ${currentSubject === sub ? 'bg-theme-primary text-theme-textPrimary font-semibold' : 'bg-theme-background text-theme-textSecondary hover:bg-theme-border'}`}
+              className={`px-3 py-1.5 rounded-lg text-xs font-medium transition-colors whitespace-nowrap flex-shrink-0 ${currentSubject === sub ? 'bg-theme-primary text-theme-textPrimary font-semibold' : 'bg-theme-background text-theme-textSecondary hover:bg-theme-border'}`}
             >
               {sub}
             </button>
           ))}
         </div>
         
-        {/* Timer Display & Pause Control */}
-        <div className="flex items-center space-x-3">
+        {/* Right Header Actions: Mobile Palette, Pause & Timer Display */}
+        <div className="flex items-center space-x-2 sm:space-x-3 ml-auto">
+          {/* Mobile Palette Button */}
+          <button
+            onClick={() => setMobilePaletteOpen(true)}
+            className="md:hidden px-2.5 py-1.5 rounded-lg text-xs font-medium border border-theme-border bg-theme-background text-theme-textPrimary flex items-center space-x-1 hover:bg-theme-surface"
+            title="Open Question Palette"
+          >
+            <LayoutGrid size={13} />
+            <span>Grid ({currentQIndex + 1}/{questions.length})</span>
+          </button>
+
           {/* Pause Button (Subject-wise tests only) */}
           {canPause && (
             <button
               onClick={handleTogglePause}
-              className={`px-3 py-1.5 rounded-lg text-xs font-medium border flex items-center space-x-1.5 transition-colors ${
+              className={`px-2.5 sm:px-3 py-1.5 rounded-lg text-xs font-medium border flex items-center space-x-1.5 transition-colors ${
                 isPaused 
                   ? 'bg-theme-primary text-theme-textPrimary border-theme-primary font-semibold' 
                   : 'bg-theme-background text-theme-textSecondary border-theme-border hover:bg-theme-surface'
@@ -305,72 +355,73 @@ export default function TestScreen() {
               title={isPaused ? "Resume Timer" : "Pause Timer (Subject-wise only)"}
             >
               {isPaused ? <Play size={13} /> : <Pause size={13} />}
-              <span>{isPaused ? 'Resume Timer' : 'Pause Timer'}</span>
+              <span className="hidden sm:inline">{isPaused ? 'Resume Timer' : 'Pause Timer'}</span>
+              <span className="sm:hidden">{isPaused ? 'Resume' : 'Pause'}</span>
             </button>
           )}
 
           {/* Wall-Clock Countdown */}
-          <div className={`font-mono text-sm font-semibold px-3 py-1.5 rounded-lg flex items-center space-x-2 ${
+          <div className={`font-mono text-xs sm:text-sm font-semibold px-2.5 sm:px-3 py-1.5 rounded-lg flex items-center space-x-1.5 ${
             isPaused
               ? 'bg-theme-tertiary text-theme-textPrimary border border-theme-border'
               : (isWarning ? 'bg-theme-warning text-theme-textPrimary border border-theme-warning' : 'bg-theme-background text-theme-textSecondary border border-theme-border')
           }`}>
-            <Clock size={15} />
+            <Clock size={14} />
             <span>{formatTime(timeLeft)}</span>
-            {isPaused && <span className="text-[10px] uppercase font-sans font-bold ml-1 text-theme-textPrimary">(Paused)</span>}
+            {isPaused && <span className="text-[9px] uppercase font-sans font-bold ml-0.5 text-theme-textPrimary">(Paused)</span>}
           </div>
         </div>
       </div>
 
       {/* Paused Overlay Notice */}
       {isPaused && (
-        <div className="bg-[#FAF4ED] border-b border-[#F2D9B1] px-6 py-2.5 text-xs text-[#7A5B27] flex items-center justify-between">
-          <div className="flex items-center space-x-2">
+        <div className="bg-[#FAF4ED] border-b border-[#F2D9B1] px-4 sm:px-6 py-2 sm:py-2.5 text-xs text-[#7A5B27] flex items-center justify-between gap-2">
+          <div className="flex items-center space-x-2 min-w-0">
             <Pause size={14} className="flex-shrink-0" />
-            <span>Timer is paused. You can take a break or review your answers without losing time.</span>
+            <span className="truncate sm:whitespace-normal">Timer paused. Take a break without losing exam time.</span>
           </div>
           <button
             onClick={handleTogglePause}
-            className="px-2.5 py-1 bg-theme-primary text-theme-textPrimary rounded text-xs font-semibold hover:opacity-90"
+            className="px-2.5 py-1 bg-theme-primary text-theme-textPrimary rounded text-xs font-semibold hover:opacity-90 flex-shrink-0"
           >
-            Resume Timer
+            Resume
           </button>
         </div>
       )}
 
-      <div className="flex flex-1 overflow-hidden flex-col md:flex-row">
+      <div className="flex flex-1 overflow-hidden flex-col md:flex-row relative">
         {/* Main Question Workspace */}
-        <div className="flex-1 overflow-y-auto p-6 md:p-8 flex flex-col">
-          <div className="flex justify-between items-center mb-5">
-            <div className="flex items-center space-x-3">
-              <span className="text-sm font-serif font-semibold text-theme-textPrimary">
+        <div className="flex-1 overflow-y-auto p-4 sm:p-6 md:p-8 flex flex-col min-h-0">
+          <div className="flex flex-wrap justify-between items-center gap-2 mb-4 sm:mb-5">
+            <div className="flex items-center space-x-2 sm:space-x-3">
+              <span className="text-xs sm:text-sm font-serif font-semibold text-theme-textPrimary">
                 Question {currentQIndex + 1} of {questions.length} ({currentSubject})
               </span>
-              <span className="text-[11px] text-theme-textSecondary">
-                Autosaved to your session
+              <span className="text-[10px] sm:text-[11px] text-theme-textSecondary hidden xs:inline">
+                Autosaved
               </span>
             </div>
 
             <button 
               onClick={toggleReview}
-              className={`px-3 py-1 rounded-md text-xs font-medium transition-colors flex items-center space-x-1.5 ${isMarked ? 'bg-theme-tertiary text-theme-textPrimary font-semibold' : 'border border-theme-border text-theme-textSecondary hover:bg-theme-surface'}`}
+              className={`px-2.5 sm:px-3 py-1 rounded-md text-xs font-medium transition-colors flex items-center space-x-1.5 ${isMarked ? 'bg-theme-tertiary text-theme-textPrimary font-semibold' : 'border border-theme-border text-theme-textSecondary hover:bg-theme-surface'}`}
             >
               <Bookmark size={13} />
-              <span>{isMarked ? 'Marked for Review' : 'Mark for Review'}</span>
+              <span>{isMarked ? 'Marked' : 'Mark for Review'}</span>
             </button>
           </div>
           
           {/* Question Box */}
-          <div className="bg-theme-surface border border-theme-border rounded-xl p-6 mb-6 flex-1 shadow-sm">
+          <div className="bg-theme-surface border border-theme-border rounded-xl p-4 sm:p-6 mb-4 sm:mb-6 flex-1 shadow-sm">
             <p 
               dir={isRtl ? 'rtl' : 'ltr'} 
-              className={`text-base text-theme-textPrimary mb-6 leading-relaxed whitespace-pre-wrap ${isRtl ? 'text-right font-serif text-lg' : ''}`}
+              className={`text-sm sm:text-base text-theme-textPrimary mb-5 sm:mb-6 leading-relaxed whitespace-pre-wrap ${isRtl ? 'text-right font-serif text-base sm:text-lg' : ''}`}
             >
               {currentQuestion.question_text}
             </p>
             
             {/* Options */}
-            <div className="space-y-3">
+            <div className="space-y-2.5 sm:space-y-3">
               {Object.keys(currentQuestion.options || {}).map((key) => {
                 const optText = currentQuestion.options[key];
                 if (!optText) return null;
@@ -381,12 +432,12 @@ export default function TestScreen() {
                     key={key}
                     dir={isRtl ? 'rtl' : 'ltr'}
                     onClick={() => handleOptionSelect(parseInt(key))}
-                    className={`w-full p-3.5 rounded-lg border transition-colors flex items-center ${isRtl ? 'flex-row-reverse text-right space-x-reverse space-x-3' : 'text-left space-x-3'} ${isSelected ? 'border-theme-primary bg-[#F2F8F6]' : 'border-theme-border hover:bg-theme-background'}`}
+                    className={`w-full p-3 sm:p-3.5 rounded-lg border transition-colors flex items-center ${isRtl ? 'flex-row-reverse text-right space-x-reverse space-x-3' : 'text-left space-x-3'} ${isSelected ? 'border-theme-primary bg-[#F2F8F6]' : 'border-theme-border hover:bg-theme-background'}`}
                   >
                     <div className={`flex-shrink-0 w-6 h-6 rounded-full border flex items-center justify-center text-xs font-mono ${isSelected ? 'border-theme-primary bg-theme-primary text-theme-textPrimary font-semibold' : 'border-theme-textSecondary/40 text-theme-textSecondary'}`}>
                       {key}
                     </div>
-                    <span className={`text-sm flex-1 ${isSelected ? 'text-theme-textPrimary font-medium' : 'text-theme-textSecondary'}`}>
+                    <span className={`text-xs sm:text-sm flex-1 leading-snug ${isSelected ? 'text-theme-textPrimary font-medium' : 'text-theme-textSecondary'}`}>
                       {optText}
                     </span>
                   </button>
@@ -396,16 +447,16 @@ export default function TestScreen() {
           </div>
           
           {/* Bottom Action Controls */}
-          <div className="flex justify-between items-center mt-auto pt-4 border-t border-theme-border flex-shrink-0">
+          <div className="flex items-center justify-between gap-2 mt-auto pt-3 sm:pt-4 border-t border-theme-border flex-shrink-0">
             <button 
               onClick={() => setCurrentQIndex(prev => Math.max(0, prev - 1))}
               disabled={currentQIndex === 0}
-              className="px-4 py-2 border border-theme-border rounded-lg text-xs font-medium text-theme-textSecondary hover:bg-theme-surface disabled:opacity-40 transition-colors"
+              className="px-3 sm:px-4 py-2 border border-theme-border rounded-lg text-xs font-medium text-theme-textSecondary hover:bg-theme-surface disabled:opacity-40 transition-colors"
             >
-              &larr; Previous
+              &larr; <span className="hidden xs:inline">Previous</span>
             </button>
             
-            <div className="flex items-center space-x-3">
+            <div className="flex items-center space-x-2 sm:space-x-3">
               <button 
                 onClick={() => {
                   const updated = {
@@ -418,33 +469,33 @@ export default function TestScreen() {
                   setAnswers(updated);
                   triggerAutosave(updated, markedForReview);
                 }}
-                className="px-3.5 py-2 rounded-lg text-xs font-medium text-theme-textSecondary hover:bg-theme-surface border border-theme-border"
+                className="px-2.5 sm:px-3.5 py-2 rounded-lg text-xs font-medium text-theme-textSecondary hover:bg-theme-surface border border-theme-border"
               >
-                Clear Choice
+                Clear
               </button>
 
               {currentQIndex < questions.length - 1 ? (
                 <button 
                   onClick={() => setCurrentQIndex(prev => prev + 1)}
-                  className="px-5 py-2 rounded-lg text-xs font-medium bg-theme-primary text-theme-textPrimary hover:opacity-90 font-semibold"
+                  className="px-3.5 sm:px-5 py-2 rounded-lg text-xs font-medium bg-theme-primary text-theme-textPrimary hover:opacity-90 font-semibold"
                 >
-                  Save & Next &rarr;
+                  Next &rarr;
                 </button>
               ) : (
                 <button 
                   onClick={handleSubmit}
                   disabled={submitting}
-                  className="px-6 py-2 rounded-lg text-xs font-medium bg-[#8AA89E] text-white hover:opacity-90 font-semibold disabled:opacity-50"
+                  className="px-3.5 sm:px-6 py-2 rounded-lg text-xs font-medium bg-[#8AA89E] text-white hover:opacity-90 font-semibold disabled:opacity-50"
                 >
-                  {submitting ? 'Submitting...' : 'Submit Test & View Analysis'}
+                  {submitting ? 'Submitting...' : 'Submit Exam'}
                 </button>
               )}
             </div>
           </div>
         </div>
 
-        {/* Question Palette Sidebar */}
-        <div className="w-full md:w-72 bg-theme-surface border-t md:border-t-0 md:border-l border-theme-border flex flex-col flex-shrink-0 h-44 md:h-auto overflow-y-auto">
+        {/* Desktop Question Palette Sidebar */}
+        <aside className="hidden md:flex w-72 bg-theme-surface border-l border-theme-border flex-col flex-shrink-0 overflow-y-auto">
           <div className="p-4 border-b border-theme-border sticky top-0 bg-theme-surface z-10">
             <h3 className="font-serif text-xs font-semibold uppercase tracking-wider text-theme-textPrimary">
               Question Palette
@@ -457,38 +508,8 @@ export default function TestScreen() {
             </div>
           </div>
           
-          <div className="p-4 grid grid-cols-5 gap-2">
-            {questions.map((q, idx) => {
-              const qId = q.question_id;
-              const hasAns = answers[currentSubject]?.[qId] !== undefined && answers[currentSubject]?.[qId] !== null;
-              const isMark = markedForReview[currentSubject]?.[qId];
-              
-              let bgColor = 'bg-theme-background border border-theme-border';
-              let textColor = 'text-theme-textSecondary';
-              
-              if (isMark) {
-                bgColor = 'bg-theme-tertiary border-transparent';
-                textColor = 'text-theme-textPrimary font-semibold';
-              } else if (hasAns) {
-                bgColor = 'bg-theme-success border-transparent';
-                textColor = 'text-theme-textPrimary font-semibold';
-              } else if (idx < currentQIndex) {
-                bgColor = 'bg-theme-error border-transparent';
-                textColor = 'text-theme-textPrimary';
-              }
-
-              const isCurrent = idx === currentQIndex;
-              
-              return (
-                <button
-                  key={qId}
-                  onClick={() => setCurrentQIndex(idx)}
-                  className={`aspect-square flex items-center justify-center rounded-md text-xs font-medium transition-all ${bgColor} ${textColor} ${isCurrent ? 'ring-2 ring-theme-textPrimary ring-offset-1' : ''}`}
-                >
-                  {idx + 1}
-                </button>
-              );
-            })}
+          <div className="p-4 flex-1">
+            {renderPaletteGrid()}
           </div>
 
           <div className="p-4 mt-auto border-t border-theme-border space-y-2">
@@ -507,7 +528,70 @@ export default function TestScreen() {
               Save progress & exit to Dashboard
             </button>
           </div>
-        </div>
+        </aside>
+
+        {/* Mobile Palette Bottom Drawer */}
+        {mobilePaletteOpen && (
+          <div 
+            className="md:hidden fixed inset-0 z-50 bg-black/40 backdrop-blur-sm flex flex-col justify-end"
+            onClick={() => setMobilePaletteOpen(false)}
+          >
+            <div 
+              className="bg-theme-surface rounded-t-2xl border-t border-theme-border max-h-[80vh] flex flex-col p-4 shadow-2xl animate-fadeIn"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <div className="flex items-center justify-between pb-3 border-b border-theme-border">
+                <div>
+                  <h3 className="font-serif text-sm font-semibold text-theme-textPrimary">
+                    Question Palette ({currentSubject})
+                  </h3>
+                  <p className="text-[10px] text-theme-textSecondary">
+                    Tap any number to jump directly to that question
+                  </p>
+                </div>
+                <button
+                  onClick={() => setMobilePaletteOpen(false)}
+                  className="p-1 rounded-lg text-theme-textSecondary hover:text-theme-textPrimary"
+                >
+                  <X size={18} />
+                </button>
+              </div>
+
+              <div className="py-2.5 grid grid-cols-4 gap-1 text-[10px] text-theme-textSecondary border-b border-theme-border mb-3">
+                <div className="flex items-center space-x-1"><div className="w-2 h-2 rounded-sm bg-theme-background border border-theme-border"></div><span>Unvisited</span></div>
+                <div className="flex items-center space-x-1"><div className="w-2 h-2 rounded-sm bg-theme-error"></div><span>Skipped</span></div>
+                <div className="flex items-center space-x-1"><div className="w-2 h-2 rounded-sm bg-theme-success"></div><span>Answered</span></div>
+                <div className="flex items-center space-x-1"><div className="w-2 h-2 rounded-sm bg-theme-tertiary"></div><span>Marked</span></div>
+              </div>
+
+              <div className="overflow-y-auto flex-1 py-2">
+                {renderPaletteGrid(() => setMobilePaletteOpen(false))}
+              </div>
+
+              <div className="pt-3 border-t border-theme-border space-y-2 mt-2">
+                <button
+                  onClick={() => {
+                    setMobilePaletteOpen(false);
+                    handleSubmit();
+                  }}
+                  disabled={submitting}
+                  className="w-full py-2.5 rounded-lg bg-theme-primary text-theme-textPrimary text-xs font-semibold hover:opacity-90"
+                >
+                  {submitting ? 'Submitting...' : 'Finish & Submit Test'}
+                </button>
+                <button
+                  onClick={() => {
+                    setMobilePaletteOpen(false);
+                    navigate('/');
+                  }}
+                  className="w-full py-1 text-center text-xs text-theme-textSecondary"
+                >
+                  Exit to Dashboard
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

@@ -43,9 +43,9 @@ export default function SubjectTest() {
   };
 
   return (
-    <div className="p-6 md:p-8 max-w-4xl mx-auto space-y-6">
-      <div className="border-b border-theme-border pb-6">
-        <h1 className="text-2xl sm:text-3xl font-serif text-theme-textPrimary font-semibold">
+    <div className="p-4 sm:p-6 md:p-8 max-w-4xl mx-auto space-y-6">
+      <div className="border-b border-theme-border pb-4 sm:pb-6">
+        <h1 className="text-xl sm:text-2xl md:text-3xl font-serif text-theme-textPrimary font-semibold">
           Subject Practice
         </h1>
         <p className="text-xs text-theme-textSecondary mt-1">
@@ -54,7 +54,7 @@ export default function SubjectTest() {
       </div>
       
       {!selectedSubject ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
           {subjects.map(sub => (
             <button
               key={sub.code}
@@ -62,7 +62,7 @@ export default function SubjectTest() {
                 setSelectedSubject(sub);
                 setQuestionCount(Math.min(10, sub.total_questions));
               }}
-              className="bg-theme-surface border border-theme-border p-5 rounded-xl hover:border-theme-primary/80 transition-all text-left flex flex-col justify-between group shadow-sm"
+              className="bg-theme-surface border border-theme-border p-4 sm:p-5 rounded-xl hover:border-theme-primary/80 transition-all text-left flex flex-col justify-between group shadow-sm"
             >
               <div>
                 <div className="flex justify-between items-start mb-2">
@@ -73,11 +73,11 @@ export default function SubjectTest() {
                     {sub.total_questions} Questions
                   </span>
                 </div>
-                <h3 className="font-serif text-lg font-semibold text-theme-textPrimary mb-1">
+                <h3 className="font-serif text-base sm:text-lg font-semibold text-theme-textPrimary mb-1">
                   {sub.name}
                 </h3>
               </div>
-              <div className="pt-4 mt-2 border-t border-theme-border flex items-center justify-between text-xs text-theme-textSecondary group-hover:text-theme-textPrimary">
+              <div className="pt-3 sm:pt-4 mt-2 border-t border-theme-border flex items-center justify-between text-xs text-theme-textSecondary group-hover:text-theme-textPrimary">
                 <span>Start Practice</span>
                 <ArrowRight size={14} />
               </div>
@@ -85,7 +85,7 @@ export default function SubjectTest() {
           ))}
         </div>
       ) : (
-        <div className="bg-theme-surface border border-theme-border rounded-xl p-8 max-w-lg mx-auto shadow-sm">
+        <div className="bg-theme-surface border border-theme-border rounded-xl p-5 sm:p-8 max-w-lg mx-auto shadow-sm">
           <button 
             onClick={() => setSelectedSubject(null)} 
             className="inline-flex items-center space-x-1.5 text-xs text-theme-textSecondary hover:text-theme-textPrimary mb-6 transition-colors"
