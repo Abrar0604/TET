@@ -5,3 +5,5 @@ pydantic
 pyjwt
 bcrypt
 psycopg2-binary
+psycopg[binary]
+
