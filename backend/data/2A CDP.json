@@ -1,0 +1,6745 @@
+[
+  {
+    "question_id": 1,
+    "question_text": "2 Correct statement related to Development",
+    "options": {
+      "1": "Development is a narrow concept",
+      "2": "Development can be measured accurately",
+      "3": "Development is limited to certain age",
+      "4": "Development is an internal and integrated process"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 2,
+    "question_text": "3 The word “Psychology” is derived from the words of this language",
+    "options": {
+      "1": "Grece గ్రీస్",
+      "2": "Telugu తెలుగు",
+      "3": "Tamil తమిళం",
+      "4": "Hindi హందీ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 3,
+    "question_text": "4 The branch of Psychology concerned with the scientific study of teaching and learning process, is",
+    "options": {
+      "1": "Health Psychology అరోగయ భనోవిజ్ఞానశాసరం",
+      "2": "Educational Psychology విద్యయ భనోవిజ్ఞానశాసంర",
+      "3": "Animal Psychology జంత భనోవిజ్ఞానశాసరం",
+      "4": "Industrial Psychology పారిశ్రామిక్ భనోవిజ్ఞానశాసరం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 4,
+    "question_text": "5 This does not come under the scope of Educational Psychology",
+    "options": {
+      "1": "Emotional Development ఈద్వేగ వికాసం",
+      "2": "Personality మూరిిభతేం",
+      "3": "Financial Development అరిిక్ ఄభివృదిి",
+      "4": "Adjustment సరుిబాటు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 5,
+    "question_text": "6 Quantitative changes formed in human body is",
+    "options": {
+      "1": "Growth పెరుగుదల",
+      "2": "Learning ఄబయసన",
+      "3": "Personality మూరిిభతేం",
+      "4": "Attitude వైఖరి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 6,
+    "question_text": "7 The first psychological laboratory was established at",
+    "options": {
+      "1": "Lip Zig లీప్ జీగ్",
+      "2": "Delhi ఢిలీీ",
+      "3": "New york న్యయయార్ి",
+      "4": "Washington వాషంగటన్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 7,
+    "question_text": "8 Incorrect usage of Educational Psychology to teacher is",
+    "options": {
+      "1": "Understanding learner‟s needs",
+      "2": "Preparation of curriculum",
+      "3": "Getting promotion due to good impression at DEO",
+      "4": "Promoting mental health"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 8,
+    "question_text": "9 Development depends on",
+    "options": {
+      "1": "Only heredity కేవలం ఄనువంశిక్త",
+      "2": "Only environment కేవలం ఩రాయవయణం",
+      "3": "Product of heredity and environment",
+      "4": "Only intelligence కేవలం ప్రజా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 9,
+    "question_text": "10 „Behaviourist‟ among the following",
+    "options": {
+      "1": "Galton గాలటన్",
+      "2": "Watson వాటసన్",
+      "3": "Alport అల్ పోర్ట",
+      "4": "Dugdale డగ్ డేల్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 10,
+    "question_text": "11 Correct statement related to GROWTH",
+    "options": {
+      "1": "Growth is extensive",
+      "2": "Growth has no limitations",
+      "3": "Growth is a lifelong process",
+      "4": "Growth can measure accurately"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 11,
+    "question_text": "12 Yuerdon Boarding School was established by",
+    "options": {
+      "1": "Aristotle ఄరిసాటటిల్",
+      "2": "Rousseau రూసో",
+      "3": "Stanley Hall సాటన్లీహాల్",
+      "4": "Pestalozzi పెసాటలజి"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 12,
+    "question_text": "13 Father of Adolescence",
+    "options": {
+      "1": "Stanley Hall సాటన్లీహాల్",
+      "2": "Thorndike థాయన్డైక్",
+      "3": "Binet బినే",
+      "4": "Rousseau రూసో"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 13,
+    "question_text": "14 Father of Experimental Psychology",
+    "options": {
+      "1": "Skinner స్కినుర్",
+      "2": "Sigmund Freud స్కగమండ్ ఫ్రాయిడ్",
+      "3": "Wilhelm Wundt విల్ హెల్మ ఉంట్",
+      "4": "Erikson ఎరిక్సన్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 14,
+    "question_text": "15 Meaning of words psyche and logos",
+    "options": {
+      "1": "Science, School శాసరం, పాఠశాల",
+      "2": "Soul, Knowledge అతమ, జ్ఞానం",
+      "3": "Behaviour, Nature ప్రవయిన, సేభ్యవం",
+      "4": "Cognition, Mind సంజ్ఞానము, భనసుస"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 15,
+    "question_text": "16 “Development is the complex process of integrating different structures and functions,” is defined by",
+    "options": {
+      "1": "Skinner స్కినుర్",
+      "2": "Binet బినే",
+      "3": "Erikson ఎరిక్సన్",
+      "4": "Anderson అండయసన్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 16,
+    "question_text": "17 Development =  (maturation x A). Here A is",
+    "options": {
+      "1": "Learning ఄబయసనం",
+      "2": "Attitude వైఖరి",
+      "3": "Interest ఄభిరుచి",
+      "4": "Intelligence ప్రజా"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 17,
+    "question_text": "18 Father of Educational Psychology",
+    "options": {
+      "1": "Aristotle ఄరిసాటటిల్",
+      "2": "Thorndike థార్ు డైక్",
+      "3": "Stanley Hall సాటన్లీహాల్",
+      "4": "Binet బినే"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 18,
+    "question_text": "19 Gymnasia School was established by ‘ ’",
+    "options": {
+      "1": "Plato ప్లీటో",
+      "2": "Freud ఫ్రాయిడ్",
+      "3": "Piaget పయాజె",
+      "4": "Thorndike థార్ు డైక్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 19,
+    "question_text": "20 The slogan “Go back to nature” was given by",
+    "options": {
+      "1": "Thorndike థార్ు డైక్",
+      "2": "Rousseau రూసో",
+      "3": "Stanley Hall సాటన్లీ హాల్",
+      "4": "Froebel ఫ్రొబెల్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 20,
+    "question_text": "21 This is incorrect related to growth",
+    "options": {
+      "1": "Narrow Concept సంకుచితమైనది",
+      "2": "Quantitative ఩రిమాణాతమక్మైనది",
+      "3": "Lifelong process జీవిత఩యయంత ప్రక్రిమ",
+      "4": "Measured accurately క్చిితంగా కొలవగలం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 21,
+    "question_text": "22 If social development of an individual is poor, his mental, physical development may also be slow. This principle of development is",
+    "options": {
+      "1": "Development is cumulative",
+      "2": "Development is continuous",
+      "3": "Different aspects of development are interrelated",
+      "4": "Development is predictable"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 22,
+    "question_text": "23 Based on the height of a 10 year old boy, we can say the height of that boy at 20 years. The principle of development here is",
+    "options": {
+      "1": "Development is predictable",
+      "2": "Development is cumulative",
+      "3": "Development is continuous",
+      "4": "Principle of Cephalocaudal development"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 23,
+    "question_text": "24 Child cannot stand all of a suddenly. This principle of development is",
+    "options": {
+      "1": "Development is predictable",
+      "2": "Principle of Proximodistal",
+      "3": "Development is cumulative",
+      "4": "Development is continuous"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 24,
+    "question_text": "25 A child called all the ladies as mom and after sometime he limited that word only to his mother. This principle of development is",
+    "options": {
+      "1": "Development proceeds from general to specific",
+      "2": "Development is cumulative",
+      "3": "Development is continuous",
+      "4": "Development is predictable"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 25,
+    "question_text": "26 Development follows from head to foot. This principle of development is",
+    "options": {
+      "1": "Development is continuous",
+      "2": "Development is cumulative",
+      "3": "Principle of Proximodistal",
+      "4": "Principle of Cephalocaudal development"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 26,
+    "question_text": "27 Development doesn‟t happen at same pace among all individuals",
+    "options": {
+      "1": "Development has individual differences",
+      "2": "Development is continuous.",
+      "3": "Development is cumulative.",
+      "4": "Development is predictable."
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 27,
+    "question_text": "28 Development is from birth to death. The principle of development is",
+    "options": {
+      "1": "Development is a continuous process .",
+      "2": "Development is predictable .",
+      "3": "Development is cumulative .",
+      "4": "Different aspects of development are interrelated"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 28,
+    "question_text": ". 29 Boy first learns drawing a circle and after that learns drawing of a square. The principle of development is",
+    "options": {
+      "1": "Development follows an orderly sequence.",
+      "2": "Development has individual differences",
+      "3": "Development is continuous",
+      "4": "Development is cumulative"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 29,
+    "question_text": "30 A child called all the men as dad and after some time he limited that word only to his father. This principle of development is",
+    "options": {
+      "1": "Development is continuous",
+      "2": "Development proceeds from general to specific",
+      "3": "Development is cumulative",
+      "4": "Development is predictable"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 30,
+    "question_text": "31 A teacher has an opinion that, a student is good at studies in class 7 may obviously the topper in class 10. This principle of development is",
+    "options": {
+      "1": "Development is predictable",
+      "2": "Development is cumulative",
+      "3": "Development is continuous",
+      "4": "Development has individual differences"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 31,
+    "question_text": "32 A student with improper mental development also lags behind in moral development.",
+    "options": {
+      "1": "Development is continuous",
+      "2": "Development is predictable",
+      "3": "Different aspects of development are interrelated",
+      "4": "Development has individual differences"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 32,
+    "question_text": "33 Student A and B are studying in 8th class. Student A is good at Maths and Student B is good at Social Studies. This variation is supported by this principle of development",
+    "options": {
+      "1": "Development has individual differences",
+      "2": "Development follows a particular direction.",
+      "3": "Development is predictable",
+      "4": "Development is cumulative"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 33,
+    "question_text": "34 The sequence of Crawling  Sitting  Standing  Walking follows in all individuals. This principle of development is",
+    "options": {
+      "1": "Development is continuous",
+      "2": "Development is predictable",
+      "3": "Principle of Uniform Pattern",
+      "4": "Principle of Proximodistal"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 34,
+    "question_text": "35 A physically challenged child shows aggressive behaviour in some emotions. This principle of development is",
+    "options": {
+      "1": "Development is continuous",
+      "2": "Different aspects of development are interrelated",
+      "3": "Development is cumulative",
+      "4": "Development is predictable"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 35,
+    "question_text": "36 We see that an infant uses his shoulders and elbows first to reach an object and then uses his wrists and fingers. This principle of development is",
+    "options": {
+      "1": "Development is continuous",
+      "2": "Development is cumulative",
+      "3": "Principle of Cephalocaudal development",
+      "4": "Principle of Proximodistal"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 36,
+    "question_text": "37 Growth is rapid during infancy and childhood. Later it becomes slower. In adolescence it is rapid again. This principle of development is",
+    "options": {
+      "1": "Principle of Predictability",
+      "2": "Principle of Non-Uniform Pattern వికాసం ఄనిు దశలలో ఑కే",
+      "3": "Principle of Cephalocaudal development శియః పాద్యభిముఖ",
+      "4": "Principle of Cumulative development"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 37,
+    "question_text": "38 A girl who is singing very well in her childhood is appreciated and blessed to become a good singer in future by her teacher. This principle of development is",
+    "options": {
+      "1": "Development is cumulative",
+      "2": "Development is continuous",
+      "3": "Development is predictable",
+      "4": "Principle of Proximodistal development"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 38,
+    "question_text": "39 A mother is feeling bad finding her 1 year old son not being able to walk properly while her neighbour‟s 10months old boy is good at walking. This principle of development is",
+    "options": {
+      "1": "Development is cumulative",
+      "2": "Development is continuous",
+      "3": "Development is predictable",
+      "4": "Development has individual differences"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 39,
+    "question_text": "40 Development starts from the central part of the body. Then it spreads to outer parts of the body. This principle of development is",
+    "options": {
+      "1": "Development is predictable",
+      "2": "Development is cumulative",
+      "3": "Principle of Cephalocaudal development",
+      "4": "Principle of Proximodistal development"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 40,
+    "question_text": "41 A child starts crawling at 5 months while another child starts at 7 months. This principle of development is",
+    "options": {
+      "1": "Development is cumulative",
+      "2": "Development is continuous",
+      "3": "Development is predictable",
+      "4": "Development has individual differences"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 41,
+    "question_text": "42 A girl who is good at emotional development is also good at social relations. This principle of development is",
+    "options": {
+      "1": "Development is continuous",
+      "2": "Development is predictable",
+      "3": "Development is cumulative",
+      "4": "Different aspects of development are interrelated"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 44,
+    "question_text": "The person classified Human Developmental stages into 10",
+    "options": {
+      "1": "Hurlock",
+      "2": "Seashore",
+      "3": "Stanly Hall",
+      "4": "Jersild"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 45,
+    "question_text": "This stage is called as ‘Age of Exploration’",
+    "options": {
+      "1": "Early childhood -",
+      "2": "Late childhood -",
+      "3": "Puberty -",
+      "4": "Adolescence -"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 46,
+    "question_text": "The stage from birth to 2 weeks is",
+    "options": {
+      "1": "Pre natal stage -",
+      "2": "Neonatal stage -",
+      "3": "Puberty",
+      "4": "Adolescence -"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 47,
+    "question_text": "The stage from the ending of 2 weeks to 2 years is",
+    "options": {
+      "1": "Infancy -",
+      "2": "Old age -",
+      "3": "Middle age -",
+      "4": "Adolescence -"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 48,
+    "question_text": "Developmental stage from 2 years to 6 years is",
+    "options": {
+      "1": "Neonatal stage నవజ్ఞత శిశువు దశ",
+      "2": "Early childhood పూయే బాలయ దశ",
+      "3": "Adulthood వయోజన దశ",
+      "4": "Old age వృద్యీ఩యం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 47,
+    "question_text": "Developmental stage from 6 years to 10 12 years is 49. to",
+    "options": {
+      "1": "",
+      "2": "Infancy",
+      "3": "Late childhood",
+      "4": "Adulthood"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 48,
+    "question_text": "Developmental stage from 10 or 12 years to 13 or 14 years is 50.",
+    "options": {
+      "1": "",
+      "2": "Middle age",
+      "3": "Puberty",
+      "4": "Old age"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 49,
+    "question_text": "Developmental stage from 18 years to 40 years is 51.",
+    "options": {
+      "1": "Old age -",
+      "2": "Infancy",
+      "3": "Adolescence -",
+      "4": "Adulthood -"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 52,
+    "question_text": "Developmental stage from 40 years to 60 years is",
+    "options": {
+      "1": "Middle age",
+      "2": "Adolescence",
+      "3": "Infancy",
+      "4": "Old Age"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 53,
+    "question_text": "Developmental stage 60 afterwards is",
+    "options": {
+      "1": "Middle age",
+      "2": "Adulthood",
+      "3": "Adolescence",
+      "4": "Old age"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 54,
+    "question_text": "This stage is called ‘Gang age’",
+    "options": {
+      "1": "Infancy",
+      "2": "Early childhood",
+      "3": "",
+      "4": "Adolescence"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 55,
+    "question_text": "The word ‘Pubertas’ means",
+    "options": {
+      "1": "Age of manhood",
+      "2": "Age of childhood",
+      "3": "Age of play",
+      "4": "Age of questioning"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 56,
+    "question_text": "This stage is called as „Period of Overlapping‟",
+    "options": {
+      "1": "Pre-natal stage",
+      "2": "Infancy",
+      "3": "Adulthood",
+      "4": "Puberty"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 57,
+    "question_text": "This is not the related to Neonatal stage",
+    "options": {
+      "1": "Period of first two weeks of child",
+      "2": "It lasts up to the detachment of umbilical cord.",
+      "3": "Takes 14 to 17 hours a day for sleeping.",
+      "4": "Language development is very high at this stage."
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 58,
+    "question_text": "This is not the characteristic of Infancy",
+    "options": {
+      "1": "Period from 2 weeks to 2 years",
+      "2": "Called as the age of questioning",
+      "3": "Period of rapid growth and development",
+      "4": "First pair of milk teeth arises at this stage"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 59,
+    "question_text": "The word „Puberty‟ is derived from this language",
+    "options": {
+      "1": "Urdu",
+      "2": "Kannada",
+      "3": "Tamil",
+      "4": "Latin"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 60,
+    "question_text": "This is the characteristic of Adulthood",
+    "options": {
+      "1": "Called as Gang age",
+      "2": "Increased responsibilities of life’s activities",
+      "3": "Period of rapid growth and development",
+      "4": "Takes 15 to 20 hours a day for sleeping"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 62,
+    "question_text": "Secondary sexual characters are seen at this stage",
+    "options": {
+      "1": "Infancy",
+      "2": "Early childhood",
+      "3": "Puberty",
+      "4": "Adulthood"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 63,
+    "question_text": "In human beings, nine months gestation period inside mother‟s womb is called",
+    "options": {
+      "1": "Pre-natal period",
+      "2": "Neonatal stage",
+      "3": "Early childhood",
+      "4": "Adolescence"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 64,
+    "question_text": "At this stage of cognitive Development of Piaget‟s, child believes that non-living things as living things",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre –Operational Stage",
+      "3": "Concrete Operational Stage",
+      "4": "Formal Operational"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 65,
+    "question_text": "The characteristics like scientific thinking, Formation of Hypothesis, Deductive Reasoning are seen in this stage of Cognitive Development stages of Piaget.",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre –Operational Stage",
+      "3": "Concrete Operational Stage",
+      "4": "Formal Operational"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 66,
+    "question_text": "Number of Cognitive developmental stages according to Piaget",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 67,
+    "question_text": "This term is not related to Piaget",
+    "options": {
+      "1": "Incorporation",
+      "2": "Accommodation",
+      "3": "Schemata",
+      "4": "Super ego"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 68,
+    "question_text": "Schemata means",
+    "options": {
+      "1": "Cognitive structures -",
+      "2": "Controlling emotions -",
+      "3": "Digital resource -",
+      "4": "Personality structures -"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 69,
+    "question_text": "At this stage of Cognitive Development, child thinks in Cause and Effect Relation",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre –Operational Stage",
+      "3": "Concrete Operational Stage",
+      "4": "Formal Operational"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 67,
+    "question_text": "The last stage in Cognitive Developmental stages is 70.",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre –Operational Stage",
+      "3": "Concrete Operational Stage",
+      "4": "Formal Operational"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 68,
+    "question_text": "The first stage in Cognitive development stages is 71.",
+    "options": {
+      "1": "Formal Operational",
+      "2": "Concrete Operational Stage",
+      "3": "Sensory Motor Stage",
+      "4": "Pre –Operational Stage"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 69,
+    "question_text": "Children do not know the object permanency in the initial stage of 72. Piaget‟s Cognitive Development Theory",
+    "options": {
+      "1": "Pre –Operational Stage",
+      "2": "Sensory Motor Stage",
+      "3": "Concrete Operational Stage",
+      "4": "Formal Operational"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 73,
+    "question_text": "Piaget belongs to this country",
+    "options": {
+      "1": "India",
+      "2": "Sri Lanka",
+      "3": "America",
+      "4": "Switzerland"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 74,
+    "question_text": "Stages of Cognitive Development was developed by",
+    "options": {
+      "1": "Skinner",
+      "2": "Erikson",
+      "3": "Jean Piaget",
+      "4": "Thorndike"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 75,
+    "question_text": "Adjustment to new situations is",
+    "options": {
+      "1": "Attitude",
+      "2": "Intelligence",
+      "3": "",
+      "4": "Accommodation"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 76,
+    "question_text": "The process by which the individual knows himself and the environment is",
+    "options": {
+      "1": "Attitude",
+      "2": "Cognition",
+      "3": "",
+      "4": "Personality"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 77,
+    "question_text": "Understanding new situations is",
+    "options": {
+      "1": "Incorporation",
+      "2": "Learning",
+      "3": "Interest",
+      "4": "Motivation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 78,
+    "question_text": "Piaget‟s Cognitive Development stage from birth to 2 years",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre – Operational Stage",
+      "3": "Concrete-Operational Stage",
+      "4": ""
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 79,
+    "question_text": "Piaget’s Cognitive Development stage from 2 years to 7 years is",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre – Operational Stage",
+      "3": "Concrete -Operational Stage",
+      "4": ""
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 80,
+    "question_text": "Piaget’s Cognitive Development stage from 7 years to 11 years is",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre – Operational Stage",
+      "3": "Concrete -Operational Stage",
+      "4": ""
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 81,
+    "question_text": "Piaget’s Cognitive Development stage from 11 years to 15 16 years is or",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre – Operational Stage",
+      "3": "Concrete -Operational Stage",
+      "4": ""
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 82,
+    "question_text": "At this stage of Piaget’s Cognitive Development stages, the child develops problem solving ability",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre – Operational Stage",
+      "3": "Concrete -Operational Stage",
+      "4": ""
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 83,
+    "question_text": "At this stage of Piaget’s Cognitive Development stages, We can observe the concepts like Classification, Analysis and Preservation",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre – Operational Stage",
+      "3": "Concrete -Operational Stage",
+      "4": ""
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 81,
+    "question_text": "At this stage of 84. Piaget’s Cognitive Development stages, We can see higher levels of Ego centrism in child",
+    "options": {
+      "1": "Sensory Motor Stage",
+      "2": "Pre – Operational Stage",
+      "3": "Concrete -Operational Stage",
+      "4": ""
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 82,
+    "question_text": "85 Incorrect pair according to Theory of Psycho Social Development of Erikson.",
+    "options": {
+      "1": "Trust – Mistrust",
+      "2": "Intimacy – Isolation",
+      "3": "Industry – Guilt",
+      "4": "Integrity – Despair"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 83,
+    "question_text": "86 Incorrect pair according to Theory of Psycho Social Development of Erikson.",
+    "options": {
+      "1": "Autonomy – Doubt",
+      "2": "Intimacy – Stagnation",
+      "3": "Integrity – Despair",
+      "4": "Trust – Mistrust"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 84,
+    "question_text": "87 This psycho social crisis is mismatched with the stage according to Erikson‟s psycho social Developmental Theory",
+    "options": {
+      "1": "Role Identity – Role Confusion  Mature Stage",
+      "2": "Generativity – Stagnation  Middle Adulthood",
+      "3": "Trust – Mistrust  Infancy",
+      "4": "Integrity – Despair  Mature Stage"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 85,
+    "question_text": "88 According to Erik Erikson, in this age of child faces the psycho social crisis – “Guilt” (in years)",
+    "options": {
+      "1": "1 – 3",
+      "2": "3 – 5",
+      "3": "20 – 30",
+      "4": "12 – 20"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 86,
+    "question_text": "89 The first psycho social crisis faced by a child according to Erik Erikson is",
+    "options": {
+      "1": "Autonomy – Doubt",
+      "2": "Trust – Mistrust",
+      "3": "Industry – Inferiority",
+      "4": "Generativity – Stagnation"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 87,
+    "question_text": "90 According to Erikson, the last stage in the theory of Psycho Social Development is",
+    "options": {
+      "1": "Mature Stage – ఩రి఩క్ే దశ",
+      "2": "Infancy – పూయే శైశవం",
+      "3": "Babyhood – ఈతియ శైశవం",
+      "4": "School Age – పాఠశాల దశ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 88,
+    "question_text": "91 At this stage an individual faces “Erikson identity Crisis”.",
+    "options": {
+      "1": "Infancy – పూయే శైశవం",
+      "2": "Babyhood – ఈతియ శైశవం",
+      "3": "Adolescence – కౌమాయ దశ",
+      "4": "Mature Stage – ఩రి఩క్ే దశ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 89,
+    "question_text": "92 Erik Erikson differ with the following theory of Sigmund Freud.",
+    "options": {
+      "1": "Theory of Emotional Development",
+      "2": "Theory of Moral Development",
+      "3": "Psycho Sexual Development theory",
+      "4": "Psycho Social Development theory"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 90,
+    "question_text": "93 Psycho Social Theory of Development was developed by",
+    "options": {
+      "1": "Erik Erikson – ఎరిక్ ఎరిక్ సన్",
+      "2": "Skinner – స్కినుర్",
+      "3": "Galton – గాలటన్",
+      "4": "Tolman – టాలమన్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 91,
+    "question_text": "94 The Psycho Social crisis faced by an individual at the stage of young adulthood according to Erik Erikson is",
+    "options": {
+      "1": "Intimacy – Isolation",
+      "2": "Generativity – Stagnation",
+      "3": "Industry – Inferiority",
+      "4": "Integrity – Despair"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 92,
+    "question_text": "95 The Psycho Social crisis faced by a child at the stage of play age according to Erik Erikson is",
+    "options": {
+      "1": "Autonomy – Doubt",
+      "2": "Industry – Inferiority",
+      "3": "Generativity – Stagnation",
+      "4": "Initiative – Guilt"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 93,
+    "question_text": "96 The Psycho Social crisis faced by an individual at the stage of Mature Stage according to Erik Erikson is",
+    "options": {
+      "1": "Trust – Mistrust",
+      "2": "Industry – Inferiority",
+      "3": "Integrity – Despair",
+      "4": "Intimacy – Isolation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 94,
+    "question_text": "97 The Psycho Social crisis faced by a child at the stage of Babyhood according to Erik Erikson is",
+    "options": {
+      "1": "Initiative – Guilt",
+      "2": "Autonomy – Doubt",
+      "3": "Generativity – Stagnation",
+      "4": "Integrity – Despair"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 95,
+    "question_text": "98 The Psycho Social crisis faced by an individual at the stage of Adolescence according to Erik Erikson is",
+    "options": {
+      "1": "Role Identity – Role Confusion",
+      "2": "Intimacy – Isolation",
+      "3": "Autonomy – Doubt",
+      "4": "Integrity – Despair"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 96,
+    "question_text": "99 The Psycho Social crisis faced by a child at the age of first year according to Erik Erikson is",
+    "options": {
+      "1": "Autonomy – Doubt",
+      "2": "Trust – Mistrust",
+      "3": "Intimacy – Isolation",
+      "4": "Integrity – Despair"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 97,
+    "question_text": "100 The Psycho Social crisis faced by a child at the stage of School Age according to Erik Erikson is",
+    "options": {
+      "1": "Generativity – Stagnation",
+      "2": "Initiative – Guilt",
+      "3": "Industry – Inferiority",
+      "4": "Integrity – Despair"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 98,
+    "question_text": "101 The Psycho Social crisis faced by an individual at the stage of Middle Adulthood according to Erik Erikson is",
+    "options": {
+      "1": "Trust – Mistrust",
+      "2": "Industry – Inferiority",
+      "3": "Intimacy – Isolation",
+      "4": "Generativity – Stagnation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 99,
+    "question_text": "102 Correctly matched pair related to Erikson‟s Psycho Social Developmental Stage s /",
+    "options": {
+      "1": "Only A is Correct",
+      "2": "Only B is Correct",
+      "3": "Both A, B are Correct",
+      "4": "Both A, B are Incorrect"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 100,
+    "question_text": "103 Correctly matched pair related to Erikson‟s Psycho Social Developmental Stage s /",
+    "options": {
+      "1": "Only A is Correct",
+      "2": "Only B is Correct",
+      "3": "Both A, B are Correct",
+      "4": "Both A, B are Incorrect"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 101,
+    "question_text": "104 This age group of people face Psycho Social Crisis, „Integrity – Despair‟, according to Erikson (in years)",
+    "options": {
+      "1": "12 – 20",
+      "2": "20 – 30",
+      "3": "30 – 60",
+      "4": "> 60"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 102,
+    "question_text": "105 This age group of people face the Psycho Social Crisis, “Isolation”, according to Erikson (in years)",
+    "options": {
+      "1": "3 – 5",
+      "2": "6 – 12",
+      "3": "12 – 20",
+      "4": "20 – 30"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 103,
+    "question_text": " 106 At this stage of Kolberg‟s Moral Developmental theory, the decisions of an individual are based upon his conscience.",
+    "options": {
+      "1": "Stage 2 దశ",
+      "2": "Stage 3 దశ",
+      "3": "Stage 4 దశ",
+      "4": "Stage 6 దశ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 104,
+    "question_text": "107 The last stage in Kolhberg‟s Theory of Moral Development is",
+    "options": {
+      "1": "Stage 2 – దశ",
+      "2": "Stage 4 – దశ",
+      "3": "Stage 6 – దశ",
+      "4": "Stage 8 – దశ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 105,
+    "question_text": "108 A boy between the age group 11 years to 13 years belongs to this level of Kohlberg‟s Moral Development.",
+    "options": {
+      "1": "Pre Conventional పూయే సంప్రద్యమ",
+      "2": "Conventional సంప్రద్యమ",
+      "3": "Post Conventional ఈతియ సంప్రద్యమ",
+      "4": "Non-Conventional సంప్రద్యయేతయ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 106,
+    "question_text": "109 A girl goes to school every day in time to get good impression from her teacher. The girl belongs to this level of Kohlberg‟s Moral Development.",
+    "options": {
+      "1": "Pre Conventional పూయే సంప్రద్యమ",
+      "2": "Conventional సంప్రద్యమ",
+      "3": "Post Conventional ఈతియ సంప్రద్యమ",
+      "4": "Non-Conventional సంప్రద్యయేతయ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 107,
+    "question_text": "110 Lawrence Kohlberg belongs to this country.",
+    "options": {
+      "1": "Russia – యషాయ",
+      "2": "America – ఄమెరికా",
+      "3": "India – భ్యయత్",
+      "4": "Nepal – నేపాల్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 108,
+    "question_text": "111 The Theory of Moral Development was developed by",
+    "options": {
+      "1": "Tolman – టోల్ భన్",
+      "2": "Erikson – ఎరిక్ సన్",
+      "3": "Freud – ఫ్రాయిడ్",
+      "4": "Kohlberg – కోల్ ఫర్గ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 109,
+    "question_text": "112 The number of levels and stages in the Moral Development Theory of Kohlberg",
+    "options": {
+      "1": "3 Levels, 6 Stages – 3 సాాయిలు, 6 దశలు",
+      "2": "2 Levels, 4 Stages – 2 సాాయిలు, 4 దశలు",
+      "3": "5 Levels, 8 Stages – 5 సాాయిలు, 8 దశలు",
+      "4": "4 Levels, 10 Stages – 4 సాాయిలు, 10 దశలు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 110,
+    "question_text": "113 The first level of Kohlberg‟s Moral Development",
+    "options": {
+      "1": "Pre Conventional పూయే సంప్రద్యమ",
+      "2": "Conventional సంప్రద్యమ",
+      "3": "Post Conventional ఈతియ సంప్రద్యమ",
+      "4": "Non Conventional సంప్రద్యయేతయ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 111,
+    "question_text": "- 114 The last level of Kohlberg‟s Moral Development",
+    "options": {
+      "1": "Pre Conventional పూయే సంప్రద్యమ",
+      "2": "Conventional సంప్రద్యమ",
+      "3": "Post Conventional ఈతియ సంప్రద్యమ",
+      "4": "Non Conventional సంప్రద్యయేతయ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 112,
+    "question_text": "- 115 We can see Good Boy – Good Girl orientation at this stage of Kohlberg‟s Moral Developmental Theory.",
+    "options": {
+      "1": "Stage 1 – దశ",
+      "2": "Stage 2 – దశ",
+      "3": "Stage 3 – దశ",
+      "4": "Stage 4 – దశ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 113,
+    "question_text": "116 We can see Law and Order orientation at this stage of Kohlberg‟s Moral Developmental Theory.",
+    "options": {
+      "1": "Stage 1 – దశ",
+      "2": "Stage 2 – దశ",
+      "3": "Stage 3 – దశ",
+      "4": "Stage 4 – దశ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 114,
+    "question_text": "117 According to Kohlberg‟s Moral Development Theory, the age group 4 to 10 years belongs to this level.",
+    "options": {
+      "1": "Pre Conventional – పూయే సంప్రద్యమ",
+      "2": "Conventional – సంప్రద్యమ",
+      "3": "Post Conventional – ఈతియ సంప్రద్యమ",
+      "4": "Non Conventional– సంప్రద్యయేతయ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 115,
+    "question_text": "- 118 The stage of Moral Development that belongs to Level – 1 of Pre conventional Morality in Kohlberg‟s theory",
+    "options": {
+      "1": "Punishment – Obedience",
+      "2": "Good Boy – Good Girl",
+      "3": "Law and Order చట టఫదిమైన నే఩ధయ న్లతి",
+      "4": "Universal Ethical Principle సాయేత్రిక్ న్లతి సూత్రాలు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 116,
+    "question_text": "119 According to Kohlberg, at this stage people develop a sense of guilt if they fail to obey the universal principles.",
+    "options": {
+      "1": "Stage 2 – దశ",
+      "2": "Stage 4 – దశ",
+      "3": "Stage 6 – దశ",
+      "4": "Stage 8 – దశ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 117,
+    "question_text": "120 Expand EQ in the context of Emotional Intelligence.",
+    "options": {
+      "1": "Educational Quotient",
+      "2": "Emotional Quotient",
+      "3": "Emotional Question",
+      "4": "Evaluation Question"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 118,
+    "question_text": "121 This is not a characteristic of Emotional Intelligence",
+    "options": {
+      "1": "Knowing our own emotions",
+      "2": "Managing one‟s emotions",
+      "3": "Handling relationships",
+      "4": "Doesn‟t recognize emotions of others"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 119,
+    "question_text": "122 The emotion that is developed from the instinct “Escape” is",
+    "options": {
+      "1": "Love ప్రేభ",
+      "2": "Fear బమం",
+      "3": "Wonder అశియయం",
+      "4": "Unity ఐక్భతయం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 120,
+    "question_text": "123 The emotion that is developed from the instinct “parental care” is",
+    "options": {
+      "1": "Fear బమం",
+      "2": "Anger కో఩ం",
+      "3": "Love ప్రేభ",
+      "4": "Excitement ఈతేిజం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 121,
+    "question_text": "124 The emotion that is developed from the instinct “Disturb” is",
+    "options": {
+      "1": "Love ప్రేభ",
+      "2": "Anger కో఩ం",
+      "3": "Wonder అశియయం",
+      "4": "Unity ఐక్భతయం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 122,
+    "question_text": "125 Emotion is derived from the word of this language",
+    "options": {
+      "1": "Telugu తెలుగు",
+      "2": "Hindi హందీ",
+      "3": "Tamil తమిళం",
+      "4": "Latin లటిన్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 123,
+    "question_text": "126 This is not a positive emotion",
+    "options": {
+      "1": "Affection వాతసలయం",
+      "2": "Creativity సృజనాతమక్త",
+      "3": "Happiness అనందం",
+      "4": "Anger కో఩ం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 124,
+    "question_text": "127 “Social Development means, attaining of maturity in social setting” is defined by",
+    "options": {
+      "1": "Hurlock హరాీక్",
+      "2": "Skinner స్కినుర్",
+      "3": "Kohlberg కోలబర్గ",
+      "4": "Erikson ఎరిక్సన్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 125,
+    "question_text": "128 “Socialization means a process whereby a biological individual is converted into a human person.” Defined by",
+    "options": {
+      "1": "Watson వాటసన్",
+      "2": "Skinner స్కినుర్",
+      "3": "Garret గారట్",
+      "4": "Drever డ్రెవర్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 126,
+    "question_text": "129 This is not a characteristic of socially matured person.",
+    "options": {
+      "1": "Tries to cooperate with others",
+      "2": "Possess leadership qualities",
+      "3": "Possess Self – Concept",
+      "4": "Misuse mass media for selfish advantages"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 127,
+    "question_text": "130 This is not a characteristic of socially matured person.",
+    "options": {
+      "1": "Shares social responsibilities",
+      "2": "Doesn‟t possess leadership qualities",
+      "3": "Maintain friendly relations",
+      "4": "Keeps away from communal clashes"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 128,
+    "question_text": "131 This is not a type play in socialization of child",
+    "options": {
+      "1": "Solitary Play ఏకాంతయ క్రీడ",
+      "2": "Parallel Play సమాంతయ క్రీడ",
+      "3": "Social Play సాంఘిక్ క్రీడ",
+      "4": "Correlation Play సహసంఫంధ క్రీడ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 129,
+    "question_text": "132 This is the characteristic of socially matured person.",
+    "options": {
+      "1": "Doesn‟t maintain emotional stability",
+      "2": "Doesn‟t maintain friendly relations",
+      "3": "Doesn‟t possess self concept -",
+      "4": "Doesn‟t participate in antisocial activities"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 130,
+    "question_text": "133 This is not a characteristic of a socially matured person.",
+    "options": {
+      "1": "Shares social responsibilities",
+      "2": "Possess healthy self-concept",
+      "3": "Participates in antisocial activities",
+      "4": "Maintains emotional stability"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 131,
+    "question_text": "134 This is the characteristic of socially matured person.",
+    "options": {
+      "1": "Participates in antisocial activities",
+      "2": "Doesn‟t possess selfishness",
+      "3": "Doesn‟t maintain emotional stability",
+      "4": "Doesn‟t share social responsibilities"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 132,
+    "question_text": "135 This is not a role of teacher in Socialization.",
+    "options": {
+      "1": "Healthy competition must be encouraged",
+      "2": "Children must be encouraged to join NCC",
+      "3": "Doesn‟t encourage group activities",
+      "4": "Take children into society as frequently as possible"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 133,
+    "question_text": "136 This is not a characteristic of children in Solitary Play.",
+    "options": {
+      "1": "Allow other children to take their toys",
+      "2": "Children play alone",
+      "3": "We can see this type of play in the children of age up to 2 years",
+      "4": "While playing, does not notice other children."
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 134,
+    "question_text": "137 The ultimate aim of social development is",
+    "options": {
+      "1": "Transforming a child into socially matured adult",
+      "2": "Changing a child into a topper in the classroom",
+      "3": "To make the child without depending on anyone",
+      "4": "To make child selfish"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 135,
+    "question_text": "138 In this type of play children form groups and play each other by sharing toys.",
+    "options": {
+      "1": "Solitary Play – ఏకాంత క్రీడ",
+      "2": "Parallel Play – సమాంతయ క్రీడ",
+      "3": "Perpendicular Play– లంఫ క్రీడ",
+      "4": "Social Play – సాంఘిక్ క్రీడ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 136,
+    "question_text": "139 A girl is playing alone by imitating her cousin, who is playing beside her. This type of play is",
+    "options": {
+      "1": "Solitary Play – ఏకాంత క్రీడ",
+      "2": "Parallel Play – సమాంతయ క్రీడ",
+      "3": "Perpendicular Play– లంఫ క్రీడ",
+      "4": "Social Play – సాంఘిక్ క్రీడ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 137,
+    "question_text": "140 Socially matured children participate in this type of play.",
+    "options": {
+      "1": "Solitary Play – ఏకాంత క్రీడ",
+      "2": "Parallel Play – సమాంతయ క్రీడ",
+      "3": "Perpendicular Play– లంఫ క్రీడ",
+      "4": "Cooperative Play – సహకాయ క్రీడ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 138,
+    "question_text": "141 This is not a characteristic of a person with social development during adolescence.",
+    "options": {
+      "1": "Sexual Consciousness లంగిక్ చేతనతేం",
+      "2": "Social Consciousness సామాజిక్ సూృహ",
+      "3": "Group Loyalty సమూహ విధేమత",
+      "4": "Lack of interest in Social Service"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 139,
+    "question_text": "142 Characteristic of a person with social development during adolescence is",
+    "options": {
+      "1": "Lack of Social Consciousness",
+      "2": "Lack of interest in Social Service",
+      "3": "Group Loyalty",
+      "4": "Lack of Sexual Consciousness"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 140,
+    "question_text": "143 Sexual Cleavage means",
+    "options": {
+      "1": "Boys and Girls play together",
+      "2": "Boys and Girls reject to play together",
+      "3": "Boys liking their mother",
+      "4": "Girls liking their father"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 141,
+    "question_text": "146 This play a role in Socialization",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Only C is correct C మాత్రమే సరైనది",
+      "4": "A, B, C all are correct A, B, C ఄన్లు సరైనవే"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 142,
+    "question_text": "147 Socially matured person shows good relations with",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Only C is correct C మాత్రమే సరైనది",
+      "4": "A, B, C all are correct A, B, C ఄన్లు సరైనవే"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 143,
+    "question_text": "148 The word “Adolescence” is derived from this language",
+    "options": {
+      "1": "Latin – లటిన్",
+      "2": "Tamil – తమిళం",
+      "3": "Hindi – హందీ",
+      "4": "Kannada – క్నుడ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 144,
+    "question_text": "149 Meaning of “Adolscere” is",
+    "options": {
+      "1": "To grow into maturity ఩రి఩క్ేత చెందడం",
+      "2": "To read fluently సూషటంగా చెందడం",
+      "3": "To walk properly సరిగా నడవడం",
+      "4": "To write neatly చక్ిగా రామడం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 145,
+    "question_text": "150 According to WHO, the period of Adolescence is (in years)",
+    "options": {
+      "1": "0 – 10",
+      "2": "5 – 8",
+      "3": "10 – 19",
+      "4": "20 – 30"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 146,
+    "question_text": "151 The age group of children are treated as kids at some times and adults at some other times",
+    "options": {
+      "1": "Early Childhood పూయేబాలయ దశ",
+      "2": "Late Childhood ఈతియబాలయ దశ",
+      "3": "Adolescence కౌమాయదశ",
+      "4": "Adulthood వయోజనులు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 147,
+    "question_text": "152 Correct statement related to Adolescence",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Only C is correct C మాత్రమే సరైనది",
+      "4": "A, B, C all are correct A, B, C ఄన్లు సరైనవే"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 148,
+    "question_text": "153 A: Adolescence is a Time of search for identity.",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Both A & B are correct A & B లు రండు సరైనవి",
+      "4": "Both A & B are incorrect"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 149,
+    "question_text": "154 This is not a need of Adolescents",
+    "options": {
+      "1": "Friends స్నుహతలు",
+      "2": "Freedom స్నేచి",
+      "3": "Guidance మాయగదయశక్తేం",
+      "4": "Slavery బానిసతేం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 150,
+    "question_text": "155 This is a need of Adolescents",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Only C is correct C మాత్రమే సరైనది",
+      "4": "A, B, C all are correct A, B, C ఄన్లు సరైనవే"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 151,
+    "question_text": "156 This is not a characteristic of Adolescence",
+    "options": {
+      "1": "Period of change",
+      "2": "Period without problems",
+      "3": "Period of search for identity",
+      "4": "Period of unrealistic thoughts"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 152,
+    "question_text": "157 Adolescence is a gateway to this stage",
+    "options": {
+      "1": "Early Childhood – పూయే బాలయ దశ",
+      "2": "Late Childhood – ఈతియ బాలయ దశ",
+      "3": "Puberty – మవేనాయంబ దశ",
+      "4": "Adulthood – వయోజనులు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 153,
+    "question_text": "158 This is a need of Adolescent.",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Only C is correct C మాత్రమే సరైనది",
+      "4": "A, B, C all are correct A, B, C ఄన్లు సరైనవే"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 154,
+    "question_text": "159 Individuals of this age group behave like this. “Birds of same feather flock together.”",
+    "options": {
+      "1": "Adolescents కౌమారులు",
+      "2": "Adults వయోజనులు",
+      "3": "Old age people వృదులుీ",
+      "4": "Middle aged భధయ వమసుిలు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 155,
+    "question_text": "160 “Developmental Psychology: A Life Span Approach” book was written by",
+    "options": {
+      "1": "Elizabeth Hurlock ఎలిజబెత్ హరాీక్",
+      "2": "B.F. Skinner బి. ఎఫ్. స్కినుర్",
+      "3": "Francis Galton ఫ్రానిసస్ గాలటన్",
+      "4": "Thorndike థాయన్డైక్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 156,
+    "question_text": "161 According to Elizabeth Hurlock, this is not a social group during the stage of Adolescence.",
+    "options": {
+      "1": "Crowds గుంపులు",
+      "2": "Gangs గాయంగ్ లు",
+      "3": "Close Friends సనిుహత మిత్రులు",
+      "4": "Old Friends పాత మిత్రులు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 157,
+    "question_text": "162 According to Stone and Brow, incorrectly paired crowd is",
+    "options": {
+      "1": "Brains: Give more importance to Academics",
+      "2": "Jacks: Participate in Games",
+      "3": "Populars: Leaders in Classroom",
+      "4": "Partyers: Give more importance to Exams"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 158,
+    "question_text": "163 “Dictionary of Psychology” was written by",
+    "options": {
+      "1": "Chaplin చాపీన్",
+      "2": "Skinner స్కినుర్",
+      "3": "Weshler వెషీర్",
+      "4": "Morgan మోరాగన్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 159,
+    "question_text": "164 This is not correct activity to improve leadership characteristics in Adolescents",
+    "options": {
+      "1": "Join the students in NCC",
+      "2": "Training the students to develop life skills",
+      "3": "To make participate in school programs",
+      "4": "To make participate in illegal activities"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 160,
+    "question_text": "165 In this type of leadership, decisions are taken by the leaders by themselves.",
+    "options": {
+      "1": "Authoritarian నియంకుశ",
+      "2": "Democratic ప్రజ్ఞసాేభయ",
+      "3": "Leissez Farie జోక్యయహత",
+      "4": "Friendly స్నుహపూయేక్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 161,
+    "question_text": "166 This is not a special characteristic of Adolescents",
+    "options": {
+      "1": "Peer group relationship",
+      "2": "Aspiring for Leadership",
+      "3": "No need of Independence",
+      "4": "Firm Self Consciousness"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 162,
+    "question_text": "167 The group behaviour of Adolescents is seen in the following activities.",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Both A & B are correct A & B లు రండు సరైనవి",
+      "4": "Both A & B are incorrect"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 163,
+    "question_text": "168 The following life skills are to be taught to",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Only C is correct C మాత్రమే సరైనది",
+      "4": "A, B, C all are correct A, B, C ఄన్లు సరైనవే"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 164,
+    "question_text": "169 Intelligence is a/an",
+    "options": {
+      "1": "Abstract concept ఄమూయి భ్యవన",
+      "2": "Concrete concept మూయి భ్యవన",
+      "3": "Physical concept ౌతతిక్ భ్యవన",
+      "4": "Environmental concept ఩రాయవయణ భ్యవన"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 165,
+    "question_text": "170 The factor that decides individual differences among people",
+    "options": {
+      "1": "Drive ప్రేయక్ం",
+      "2": "Intelligence ప్రజా",
+      "3": "Conditioning నిఫంధనం",
+      "4": "Personality మూరిిభతేం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 166,
+    "question_text": "171 The variations in intelligence from person to person are due to",
+    "options": {
+      "1": "Heredity only ఄనువంశిక్త మాత్రమే",
+      "2": "Environment only ఩రిసరాలు మాత్రమే",
+      "3": "Personality only మూరిిభతేం మాత్రమే",
+      "4": "Heredity and Environment"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 167,
+    "question_text": "172 The age that is calculated from birth is",
+    "options": {
+      "1": "Mental age మానస్కక్ వమసుస",
+      "2": "Chronological age శారీయక్ వమసుస",
+      "3": "Social age సాంఘిక్ వమసుస",
+      "4": "Emotional age ఈద్వేగ వమసుస"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 168,
+    "question_text": "173 The age that is decided on the basis of the achievement in the intelligence test is",
+    "options": {
+      "1": "Chronological age శారీయక్ వమసుస",
+      "2": "Social age సాంఘిక్ వమసుస",
+      "3": "Mental age మానస్కక్ వమసుస",
+      "4": "Physical age ౌతతిక్ వమసుస"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 169,
+    "question_text": "174 AIQ= B: IQ=",
+    "options": {
+      "1": "Only A is correct",
+      "2": "Only B is correct",
+      "3": "Both A and B are correct",
+      "4": "Both A and B are incorrect"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 170,
+    "question_text": "175 Administration of physical objects is",
+    "options": {
+      "1": "Social intelligence సాంఘిక్ ప్రజ ా",
+      "2": "Abstract intelligence ఄమూయి ప్రజా",
+      "3": "Mechanical Intelligence యాంత్రిక్ ప్రజా",
+      "4": "Environmental Intelligence ఩రిసరాల ప్రజా"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 171,
+    "question_text": "176 Understanding symbols, digits and diagrams is",
+    "options": {
+      "1": "Social intelligence సాంఘిక్ ప్రజ ా",
+      "2": "Mechanical Intelligence యాంత్రిక్ ప్రజా",
+      "3": "Abstract intelligence ఄమూయి ప్రజా",
+      "4": "Physical Intelligence ౌతతిక్ ప్రజ ా"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 172,
+    "question_text": "177 The power of abstract thinking is",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Learning ఄబయసనం",
+      "3": "Attitude వైఖరి",
+      "4": "Intelligence ప్రజా"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 173,
+    "question_text": "178 IQ formula is useful to assess",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Attitude వైఖరి",
+      "3": "Aptitude సహజ సాభయీాం",
+      "4": "Intelligence ప్రజా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 174,
+    "question_text": "180 IQ is calculated from",
+    "options": {
+      "1": "Chronological Age only శారీయక్ వమసుస మాత్రమే",
+      "2": "Mental Age only మానస్కక్ వమసుస మాత్రమే",
+      "3": "Both Chronological and Mental ages",
+      "4": "Social Age only సాంఘిక్ వమసుస మాత్రమే"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 175,
+    "question_text": "181 A person‟s chronological age and mental ages are equal. Then his IQ is",
+    "options": {
+      "1": "100",
+      "2": "200",
+      "3": "250",
+      "4": "150"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 176,
+    "question_text": "182 The competency required for a person for purposive behaviourism, rational thinking, moulding the environment according to his needs is",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Reinforcement పునయబలనం",
+      "3": "Interest ఄభిరుచి",
+      "4": "Intelligence ప్రజా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 177,
+    "question_text": "183 This is not the type of intelligence according to Thorndike",
+    "options": {
+      "1": "Abstract intelligence ఄమూయి ప్రజా",
+      "2": "Mechanical Intelligence యాంత్రిక్ ప్రజా",
+      "3": "Social intelligence సాంఘిక్ ప్రజా",
+      "4": "Environmental Intelligence ఩రిసరాల ప్రజా"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 178,
+    "question_text": "184 The intelligence useful to understand surroundings",
+    "options": {
+      "1": "Abstract Intelligence ఄమూయి ప్రజా",
+      "2": "Mechanical Intelligence యాంత్రిక్ ప్రజా",
+      "3": "Mathematical Intelligence గణిత ప్రజా",
+      "4": "Social Intelligence సాంఘిక్ ప్రజా"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 179,
+    "question_text": "185 The internal energy that can see the interrelations in an individual is",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Habit ఄలవాటు",
+      "3": "Frustration కుంఠనం",
+      "4": "Intelligence ప్రజా"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 180,
+    "question_text": "186 The ability of learning by understanding the relations is",
+    "options": {
+      "1": "Reinforcement పునయబలనం",
+      "2": "Habit ఄలవాటు",
+      "3": "Personality మూరిిభతేం",
+      "4": "Intelligence ప్రజా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 181,
+    "question_text": "187 The reason for the backwardness or high achievement among children in their curricular aspects of education is",
+    "options": {
+      "1": "Conditioning నిఫంధనము",
+      "2": "Intelligence ప్రజా",
+      "3": "Personality మూరిిభతేం",
+      "4": "Skills నైపుణాయలు"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 182,
+    "question_text": "189 The ability to adjust and face a new situation quickly and effectively is",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Intelligence ప్రజ ా",
+      "3": "Learning ఄబయసనం",
+      "4": "Interest ఄభిరుచి"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 183,
+    "question_text": " 190 The multiple factor theory of Intelligence was proposed by",
+    "options": {
+      "1": "Spearman స్కూమర్ భన్",
+      "2": "L.L. Thorndike ఎల్. ఎల్. థర్సటన్",
+      "3": "E.L. Thorndike ఆ. ఎల్. థాయన్డైక్",
+      "4": "Howard Gardener హావర్డ గార్డ నర్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 184,
+    "question_text": "191 According to Spearman‟s Two – factor Theory, the factor that is seen in all intellectual activities of an individual is",
+    "options": {
+      "1": "S Factor S కాయక్ం",
+      "2": "g Factor g కాయక్ం",
+      "3": "Primary Factor ప్రాథమిక్ కాయక్ం",
+      "4": "Group Factor సమూహ కాయక్ం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 185,
+    "question_text": "192 L.L. Thurston proposed the Group Factor Theory of Intelligence in his book titled",
+    "options": {
+      "1": "Frames of Mind",
+      "2": "Primary Mental Abilities",
+      "3": "Structure of Intellect",
+      "4": "Perspective in Child Development"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 186,
+    "question_text": "193 In Guilford‟s structure of Intellect Theory, total number of factors that are responsible for intellectual activities",
+    "options": {
+      "1": "100",
+      "2": "150",
+      "3": "180",
+      "4": "100"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 187,
+    "question_text": "194 In 1983, Howard Gardner proposed the theory of Multiple Intelligences in this book",
+    "options": {
+      "1": "Frames of Mind ఫ్రేమ్సస అఫ్ మైండ్",
+      "2": "Primary Mental Abilities",
+      "3": "Intelligence & Development",
+      "4": "Mind and Society మైండ్ ఄండ్ సొసైటీ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 188,
+    "question_text": "195 Individual with higher linguistic intelligence are often referred as",
+    "options": {
+      "1": "Logic smart తరిిక్ నేయూరులు",
+      "2": "Word Smart ఩ద నేయూరులు",
+      "3": "Picture Smart చిత్ర నేయూరులు",
+      "4": "Self Smart స్త్రేమ నేయూరులు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 189,
+    "question_text": "196 Poets, writers, journalists and lawyers generally have this type of intelligence at high level",
+    "options": {
+      "1": "Spatial intelligence ప్రాద్వశిక్ ప్రజా",
+      "2": "Linguistic Intelligence భ్యషా ప్రజ ా",
+      "3": "Bodily – Kinaesthetic Intelligence",
+      "4": "Naturalistic Intelligence ప్రక్ృతి సంఫంధిత ప్రజ ా"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 190,
+    "question_text": "197 Mathematicians and Physicians are the examples of individuals who are high in",
+    "options": {
+      "1": "Logical – Mathematical Intelligence",
+      "2": "Intra Personal Intelligence",
+      "3": "Musical Intelligence సంగీత ప్రజా",
+      "4": "Spatial Intelligence ప్రాద్వశిక్ ప్రజా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 191,
+    "question_text": "198 People with Spatial intelligence are generally called",
+    "options": {
+      "1": "Number smart సంఖయల నేయూరులు",
+      "2": "Music smart సంగీత నేయూరులు",
+      "3": "Picture smart చిత్రీక్యణలో నేయూరులు",
+      "4": "Social smart సాంఘిక్ నేయూరులు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 192,
+    "question_text": "199 Sculptors, painters and Architects excel in this type of intelligence",
+    "options": {
+      "1": "Spatial Intelligence ప్రాద్వశిక్ ప్రజా",
+      "2": "Inter Personal Intelligence వయక్ింతయ ప్రజ ా",
+      "3": "Linguistic Intelligence భ్యషా ప్రజ ా",
+      "4": "Bodily – Kinaesthetic Intelligence"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 193,
+    "question_text": "200 Dancers, Athletes, Yoga Masters and Mime Artists possess higher levels of",
+    "options": {
+      "1": "Bodily – Kinesthetic Intelligence",
+      "2": "Intra Personal Intelligence",
+      "3": "Logical Mathematical Intelligence",
+      "4": "Naturalistic Intelligence"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 194,
+    "question_text": "201 The ability to introspect, analyse one‟s own strengths and weakness and exhibit self – awareness is the characteristic of",
+    "options": {
+      "1": "Inter - Personal Intelligence వయక్ింతయ ప్రజా",
+      "2": "Intra Personal Intelligence వయకి – ఄంతయతగ ప్రజా",
+      "3": "Naturalistic Intelligence",
+      "4": "Linguistic Intelligence భ్యషా ప్రజ ా"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 195,
+    "question_text": "202 Politicians, Sales representatives, Psychological counsellors and teachers usually possess strong",
+    "options": {
+      "1": "Inter - Personal Intelligence వయక్ింతయ ప్రజ ా",
+      "2": "Intra Personal Intelligence వయకి – ఄంతయగత ప్రజా",
+      "3": "Spatial Intelligence ప్రాద్వశిక్ ప్రజా",
+      "4": "Musical Intelligence సంగీత ప్రజా"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 196,
+    "question_text": "203 People with high intra personal intelligence are referred as",
+    "options": {
+      "1": "Social smart సాంఘిక్ నేయూరులు",
+      "2": "Self Smart స్త్రేమ నేయూరులు",
+      "3": "Nature Smart ప్రక్ృతి నేయూరులు",
+      "4": "Word Smart ఩ద నేయూరులు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 197,
+    "question_text": "204 Biologists, Environmentalists and Farmers demonstrate a higher degree of",
+    "options": {
+      "1": "Spatial Intelligence ప్రాద్వశిక్ ప్రజా",
+      "2": "Naturalistic Intelligence ప్రక్ృతి సంఫంధిత ప్రజ ా",
+      "3": "Linguistic Intelligence భ్యషా ప్రజ ా",
+      "4": "Intra Personal Intelligence వయకి ఄంతయతగ ప్రజా"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 198,
+    "question_text": "205 Carnatic musicians have this type of Intelligence",
+    "options": {
+      "1": "Spatial Intelligence ప్రాద్వశిక్ ప్రజా",
+      "2": "Bodily – Kinaesth tic Intelligence e",
+      "3": "",
+      "4": "Musical Intelligence సంగీత ప్రజా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 199,
+    "question_text": "206 Incorrect pair related to theories of Intelligence and their proponents",
+    "options": {
+      "1": "Multiple Intelligence Theory - Howard Gardner",
+      "2": "Multi Factor Theory of Intelligence - Jean Piaget",
+      "3": "Group Factor Theory of Intelligence LL Thurston -",
+      "4": "A Structure of Intellect Model Theory Guilford"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 200,
+    "question_text": "- 207 According to Carl Spearman, the factor that is useful in doing specific deeds is",
+    "options": {
+      "1": "General Factor సాధ్యయణ కాయక్ం",
+      "2": "Group Factor సమూహ కాయక్ం",
+      "3": "Specific Factor ప్రతేయక్ కాయక్ం",
+      "4": "Primary Factor ప్రాథమిక్ కాయక్ం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 201,
+    "question_text": "208 This is a traditional intelligence theory",
+    "options": {
+      "1": "Theory of Multiple intelligence",
+      "2": "Multi Factor Theory of Intelligence",
+      "3": "Group Factor Theory of Intelligence",
+      "4": "Uni Factor Theory of Intelligence"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 202,
+    "question_text": "209 The intelligence theory that believes that the excellency in one field will result in the same type excellency in remaining fields is",
+    "options": {
+      "1": "Multiple Intelligence Theory",
+      "2": "Multi Factor Theory of Intelligence",
+      "3": "Uni Factor Theory of Intelligence",
+      "4": "Two Factor Theory of Intelligence"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 203,
+    "question_text": "210 This is the reason for definite interest in an individual according to Carl Spearman",
+    "options": {
+      "1": "General Factor సాధ్యయణ కాయక్ం",
+      "2": "Specific Factor ప్రతేయక్ కాయక్ం",
+      "3": "Group Factor సమూహ కాయక్ం",
+      "4": "Primary Factor ప్రాథమిక్ కాయక్ం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 204,
+    "question_text": "    211 The process of storage of content that an individual learns is",
+    "options": {
+      "1": "Memory సమృతి",
+      "2": "Forgetting విసమృతి",
+      "3": "Learning ఄబయసనం",
+      "4": "Aptitude సహజ సాభయీాం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 205,
+    "question_text": "212 The fading of information from memory is",
+    "options": {
+      "1": "Knowledge జ్ఞానం",
+      "2": "Forgetting విసమృతి",
+      "3": "Understanding ఄవగాహన",
+      "4": "Intelligence ప్రజా"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 206,
+    "question_text": "213 Experiments on memory were done for the first time by",
+    "options": {
+      "1": "Terman టయమన్",
+      "2": "Ebbinghaus ఎబిబంగ్ హాస్",
+      "3": "Bruner బ్రూనర్",
+      "4": "Vygotsky వైగోటీసీ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 207,
+    "question_text": "214 The book „On Memory‟ is written by",
+    "options": {
+      "1": "Terman టయమన్",
+      "2": "Ebbinghaus ఎబిబంగ్ హాస్",
+      "3": "Bruner బ్రూనర్",
+      "4": "Vygotsky వైగోటీసీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 208,
+    "question_text": "215 The ability of storing experiences and bring them into consciousness whenever required is",
+    "options": {
+      "1": "Conditioning నిఫంధన",
+      "2": "Memory సమృతి",
+      "3": "Forgetting విసమృతి",
+      "4": "Learning ఄబయసనము"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 209,
+    "question_text": "216 The preservation of the memory traces by our brain is",
+    "options": {
+      "1": "Learning ఄబయసనం",
+      "2": "Retrieval జాపిక తెచ్చికోవడం",
+      "3": "Retention ధ్యయణ",
+      "4": "Forgetting విసమృతి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 210,
+    "question_text": "217 Recollecting the experiences from our memory retention is",
+    "options": {
+      "1": "Memory సమృతి",
+      "2": "Forgetting విసమృతి",
+      "3": "Retrieval జాపిక తెచ్చికోవడం",
+      "4": "Learning ఄబయసనం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 211,
+    "question_text": "218 Saving score =",
+    "options": {
+      "1": "",
+      "2": "",
+      "3": "ఄసలు ప్రమతుల సంఖయ",
+      "4": "x100"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 212,
+    "question_text": "219 A memory that holds a limited amount of information for a short period is",
+    "options": {
+      "1": "Long term Memory దీయఘకాలిక్ సమృతి",
+      "2": "Short Term Memory సేలూకాలిక్ సమృతి",
+      "3": "Active Memory క్రియాతమక్ సమృతి",
+      "4": "Logical Memory తరిిక్ సమృతి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 213,
+    "question_text": "220 Remembering previously learned things for a long period is",
+    "options": {
+      "1": "Short Term Memory సేలూకాలిక్ సమృతి",
+      "2": "Long term Memory దీయఘకాలిక్ సమృతి",
+      "3": "Rote Memory ఫటీట సమృతి",
+      "4": "Active Memory క్రియాతమక్ సమృతి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 214,
+    "question_text": "221 Learning the things without knowing their meaning is",
+    "options": {
+      "1": "Short Term Memory సేలూకాలిక్ సమృతి",
+      "2": "Long term Memory దీయఘకాలిక్ సమృతి",
+      "3": "Active Memory క్రియాతమక్ సమృతి",
+      "4": "Rote Memory ఫటీట సమృతి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 215,
+    "question_text": "222 In this type of memory, the learner understands what he learns and why he learns",
+    "options": {
+      "1": "Short Term Memory సేలూకాలిక్ సమృతి",
+      "2": "Long term Memory దీయఘకాలిక్ సమృతి",
+      "3": "Logical Memory తరిిక్ సమృతి",
+      "4": "Rote Memory ఫటీట సమృతి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 216,
+    "question_text": "223 In this type of memory, learner directly participates in learning and remembers the learned content in his memory",
+    "options": {
+      "1": "Short Term Memory సేలూకాలిక్ సమృతి",
+      "2": "Long term Memory దీయఘకాలిక్ సమృతి",
+      "3": "Rote Memory ఫటీట సమృతి",
+      "4": "Active Memory క్రియాతమక్ సమృతి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 217,
+    "question_text": "224 In this type of memory, learner remembers things by reading or listening",
+    "options": {
+      "1": "Short Term Memory సేలూకాలిక్ సమృతి",
+      "2": "Long term Memory దీయఘకాలిక్ సమృతి",
+      "3": "Active Memory క్రియాతమక్ సమృతి",
+      "4": "Passive Memory నిషియాతమక్ సమృతి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 218,
+    "question_text": "225 Sometimes we experience that things which we are seeing now are already seen. This is called",
+    "options": {
+      "1": "Dejavu డజ్ఞవు",
+      "2": "Schemata స్కిమాటా",
+      "3": "Fued ఫ్యయడ్",
+      "4": "Zeigarnik effect జైగారిుక్ ప్రభ్యవం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 219,
+    "question_text": "226 The phenomenon that people remember incomplete or interrupted tasks better than the completed ones",
+    "options": {
+      "1": "Zeigarnik effect జైగారిుక్ ఎఫెక్ట",
+      "2": "Pigmalian effect పగామలియాన్ ఎఫెక్ట",
+      "3": "Plasibo effect పాీస్కబో ఎఫెక్ట",
+      "4": "Priming effect ప్రైమింగ్ ఎఫెక్ట"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 220,
+    "question_text": "227 This is not a reason for forgetting",
+    "options": {
+      "1": "Repression దభనం",
+      "2": "Inhibition ఄవరోధం",
+      "3": "Abnormal forgetting ఄ఩సామానయ విసమృతి",
+      "4": "Relearning పునయబయసనం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 221,
+    "question_text": "228 Reason for fading out memories with the advancement of time",
+    "options": {
+      "1": "Repression దభనం",
+      "2": "Inhibition ఄవరోధం",
+      "3": "Abnormal forgetting ఄ఩సామానయ విసమృతి",
+      "4": "Passive decay through disuse"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 222,
+    "question_text": "229 The painful experience are pushed into the unconscious layer of mind intentionally. This type of forgetting is",
+    "options": {
+      "1": "Repression దభనం",
+      "2": "Abnormal forgetting ఄ఩సామానయ విసమృతి",
+      "3": "Inhibition ఄవరోధం",
+      "4": "Passive decay through disuse"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 223,
+    "question_text": "230 This method is not useful for improving memory",
+    "options": {
+      "1": "Motivation ప్రేయణ",
+      "2": "Attention ఄవధ్యనం",
+      "3": "Repression దభనం",
+      "4": "Less Emotional తకుివ భ్యవోద్రేక్త"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 224,
+    "question_text": "231 When we listen to the name of Tajmahal, we remember Shajahan. This method of improving memory is",
+    "options": {
+      "1": "Motivation ప్రేయణ",
+      "2": "Association of ideas భ్యవాల సంసయగం",
+      "3": "Over learning ఄతి ఄబయసనం",
+      "4": "Mnemonic devices కొండ గురుిలు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 225,
+    "question_text": "232 The ability to produce ideas that are novel and useful through divergent thinking is",
+    "options": {
+      "1": "Cognition సంజ్ఞానాతమక్త",
+      "2": "Creativity సృజనాతమక్త",
+      "3": "Concept భ్యవన",
+      "4": "Learning ఄబయసనం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 226,
+    "question_text": "233 It is not the nature of Creativity",
+    "options": {
+      "1": "Universal సాయేత్రిక్మైనది",
+      "2": "Always possess novelty",
+      "3": "Scope is too narrow",
+      "4": "Directs towards the solution to a problem"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 227,
+    "question_text": "234 Statement that is not related to the scope of Creativity",
+    "options": {
+      "1": "Authentic సేతఃస్కదీమైనది",
+      "2": "Has a very wide scope ఩రిధి విసిృతమైనది",
+      "3": "A convergent thought ఑క్ సమైక్య అలోచన",
+      "4": "This is a process and also a product"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 228,
+    "question_text": "235 A new process that occurs in a mind related to arts, language, music or science is",
+    "options": {
+      "1": "Attitude వైఖరి",
+      "2": "Personality మూరిిభతేం",
+      "3": "Creativity సృజనాతమక్త",
+      "4": "Attention ఄవధ్యనం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 229,
+    "question_text": "236 The ability to create new content by transforming relations by using thoughts",
+    "options": {
+      "1": "Creativity సృజనాతమక్త",
+      "2": "Attention ఄవధ్యనం",
+      "3": "Learning ఄబయసనం",
+      "4": "Concept భ్యవన"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 230,
+    "question_text": "237 In this stage, creativity is emerged in the form of a sudden flash",
+    "options": {
+      "1": "Preparatory stage సనాుహ దశ",
+      "2": "Incubation stage గు఩ి స్కాతి దశ",
+      "3": "Illumination stage ఄంతర్ దృష టదశ",
+      "4": "Verification stage నిరూ఩ణ దశ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 231,
+    "question_text": "238 Minnesota Test of Creative Thinking‟ is useful to measure",
+    "options": {
+      "1": "Cognition సంజ్ఞానాతమక్త",
+      "2": "Creativity సృజనాతమక్త",
+      "3": "Attention ఄవధ్యనం",
+      "4": "Personality మూరిిభతేం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 232,
+    "question_text": "239 A teacher asked a student that in how many ways an old newspaper can be used. The teacher wanted to know the student‟s",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Creativity సృజనాతమక్త",
+      "3": "Attention ఄవధ్యనం",
+      "4": "Learning ఄబయసనం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 233,
+    "question_text": "240 The last stage in the process of creativity is",
+    "options": {
+      "1": "Preparatory Stage సనాుహ దశ",
+      "2": "Incubation Stage గు఩ి స్కాతి దశ",
+      "3": "Illumination Stage ఄంతర్ దృష టదశ",
+      "4": "Verification Stage నిరూ఩ణ దశ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 234,
+    "question_text": "241 This is not the way to develop Creativity",
+    "options": {
+      "1": "Avoid fear and shyness among children",
+      "2": "Criticise feelings of freedom and ideas.",
+      "3": "Use Brain storming methods",
+      "4": "Encourage New ideas."
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 235,
+    "question_text": "242 Meier Art Judgement Test is a",
+    "options": {
+      "1": "Scholastic Aptitude Test",
+      "2": "Vocational Aptitude Test",
+      "3": "Aesthetic Aptitude Test",
+      "4": "Clerical Aptitude Test"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 236,
+    "question_text": "243 The present status of an individual that reflects his / her future is",
+    "options": {
+      "1": "Aptitude సహజ సాభయాాం",
+      "2": "Attitude వైఖరి",
+      "3": "Intelligence ప్రజా",
+      "4": "Learning ఄబయసనం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 237,
+    "question_text": "244 This aptitude test helps an individual to choose a job",
+    "options": {
+      "1": "Scholastic Aptitude Test",
+      "2": "Vocational Aptitude Test",
+      "3": "Aesthetic Aptitude Test 245 The aptitude test that is used to choose a course in a field of education",
+      "4": ""
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 238,
+    "question_text": "246 DAT (Differential Aptitude Test) is useful to measure",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Intelligence ప్రజా",
+      "3": "Attention ఄవధ్యనం",
+      "4": "Aptitude సహజ సాభయాాం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 239,
+    "question_text": "247 It is a motive towards an activ ty i",
+    "options": {
+      "1": "Interest ఄభిరుచి",
+      "2": "Personality మూరిిభతేం",
+      "3": "Intelligence ప్రజా",
+      "4": "Cognition సంజ్ఞానాతమక్ం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 240,
+    "question_text": "248 „Strong‟s Vocational Interest Blank‟ is useful to measure",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Intelligence ప్రజా",
+      "3": "Interest ఄభిరుచి",
+      "4": "Attention ఄవధ్యనం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 241,
+    "question_text": "249 It is a tendency to respond to people, institutions or events either positively or negatively",
+    "options": {
+      "1": "Attitude వైఖరి",
+      "2": "Aptitude సహజ సాభయాాం",
+      "3": "Attention ఄవధ్యనం",
+      "4": "Creativity సృజనాతమక్త"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 242,
+    "question_text": "250 The test that is not useful to measure attitude",
+    "options": {
+      "1": "Likert‟s Summated Rating Method",
+      "2": "Thurston‟s Attitude Scale",
+      "3": "Bogardus Social Distance Scale",
+      "4": "Strong Vocational Interest Scale"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 243,
+    "question_text": "251 The first stage in the process of Creativity is",
+    "options": {
+      "1": "Preparatory Stage సనాుహ దశ",
+      "2": "Latency Stage గు఩ి స్కాతి దశ",
+      "3": "Insight Stage ఄంతర్దృష టదశ",
+      "4": "Verification Stage నిరూ఩ణ దశ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 244,
+    "question_text": "252 It does not develop desirable attitudes towards school among children",
+    "options": {
+      "1": "Learning in free environment",
+      "2": "Co-curricular activities designed on uninterested areas",
+      "3": "School staff should be cordial towards students.",
+      "4": "Prepare a plan to develop projects."
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 245,
+    "question_text": "254 This is not a characteristic of thinking",
+    "options": {
+      "1": "Mental activity related to cognitive aspect",
+      "2": "Changes will occur frequently",
+      "3": "Thoughts are explicit",
+      "4": "It is a result-oriented process"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 246,
+    "question_text": "255 According to Decartus, the root for the existence of mankind is",
+    "options": {
+      "1": "Personality మూరిిభతేం",
+      "2": "Thinking అలోచన",
+      "3": "Attitude వైఖరి",
+      "4": "Aptitude సహజ సాభయాాం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 247,
+    "question_text": "256 This is not the characteristics of thinking",
+    "options": {
+      "1": "A mental exploration మానస్కక్ ఄనేేషణ",
+      "2": "A physical exploration శారీయక్ ఄనేేషణ",
+      "3": "A result-oriented process",
+      "4": "Thoughts are implicit అలోచనలు ఄంతయగతమైనవి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 248,
+    "question_text": "257 This is the characteristic of thinking",
+    "options": {
+      "1": "This is explicit అలోచన ఫమటకు క్నిపసుింది.",
+      "2": "This is a physical exploration",
+      "3": "This is a problem-solving behaviour",
+      "4": "Changes will not occur in thinking"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 249,
+    "question_text": "258 In this type of thinking, knowledge acquisition takes place through sensory organs directly",
+    "options": {
+      "1": "Concrete or perceptual Thinking",
+      "2": "Imaginative Thinking ఉహా అలోచన",
+      "3": "Convergent Thinking సమైక్య అలోచన",
+      "4": "Divergent Thinking విభిను అలోచన"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 250,
+    "question_text": "259 The type of thinking about the status of India by 2050 due to the increase in population is",
+    "options": {
+      "1": "Associative Thinking సంసయగ అలోచన",
+      "2": "Imaginative Thinking ఉహా అలోచన",
+      "3": "Concrete Thinking మూయి అలోచన",
+      "4": "Convergent thinking సమైక్య అలోచన"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 251,
+    "question_text": "260 While thinking about marriage, recalling about feast, relatives effortlessly is an example of this type of thinking",
+    "options": {
+      "1": "Associative Thinking సంసయగ అలోచన",
+      "2": "Divergent Thinking విభిను అలోచన",
+      "3": "Convergent thinking సమైక్య అలోచన",
+      "4": "Imaginative Thinking ఉహా అలోచన"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 252,
+    "question_text": "261 In this type of thinking, student can tell 2 x 2 = 2 + 2, 2 x 2=5-1, 2x2 = 4x1 2 x 2 = 2+2, 2 x 2=5-1, 2 x 2 = 4 x 1",
+    "options": {
+      "1": "Concrete Thinking మూయి అలోచన",
+      "2": "Divergent Thinking విభిను అలోచన",
+      "3": "Convergent Thinking సమైఖయ అలోచన",
+      "4": "Imaginative Thinking ఉహా అలోచన"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 253,
+    "question_text": "262 Thinking about shapeless things which we cannot see directly is",
+    "options": {
+      "1": "Concrete Thinking మూయి అలోచన",
+      "2": "Abstract Thinking ఄమూయి అలోచన",
+      "3": "Associative Thinking సంసయగ అలోచన",
+      "4": "Convergent thinking సమైక్య అలోచన"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 254,
+    "question_text": "263 Performing the tasks associated with perception, learning, memory, understanding, reasoning, judgement and language involves",
+    "options": {
+      "1": "Interests ఄభిరుచ్చలు",
+      "2": "Cognitive Ability సంజ్ఞానాతమక్ సాభయాాం",
+      "3": "Personality మూరిిభతేం",
+      "4": "Aptitude సహజ సాభయాాం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 255,
+    "question_text": "264 Meaning to experiences given based on sensory knowledge is",
+    "options": {
+      "1": "Attitude వైఖరి",
+      "2": "Perception ప్రతయక్షం",
+      "3": "Habit ఄలవాటు",
+      "4": "Personality మూరిిభతేం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 256,
+    "question_text": "265 The way a person can visualise, the way he listens, the way he experiences, the way he tastes, the way he smells in his situations and environment is",
+    "options": {
+      "1": "Intelligence ప్రజా",
+      "2": "Perception ప్రతయక్షం",
+      "3": "Attention ఄవధ్యనం",
+      "4": "Personality మూరిిభతేం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 257,
+    "question_text": "266 This is not a characteristic of Perception",
+    "options": {
+      "1": "It depends on sensation.",
+      "2": "Senses help in perception.",
+      "3": "It is a process of analysis and synthesis",
+      "4": "It is not affected by external and internal motives"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 258,
+    "question_text": "267 Grouping objects together based on similar characteristics like colour, space and magnitude is",
+    "options": {
+      "1": "Law of Proximity సామీ఩య నిమభము",
+      "2": "Law of Similarity సాభయ నిమభము",
+      "3": "Law of Closure పూయణ నిమభము",
+      "4": "Law of Continuity ఄవియళ నిమభము"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 259,
+    "question_text": "268 Incomplete figures are perceived as complete is",
+    "options": {
+      "1": "Law of Closure పూయణ నిమభము",
+      "2": "Law of Proximity సామీ఩య నిమభము",
+      "3": "Law of Continuity ఄవియళ నిమభము",
+      "4": "Law of Similarity సాభయ నిమభము"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 260,
+    "question_text": "269 Bird fly in the sky In Figure-Grou d relationship of perception, the sky is n",
+    "options": {
+      "1": "Figure అక్ృతి",
+      "2": "Ground క్షేత్రం",
+      "3": "Group సమూహం",
+      "4": "Base అధ్యయం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 261,
+    "question_text": "270 The tendency to perceive objects that are close to one another is",
+    "options": {
+      "1": "Law of Continuity ఄవియళ నిమభము",
+      "2": "Law of Similarity సాభయ నిమభము",
+      "3": "Law of Proximity సామీ఩య నిమభము",
+      "4": "Law of Figure – Ground relationship"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 262,
+    "question_text": "271 Correct pair/s related to factors influencing perception",
+    "options": {
+      "1": "Only A is correct",
+      "2": "Only B is correct",
+      "3": "Both A and B are correct",
+      "4": "Both A and B are incorrect"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 263,
+    "question_text": "272 Inventory that is not related to the assessment of Interest",
+    "options": {
+      "1": "Strong Vocational Interest Blank",
+      "2": "Minnesota Vocational Interest Inventory",
+      "3": "Kuder‟s General Interest Survey",
+      "4": "General Aptitude Test Battery"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 264,
+    "question_text": "273 The ability to recognise the primary colours like red and green",
+    "options": {
+      "1": "Colour Concept యంగుకు సంఫంధించిన భ్యవన",
+      "2": "Money Concept డబ్బబలకు సంఫంధించిన భ్యవన",
+      "3": "Beauty Concept ఄంద్యనిక సంఫంధించిన భ్యవన",
+      "4": "Time Concept కాలనిక సంఫంధించిన భ్యవన"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 265,
+    "question_text": "274 The term personality is derived from this language",
+    "options": {
+      "1": "French ఫ్రం్",
+      "2": "Hindi హందీ",
+      "3": "Latin లటిన్",
+      "4": "Russian యషయన్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 266,
+    "question_text": "275 The meaning of Latin word Persona is",
+    "options": {
+      "1": "Head తల",
+      "2": "Face ముఖం",
+      "3": "Mind మెదడు",
+      "4": "Mask ముసుగు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 267,
+    "question_text": "276 “Personality is an integration of totality of a system.” defined by",
+    "options": {
+      "1": "Eysenck ఐసంక్",
+      "2": "Allport అల్పోర్ట",
+      "3": "Lewin లెవిన్",
+      "4": "Dashiell డేస్కమల్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 268,
+    "question_text": "277 The factor s that influence personality /",
+    "options": {
+      "1": "Only A is correct A మాత్రమే సరైనది",
+      "2": "Only B is correct B మాత్రమే సరైనది",
+      "3": "Both A & B are correct A & B లు రండు సరైనవి",
+      "4": "Both A & B are incorrect"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 269,
+    "question_text": "278 The upper part of the Brain is called",
+    "options": {
+      "1": "Cerebrum భస్కిషిం",
+      "2": "Mid Brain భధయ మెదడు",
+      "3": "Hind Brain వెనుక్ మెదడు",
+      "4": "Spinal cord వెనుుముక్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 270,
+    "question_text": "279 This part in the human body controls Muscular system",
+    "options": {
+      "1": "Cerebrum భస్కిషిం",
+      "2": "Mid Brain భధయ మెదడు",
+      "3": "Hind Brain వెనుక్ మెదడు",
+      "4": "Hormones హారోమనుీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 271,
+    "question_text": "280 This is the source of Thorndike‟s Mechanical Intelligence.",
+    "options": {
+      "1": "Hormones హారోమనుీ",
+      "2": "Cerebrum భస్కిషిం",
+      "3": "Mid Brain భధయ మెదడు",
+      "4": "Hind Brain వెనుక్ మెదడు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 272,
+    "question_text": "281 Motor skills of a person depends on this part of human brain",
+    "options": {
+      "1": "Cerebrum భస్కిషిం",
+      "2": "Mid Brain భధయ మెదడు",
+      "3": "Hind Brain వెనుక్ మెదడు",
+      "4": "Hormones హారోమనుీ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 273,
+    "question_text": "282 This part of human brain helps to maintain equilibrium of the brain.",
+    "options": {
+      "1": "Cerebellum ఄనుభస్కిషిం",
+      "2": "Mid Brain భధయ మెదడు",
+      "3": "Cerebrum భస్కిషిం",
+      "4": "Hormones హారోమను ీ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 274,
+    "question_text": "283 The part of human brain that controls involuntary actions like breathing, heart rate, blood pressure etc.,",
+    "options": {
+      "1": "Cerebrum భస్కిషిం",
+      "2": "Mid Brain భధయ మెదడు",
+      "3": "Medulla Oblongata భజ్ఞముజ ఖం",
+      "4": "Hormones హారోమనుీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 275,
+    "question_text": "284 When children touch some hot objects, they immediately remove their hand from the object. This is related to the action of this nervous system.",
+    "options": {
+      "1": "Central Nervous System కేంద్రీమ నాడీ వయవసా",
+      "2": "Peripheral Nervous System ఩రిధీమ నాడీ వయవస ా",
+      "3": "Autonomous Nervous System సేమంచోదిత నాడీ వయవస ా",
+      "4": "Hormones హారోమనుీ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 276,
+    "question_text": "285 Number of Nerves in human brain (in pairs)",
+    "options": {
+      "1": "43",
+      "2": "12",
+      "3": "31",
+      "4": "22"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 277,
+    "question_text": "286 Number of Spinal nerves in Humanbeings (in pairs)",
+    "options": {
+      "1": "43",
+      "2": "12",
+      "3": "31",
+      "4": "22"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 278,
+    "question_text": "287 Vision, hearing, muscular strength depends on the functioning of this nervous system of human body.",
+    "options": {
+      "1": "Central Nervous System కేంద్రీమ నాడీ వయవసా",
+      "2": "Peripheral Nervous System ఩యధీమ నాడీ వయవస ా",
+      "3": "Autonomous Nervous System",
+      "4": "Hormones హారోమనుీ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 279,
+    "question_text": "288 This gland in the human body controls all other endocrine glands.",
+    "options": {
+      "1": "Pituitary Gland పీయూష గ్రంథి",
+      "2": "Thyroid Gland ఄవటు గ్రంథి",
+      "3": "Adrenal Gland ఄధివృక్ి గ్రంథి",
+      "4": "Testis ముషాిలు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 280,
+    "question_text": "289 This gland that is located in the human brain.",
+    "options": {
+      "1": "Pituitary Gland పీయూష గ్రంథి",
+      "2": "Thyroid Gland ఄవటు గ్రంథి",
+      "3": "Adrenal Gland ఄథివృక్ి గ్రంథి",
+      "4": "Testis ముషాిలు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 281,
+    "question_text": "290 Thyroxin deficiency causes",
+    "options": {
+      "1": "Dwarfism భయగుజుజతనము",
+      "2": "Tetani టెటాని",
+      "3": "Myxoedema మికోసడిమా",
+      "4": "Gigantism దీయఘకామతేం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 282,
+    "question_text": "291 This is required to produce Thyroxin",
+    "options": {
+      "1": "Sodium సోడిమం",
+      "2": "Zinc జింక్",
+      "3": "Iodine ఄయోడిన్",
+      "4": "Oxygen అకసజన్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 283,
+    "question_text": "292 It mostly influences the emotions of an individual",
+    "options": {
+      "1": "Testis ముషాిలు",
+      "2": "Adrenal Gland ఄధివృక్ి గ్రంథి",
+      "3": "Thyroid Gland ఄవటు గ్రంథి",
+      "4": "Para thyroid Gland పాయశవ ఄవటు గ్రంథి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 284,
+    "question_text": "293 The gland that produces „Fight or Flight‟ hormone.",
+    "options": {
+      "1": "Testis ముషాిలు",
+      "2": "Female Gonads స్త్రర బీజ కోశాలు",
+      "3": "Para thyroid Gland పాయశవ ఄవటు గ్రంథి",
+      "4": "Adrenal Gland ఄధివృక్ి గ్రంథి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 285,
+    "question_text": "294 Socio cultural factors related to Pre-Natal environment",
+    "options": {
+      "1": "Neighbour ఆరుగుపరుగు",
+      "2": "School పాఠశాల",
+      "3": "Peer Group సభవమసుిలు",
+      "4": "Food habits of Mother తలిీ అహాయపు ఄలవాటు ీ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 286,
+    "question_text": "295 Hippocrates : Greece :: Spranger : _____",
+    "options": {
+      "1": "Italy – ఆటలీ",
+      "2": "India – ఆండియా",
+      "3": "Germany – జయమన్ల",
+      "4": "Austria – అస్కరయా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 287,
+    "question_text": "296 According to Hippocrates‟ classification, „blood is the dominant fluid in the body of",
+    "options": {
+      "1": "Sanguine – ఔతసహకులు",
+      "2": "Choleric – పైతయ ప్రవృతిి క్లవారు",
+      "3": "Phlegmatic – శ్లీషమ ప్రవృతిి క్లవారు",
+      "4": "Melancholic– విషణ్ణణవు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 288,
+    "question_text": "297 According to Hippocrates‟ classification, black bile is the dominant fluid in the body of",
+    "options": {
+      "1": "Sanguine – ఔతసహకులు",
+      "2": "Choleric – పైతయ ప్రవృతిి క్లవారు",
+      "3": "Phlegmatic – శ్లీషమ ప్రవృతిి క్లవారు",
+      "4": "Melancholic– విషణ్ణణవు"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 289,
+    "question_text": "298 According to Hippocrate‟s classification phlegm is the dominant fluid in the body of",
+    "options": {
+      "1": "Sanguine – ఔతసహకులు",
+      "2": "Choleric – పైతయ ప్రవృతిి క్లవారు",
+      "3": "Phlegmatic – శ్లీషమ ప్రవృతిి క్లవారు",
+      "4": "Melancholic– విషణ్ణణవు"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 290,
+    "question_text": "299 According to Hippocrates‟ classification, yellow bile is the dominant fluid in the body of",
+    "options": {
+      "1": "Sanguine – ఔతసహకులు",
+      "2": "Choleric – పైతయ ప్రవృతిి క్లవారు",
+      "3": "Phlegmatic – శ్లీషమ ప్రవృతిి క్లవారు",
+      "4": "Melancholic– విషణ్ణణవు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 291,
+    "question_text": "300 According to Hippocrates‟ classification, they are calm slow and lazy",
+    "options": {
+      "1": "Sanguine – ఔతసహకులు",
+      "2": "Choleric – పైతయ ప్రవృతిి క్లవారు",
+      "3": "Phlegmatic – శ్లీషమ ప్రవృతిి క్లవారు",
+      "4": "Melancholic– విషణ్ణణవు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 292,
+    "question_text": "301 According to Kretschmer‟s classification, They are obese, jolly, sociable people.",
+    "options": {
+      "1": "Pyknic – పీయసకామలు",
+      "2": "Athletic – క్రీడాకామలు",
+      "3": "Leptosomatic– ప్రాంశు కామలు",
+      "4": "Choleric – పైతయ ప్రవృతిి క్లవారు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 293,
+    "question_text": "302 According to Kretschmer‟s classification, energetic, optimistic and adjustment characteristics are seen in",
+    "options": {
+      "1": "Sanguine – ఔతసహకులు",
+      "2": "Pyknic – పీయసకామలు",
+      "3": "Athletic – క్రీడాకామలు 303 According to Kretschmer‟s classification, these people are lean, weak, shy, introverts and pessimists",
+      "4": ""
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 294,
+    "question_text": "304 According to Spranger‟s classification, the values that Bill Gates possess is",
+    "options": {
+      "1": "Religious Values – భత఩యమైన విలువలు",
+      "2": "Economic Values – అరిీక్ విలువలు",
+      "3": "Political Values – రాజక్తమ విలువలు",
+      "4": "Aesthetic Values – సందరాయతమక్ విలువలు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 295,
+    "question_text": "305 According to Spranger‟s classification, the values that Abdul Kalam possess is",
+    "options": {
+      "1": "Religious Values – భత఩యమైన విలువలు",
+      "2": "Economic Values – అరిీక్ విలువలు",
+      "3": "Political Values – రాజక్తమ విలువలు",
+      "4": "Theoretical Values– సైద్యంీ తిక్ విలువలు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 296,
+    "question_text": "306 According to Spranger‟s classification, the values that „Dalailama‟ possess is",
+    "options": {
+      "1": "Social Values – సాంఘిక్ విలువలు",
+      "2": "Political Values – రాజక్తమ విలువలు",
+      "3": "Economic Values – అరిీక్ విలువలు",
+      "4": "Religious Values – భత఩యమైన విలువలు"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 297,
+    "question_text": "307 According to Spranger‟s classification, the value that „Mother Theresa‟ possess is",
+    "options": {
+      "1": "Social Values – సాంఘిక్ విలువలు",
+      "2": "Political Values – రాజక్తమ విలువలు",
+      "3": "Economic Values – అరిీక్ విలువలు",
+      "4": "Aesthetic Values – సందయయ అరాధనా విలువలు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 298,
+    "question_text": "308 According to Spranger‟s classification, the values that „Film Director Bapu‟ possess",
+    "options": {
+      "1": "Political Values – రాజక్తమ విలువలు",
+      "2": "Economic Values – అరిీక్ విలువలు",
+      "3": "Social Values – సాంఘిక్ విలువలు",
+      "4": "Aesthetic Values – సందయయ అరాధనా విలువలు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 299,
+    "question_text": "309 According to Spranger‟s classification, the values that „Smt. Prathiba Patil‟ possess",
+    "options": {
+      "1": "Political Values – రాజక్తమ విలువలు",
+      "2": "Theoretical Values – సైద్యంీ తిక్ విలువలు",
+      "3": "Economic Values – అరిీక్ విలువలు",
+      "4": "Religious Values – భత఩యమైన విలువలు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 300,
+    "question_text": "310 According to Spranger‟s classification, the values that „M.S. Swaminathan‟ possess",
+    "options": {
+      "1": "Theoretical Values– సైద్యంీ తిక్ విలువలు",
+      "2": "Religious Values – భత఩యమైన విలువలు",
+      "3": "Economic Values – అరిీక్ విలువలు",
+      "4": "Political Values – రాజక్తమ విలువలు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 301,
+    "question_text": "311 According to R.B.Cattell‟s theory, the number of source traits in personality are",
+    "options": {
+      "1": "11",
+      "2": "12",
+      "3": "14",
+      "4": "16"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 302,
+    "question_text": "312 According to R.B.Cattell‟s theory, the number of primary traits in personality are",
+    "options": {
+      "1": "165",
+      "2": "170",
+      "3": "171",
+      "4": "175"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 303,
+    "question_text": "313 The psychologist who belongs to trait theory is",
+    "options": {
+      "1": "Kretschmer – క్రెషమర్",
+      "2": "Sheldon – షెలడన్",
+      "3": "R.B.Cattell – R.B.కాటిల్",
+      "4": "Jung – యూంగ్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 304,
+    "question_text": "314 Person with Economic Values",
+    "options": {
+      "1": "Mukesh Ambani – ముఖేష్ ఄంబాన్ల",
+      "2": "Mahatma Gandhi – భహాతమ గాంధీ",
+      "3": "Ravi Varma – యవి వయమ",
+      "4": "Mother Theresa – భథర్ థెరిసా"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 305,
+    "question_text": "315 The classification of Introverts and Extroverts belongs to",
+    "options": {
+      "1": "Jung – యూంగ్",
+      "2": "Kretschmer – క్రెషమర్",
+      "3": "R.B.Cattell – R.B.కాటిల్",
+      "4": "Hippocrates – హపోూక్రటీస్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 306,
+    "question_text": "316 Theory of Psycho Sexual Development was proposed by",
+    "options": {
+      "1": "Kimble కంబ్ల ీ",
+      "2": "Sigmund Freud స్కగమండ్ ఫ్రాయిడ్",
+      "3": "Ebbinghaus ఎబిబంగాస్",
+      "4": "Kohlberg కోల్ ఫర్గ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 307,
+    "question_text": "317 „Id‟ depends on this principle",
+    "options": {
+      "1": "Pleasure Principle అనంద సూత్రం",
+      "2": "Reality Principle వాసివ సూత్రం",
+      "3": "Moral Principle నైతిక్ సూత్రం",
+      "4": "Ethical Principle అదయశ సూత్రం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 308,
+    "question_text": "318 In Freud'stheory,it is hidden in the deep layer of his unconscious mind",
+    "options": {
+      "1": "Ego ఄహం",
+      "2": "Id ఄచితి",
+      "3": "Super Ego ఄదయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 309,
+    "question_text": "318 „Super ego‟ depends on this principle ",
+    "options": {
+      "1": "Pleasure Principle అనంద సూత్రం",
+      "2": "Reality Principle వాసివ సూత్రం",
+      "3": "Moral Principle నైతిక్ సూత్రం",
+      "4": "Unconscious stage ఄచేతన స్కాతి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 310,
+    "question_text": "320 „Perfection rather than pleasure‟ is it‟s goal",
+    "options": {
+      "1": "Ego ఄహం",
+      "2": "Id ఄచితి",
+      "3": "Super Ego ఄధయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 311,
+    "question_text": "321 Ego depends on this principle",
+    "options": {
+      "1": "Pleasure Principle అనంద సూత్రం",
+      "2": "Reality Principle వాసివ సూత్రం",
+      "3": "Moral Principle నైతిక్ సూత్రం",
+      "4": "Ethical Principle అదయశ సూత్రం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 312,
+    "question_text": "322 It is partly conscious but not entirely",
+    "options": {
+      "1": "Id ఄచితి",
+      "2": "Ego ఄహం",
+      "3": "Super Ego ఄధయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 313,
+    "question_text": "323 According to Freud‟s theory, Structure of Personality, the third system is",
+    "options": {
+      "1": "Id ఄచితి",
+      "2": "Ego ఄహం",
+      "3": "Super Ego ఄధయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 314,
+    "question_text": "324 It judges good or bad in Freud‟s Structure of Personality.",
+    "options": {
+      "1": "Super Ego ఄధయహం",
+      "2": "Ego ఄహం",
+      "3": "Id ఄచితి",
+      "4": "Libido కామేచి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 315,
+    "question_text": "325 According to Freud‟s Structure of Personality, the second system is",
+    "options": {
+      "1": "Id ఄచితి",
+      "2": "Ego ఄహం",
+      "3": "Super Ego ఄధయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 316,
+    "question_text": "326 According to Freud‟s Structure of Personality, the first system is",
+    "options": {
+      "1": "Id ఄచితి",
+      "2": "Ego ఄహం",
+      "3": "Super Ego ఄధయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 317,
+    "question_text": "327 According to Freud‟s Structure of Personality, a person wants to attain pleasure by consuming alcohol. This is an example for",
+    "options": {
+      "1": "Id ఄచితి",
+      "2": "Ego ఄహం",
+      "3": "Super Ego ఄధయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 318,
+    "question_text": "328 According to Freud‟s Structure of Personality, “Smoking is injurious to Health” is suggested by",
+    "options": {
+      "1": "Id ఄచితి",
+      "2": "Ego ఄహం",
+      "3": "Super Ego ఄధయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 319,
+    "question_text": "329 According to Freud‟s Dynamics of Personality, we are aware of the present moment in this level",
+    "options": {
+      "1": "Conscious Stage చేతనావసా",
+      "2": "Sub Conscious Stage ఈ఩ చేతనావస ా",
+      "3": "Unconscious Stage ఄచేతనావసా",
+      "4": "Super Ego ఄధయహం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 320,
+    "question_text": "330 This works on Reality Principle",
+    "options": {
+      "1": "Id ఄచితి",
+      "2": "Ego ఄహం",
+      "3": "Super Ego ఄధయహం",
+      "4": "Libido కామేచి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 321,
+    "question_text": "331 According to Freud‟s Dynamics of Personality, this stage contains memories and stored knowledge.",
+    "options": {
+      "1": "Conscious Stage చేతనావసా",
+      "2": "Sub Conscious Stage ఈ఩చేతనావసా",
+      "3": "Unconscious Stage ఄచేతనావసా",
+      "4": "Super Ego ఄధయహం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 322,
+    "question_text": "332 According to Freud‟s Theory memories cannot be recalled by an individual in",
+    "options": {
+      "1": "Conscious Stage చేతనావసా",
+      "2": "Sub Conscious Stage ఈ఩ చేతనావస ా",
+      "3": "Unconscious Stage ఄచేతనావసా",
+      "4": "Super Ego ఄధయహం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 323,
+    "question_text": "333 According to Freud‟s Psychosexual Theory, the stage in which a child‟s age is in between 2 - 3 years",
+    "options": {
+      "1": "Oral Stage మౌఖిక్ దశ",
+      "2": "Anal Stage అసన దశ",
+      "3": "Phallic Stage శిశు దశ",
+      "4": "Latency Stage గు఩ి దశ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 324,
+    "question_text": "334 According to Freud‟s Psychosexual Theory, the stage in which a child‟s age is in between 4 - 6 years",
+    "options": {
+      "1": "Oral Stage మౌఖిక్ దశ",
+      "2": "Anal Stage అసన దశ",
+      "3": "Phallic Stage శిశు దశ",
+      "4": "Latency Stage గు఩ి దశ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 325,
+    "question_text": "335 According to Freud‟s Psychosexual Theory, the stage in which a child‟s age is in between birth to one year is",
+    "options": {
+      "1": "Oral Stage మౌఖిక్ దశ",
+      "2": "Anal Stage అసన దశ",
+      "3": "Phallic Stage శిశు దశ",
+      "4": "Latency Stage గు఩ి దశ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 326,
+    "question_text": "336 According to Freud, the number of Psychosexual Developmental stages",
+    "options": {
+      "1": "4",
+      "2": "6",
+      "3": "5",
+      "4": "10"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 327,
+    "question_text": " 337 Odd one among the following",
+    "options": {
+      "1": "Case Study వయకి ఄధయమన ఩దీతి",
+      "2": "Interview ఩రి఩ృచి",
+      "3": "Biography జీవిత చరిత్ర",
+      "4": "Ink Blot Test స్కరాభయక్ల ఩రీక్ష"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 328,
+    "question_text": "338 The total number of cards in Ink Blot Test",
+    "options": {
+      "1": "10",
+      "2": "5",
+      "3": "3",
+      "4": "2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 329,
+    "question_text": "339 As per Murray & Morgan‟s TAT, the meaning of „Thema‟ is",
+    "options": {
+      "1": "Drama నాటక్ం",
+      "2": "Story క్థ",
+      "3": "Picture బొభమ",
+      "4": "Acting నటన"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 330,
+    "question_text": "340 The total number of cards in TAT is",
+    "options": {
+      "1": "30 + 1",
+      "2": "10 + 1",
+      "3": "20 + 1",
+      "4": "40 + 1"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 331,
+    "question_text": "341 The mismatched pair related to measurement tool and its developer.",
+    "options": {
+      "1": "Sociometry Jacob L. Moreno -",
+      "2": "T.A.T Murray & Morgan",
+      "3": "C.A.T L.Bellak & S.Bellak",
+      "4": "I.B.T Freud"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 332,
+    "question_text": "342 In the Ink Blot Test, „K‟ indicates",
+    "options": {
+      "1": "Form అకాయం",
+      "2": "Colour యంగు",
+      "3": "Shading తేలిక్ యంగులు గల ప్రద్వశం",
+      "4": "Movements క్దలిక్లు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 333,
+    "question_text": "343 In the Ink Blot Test, „Ad‟ indicates",
+    "options": {
+      "1": "Inanimate things ప్రాణ యహతమైనవి",
+      "2": "Human Forms మానవ రూపాలు",
+      "3": "Nature ప్రక్ృతి",
+      "4": "Animal Parts జంత భ్యగాలు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 334,
+    "question_text": "344 In the Ink Blot Test, „Hd‟ indicates",
+    "options": {
+      "1": "Inanimate things ప్రాణ యహతమైనవి",
+      "2": "Animal Forms జంత రూపాలు",
+      "3": "Nature ప్రక్ృతి",
+      "4": "Human Part మానవ భ్యగం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 335,
+    "question_text": "345 Total number of questions in the first edition of M.M.P.I.",
+    "options": {
+      "1": "500",
+      "2": "550",
+      "3": "600",
+      "4": "650"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 336,
+    "question_text": "346 According to M.M.P.I, useless thoughts, pessimism and despair are the symptoms of",
+    "options": {
+      "1": "Depression డిప్రెషన్",
+      "2": "Hysteria హస్త్రటరియా",
+      "3": "Paramonia చితి భ్రభ",
+      "4": "Hypomania ఄలోూనామదం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 337,
+    "question_text": "347 According to M.M.P.I, feeling more aggressive is the symptom of",
+    "options": {
+      "1": "Depression నిరుతసహం",
+      "2": "Dementia డిమెనిియా",
+      "3": "Hypomania ఄలోూనామదం",
+      "4": "Paramonia చితి భ్రభ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 338,
+    "question_text": "348 According to M.M.P.I, doing meaningless things repeatedly is",
+    "options": {
+      "1": "Psychasthenia సైకోస్త్రినియా",
+      "2": "Depression నిరుతసహం",
+      "3": "Hysteria హస్త్రటరియా",
+      "4": "Hypomania ఄలోూనామదం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 339,
+    "question_text": "349 It is a tool to assess Social Realationship",
+    "options": {
+      "1": "M.M.P.I",
+      "2": "T.A.T",
+      "3": "C.A.T",
+      "4": "Sociometry సాంఘిక్ మితి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 340,
+    "question_text": "350 The maximum number of cards used for Male in TAT is",
+    "options": {
+      "1": "50 + 1",
+      "2": "20 + 1",
+      "3": "30 + 1",
+      "4": "40 + 1"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 341,
+    "question_text": "351 This is not a Projective Test",
+    "options": {
+      "1": "I B T",
+      "2": "T A T",
+      "3": "C A T",
+      "4": "Case Study వయకి ఄధయమనం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 342,
+    "question_text": "352 This is a projective individual test",
+    "options": {
+      "1": "Interview ఩రి఩ృచి",
+      "2": "Case Study వయకి ఄధయమనం",
+      "3": "Biography జీవిత చరిత్ర",
+      "4": "IBT స్కరాభయక్ల ఩రీక్ష"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 343,
+    "question_text": "353 The number of Red, Black coloured cards in Ink Blot Test",
+    "options": {
+      "1": "15",
+      "2": "10",
+      "3": "3",
+      "4": "2"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 344,
+    "question_text": "354 The founder of Mental Health Movement is",
+    "options": {
+      "1": "Freud ఫ్రాయిడ్",
+      "2": "Clifford Beers కల్పర్డ బీర్స",
+      "3": "Erikson ఎరిక్ సన్",
+      "4": "J.L.Moreno జె. ఎల్. మెరినో"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 345,
+    "question_text": "355 In Sociometry, a person who is opposed by many is",
+    "options": {
+      "1": "Isolate ఏకాక",
+      "2": "Star తయ",
+      "3": "Hero హీరో",
+      "4": "Leader నామకుడు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 346,
+    "question_text": "356 This Personality test was developed for the children of age group 3 to 10 years",
+    "options": {
+      "1": "T.A.T",
+      "2": "C.A.T",
+      "3": "I.B.T",
+      "4": "W.A.T"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 347,
+    "question_text": "357 In Sociometry a person who is liked by the most people is ,",
+    "options": {
+      "1": "Isolate ఏకాక",
+      "2": "Star తయ",
+      "3": "God ద్వవుడు",
+      "4": "Object వసుివు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 348,
+    "question_text": "358 Learning is the modification of behaviour through experience and training,” is defined by",
+    "options": {
+      "1": "Gates గేట్స",
+      "2": "Crow and Crow క్రో భరియు క్రో",
+      "3": "Norman L Munn నాయమన్ ఎల్. భన్",
+      "4": "Smith M.P స్కమత్ మమ్స. ప."
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 349,
+    "question_text": "359 Expand ADHD",
+    "options": {
+      "1": "Attention Deviate Hypoactive Deficiency",
+      "2": "Attention Deviate Hyperactive Deficiency",
+      "3": "Attention Deficit Hyperactive Disorder",
+      "4": "Attention Deficit Hypoactive Disorder"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 350,
+    "question_text": "360 This is not the nature of learning",
+    "options": {
+      "1": "Learning is a modification of behaviour ఄబయసనం ఄనేది",
+      "2": "Learning is goal directed",
+      "3": "Learning is purposeful",
+      "4": "Learning is not a process"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 351,
+    "question_text": "361 This is not a type of learning",
+    "options": {
+      "1": "Motor Learning చలన ఄబయసనం",
+      "2": "Verbal Learning శాబిక్ి ఄబయసనం",
+      "3": "Perceptual Learning ప్రతయక్ష ఄబయసనం",
+      "4": "Aptitude Learning సహజ సాభరాాాల ఄబయసనం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 352,
+    "question_text": "362 “Theory of Identical Elements” in transfer of learning is proposed by",
+    "options": {
+      "1": "Thorondike థాయన్ డైక్",
+      "2": "Charles Judd చారీస్ జడ్",
+      "3": "Bagley బాగేీ",
+      "4": "Vygotsky వైగోటీసీ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 353,
+    "question_text": "363 Training in driving a car helps to drive a jeep‟is an example of ‘",
+    "options": {
+      "1": "Negative Transfer ప్రతికూల ఫదలయింపు",
+      "2": "Positive Transfer ఄనుకూల ఫడలయింపు",
+      "3": "Zero Transfer శూనయ ఫదలయింపు",
+      "4": "Bilateral Transfer దిేపాయశవ ఫదలయింపు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 354,
+    "question_text": "364 Factor that is not related to the learner that influences learning",
+    "options": {
+      "1": "Age వమసుస",
+      "2": "Maturity ఩రిణతి",
+      "3": "School Development Plan",
+      "4": "Fatigue ఄలసట"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 355,
+    "question_text": "365 Learning where the previous learning does not affect the subsequent learning is",
+    "options": {
+      "1": "Positive Transfer ఄనుకూల ఫడలయింపు",
+      "2": "Negative Transfer ప్రతికూల ఫదలయింపు",
+      "3": "Zero Transfer శూనయ ఫదలయింపు",
+      "4": "Bilateral Transfer దిేపాయశవ ఫదలయింపు"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 356,
+    "question_text": "366 This is not a characteristic of learning",
+    "options": {
+      "1": "Learning is Universal",
+      "2": "Learning is a life long process",
+      "3": "Learning is purposeful",
+      "4": "Learning is not a continuous process"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 357,
+    "question_text": "367 This is not a theory of Transfer of Learning",
+    "options": {
+      "1": "Theory of Generalization",
+      "2": "Transposition Theory",
+      "3": "Theory of Ideals",
+      "4": "Theory of Classical Conditioning"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 358,
+    "question_text": "368 The mismatched theory and its proponent is",
+    "options": {
+      "1": "Theory of Identical Elements Thorndike సభరూ఩ ఄంశాల -",
+      "2": "Theory of Ideals Bagley -",
+      "3": "Theory of Formal Discipline Skinner -",
+      "4": "Theory of Generalization Charles Judd"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 359,
+    "question_text": "- 369 “Learning a concept causes difficulty in learning another new concept.” The transfer of learning here is",
+    "options": {
+      "1": "Positive Transfer ఄనుకూల ఫదలయింపు",
+      "2": "Negative Transfer ప్రతికూల ఫదలయింపు",
+      "3": "Zero Transfer శూనయ ఫదలయింపు",
+      "4": "Bilateral Transfer దిేపాయశవ ఫదలయింపు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 360,
+    "question_text": "370 Learning Multiplication tables helps in solving Arithmetic problems. This is an example of",
+    "options": {
+      "1": "Positive Transfer ఄనుకూల ఫదలయింపు",
+      "2": "Negative Transfer ప్రతికూల ఫదలయింపు",
+      "3": "Zero Transfer శూనయ ఫదలయింపు",
+      "4": "Bilateral Transfer దిేపాయశవ ఫదలయింపు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 361,
+    "question_text": "371 A temporary period where there is no improvement in learning is known as",
+    "options": {
+      "1": "Final Stage చివరి దశ",
+      "2": "Stage of fluctuations ఑డిదుడుకుల దశ",
+      "3": "Plateau Stage పీఠభూమి దశ",
+      "4": "Initial Spurt ప్రాయంబ సూూరిి దశ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 362,
+    "question_text": "372 Plateau Stage in Learning may be caused due to",
+    "options": {
+      "1": "Motivation ప్రేయణ",
+      "2": "Practice సాధన",
+      "3": "Interest ఄభిరుచి",
+      "4": "Fatigue ఄలసట"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 363,
+    "question_text": "373 The correct sequence of stages in learning curve",
+    "options": {
+      "1": "B, A, C",
+      "2": "A, B, C",
+      "3": "C, A, B",
+      "4": "B, C, A"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 364,
+    "question_text": "374 A learning curve mainly represents",
+    "options": {
+      "1": "Intelligence ప్రజా",
+      "2": "Change in performance with practice",
+      "3": "Personality మూరిిభతేం",
+      "4": "Motivation ప్రేయణ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 365,
+    "question_text": "375 Expand “IEP”",
+    "options": {
+      "1": "Individual Education Policy",
+      "2": "Individualized Education Programme",
+      "3": "Indian Education Programme",
+      "4": "Inclusive Entertainment programme"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 366,
+    "question_text": "376 A child misunderstands + and × symbols while doing Mathematics. The problem faced by him is",
+    "options": {
+      "1": "Dysphasia డిస్ఫేషమ",
+      "2": "Dyslexia డిస్లెక్షియా",
+      "3": "Dyscalculia డిస్కాయలుకుయయా",
+      "4": "Dysgraphia డిస్గ్రాఫియా"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 367,
+    "question_text": "377 Positive transfer occurs when previous learning",
+    "options": {
+      "1": "Stops new learning న్యతన ఄబయసనం ను అపును",
+      "2": "No Effect ఎటువంటి ప్రభ్యవం ఈండదు",
+      "3": "Helps in new learning",
+      "4": "Disturbs new learning"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 368,
+    "question_text": "378 Transfer of Learning in playing skill of Veena and becoming an athlet",
+    "options": {
+      "1": "Negative Transfer ప్రతికూల ఫదలయింపు",
+      "2": "Positive Transfer ఄనుకూల ఫడలయింపు",
+      "3": "Zero Transfer శూనయ ఫదలయింపు",
+      "4": "Bilateral Transfer దిేపాయశవ ఫదలయింపు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 369,
+    "question_text": " 379 Classical Conditioning theory is associated with",
+    "options": {
+      "1": "Ivan Pavlov ఆవాన్ పావ్స లోవ్స",
+      "2": "Skinner స్కినుర్",
+      "3": "Ebbinghaus ఎబిబంగ్ హాస్",
+      "4": "Thorndike థాయన్ డైక్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 370,
+    "question_text": "381 According to Pavlov, learning is through",
+    "options": {
+      "1": "Imitation",
+      "2": "Association between the stimuli and the response",
+      "3": "Trial and Error",
+      "4": "Observation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 371,
+    "question_text": "382 Ivan Pavlov, a scientist and a behaviourist belongs to",
+    "options": {
+      "1": "America ఄమెరికా",
+      "2": "Britain బ్రిటన్",
+      "3": "Russia యషాయ",
+      "4": "India ఆండియా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 372,
+    "question_text": "383 The book “The Work of Digestive Glands” is written by",
+    "options": {
+      "1": "Skinner స్కినుర్",
+      "2": "Thorndike థాయన్ డైక్",
+      "3": "Ivan Pavlov ఆవాన్ పావ్స లోవ్స",
+      "4": "Bandura ఫండుయ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 373,
+    "question_text": "384 In Ivan Pavlov‟s experiment, food before conditioning is",
+    "options": {
+      "1": "Unconditioned Stimulus (UCS) నిరిుఫంధిత ఈదీి఩న",
+      "2": "Unconditioned Response (UCR) నిరిుఫంధిత ప్రతిసూందన",
+      "3": "Conditioned Stimulus (CS) నిఫంధిత ఈదీ఩ి న",
+      "4": "Conditioned Response (CR) నిఫంధిత ప్రతిసూందన"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 374,
+    "question_text": "385 In Pavlov‟s experiment before conditioning, the sound of bell is",
+    "options": {
+      "1": "Conditioned Stimulus",
+      "2": "Natural Stimulus",
+      "3": "Neutral Stimulus",
+      "4": "Conditioned Response (CR)"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 375,
+    "question_text": "386 In Ivan Pavlov‟s experiment, after conditioning, Bell is considered as",
+    "options": {
+      "1": "Unconditioned Stimulus (UCS)",
+      "2": "Unconditioned Response (UCR)",
+      "3": "Conditioned Stimulus (CS)",
+      "4": "Conditioned Response (CR)"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 376,
+    "question_text": "387 This is not a principle of classical conditioning",
+    "options": {
+      "1": "Extinction వియభణ",
+      "2": "Spontaneous recovery ఄమతు స్కదీ సాేసాాం",
+      "3": "Stimulus generalization ఈదీ఩ి న సామాన్లయక్యణం",
+      "4": "Readiness సంస్కదిత"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 377,
+    "question_text": "388 „A child is bitten by a big dog may develop fear of even towards small dogs‟ is",
+    "options": {
+      "1": "Discrimination",
+      "2": "Generalization",
+      "3": "Higher Order Conditioning",
+      "4": "Spontaneous recovery"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 378,
+    "question_text": "389 Trail and Error Theory of Learning is proposed by",
+    "options": {
+      "1": "Ivan Pavlov ఆయాన్ పావ్స లోవ్స",
+      "2": "Skinner స్కినుర్",
+      "3": "Thorndike థాయన్ డైక్",
+      "4": "Bandura ఫండురా"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 379,
+    "question_text": "390 Thorndike‟s „Trial and Error Theory‟ is also called as",
+    "options": {
+      "1": "Bond Theory సంధ్యన స్కద్యంీ తము",
+      "2": "Observation Theory ఩రిశీలనా స్కద్యంీ తము",
+      "3": "Classical Theory శాస్త్రమర నిఫంధన స్కద్యంీ తము",
+      "4": "Operant Condition Theoryకాయయసాధక్ స్కద్యీంతము"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 380,
+    "question_text": "391 This is not a learning theory of E.L.Thorndike",
+    "options": {
+      "1": "Trial and Error Theory మతు ద్యష స్కద్యంీ తము",
+      "2": "Observation Learning ఩రిశీలనాబయసనం",
+      "3": "Connectionism Theory సంధ్యన స్కద్యంీ తము",
+      "4": "Bond Theory ఫంధన స్కద్యంీ తము"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 381,
+    "question_text": "392 The book “Animal Intelligence” is written by",
+    "options": {
+      "1": "Skinner స్కినుర్",
+      "2": "Ivan Pavlov ఆవాన్ పావ్స లోవ్స",
+      "3": "Thorndike థాయన్ డైక్",
+      "4": "Bruner బ్రూనర్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 382,
+    "question_text": "393 “If a student is ready to learn, the process becomes quick and effective.” The law is",
+    "options": {
+      "1": "Law of Readiness సంస్కదీత నిమభం",
+      "2": "Law of Effect పలిత నిమభం",
+      "3": "Law of Exercise ఄభ్యయస నిమభం",
+      "4": "Law of Teaching బోధనా నిమభం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 383,
+    "question_text": "394 “The satisfying experiences to strengthen the bond between stimulus and response.” It reflects this law",
+    "options": {
+      "1": "Law of Readiness సంస్కదీత నిమభం",
+      "2": "Law of Effect పలిత నిమభం",
+      "3": "Law of Exercise ఄభ్యయస నిమభం",
+      "4": "Law of Teaching బోధనా నిమభం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 384,
+    "question_text": "395 “Practice makes man perfect” is an example of this law.",
+    "options": {
+      "1": "Law of Readiness సంస్కదీత నిమభం",
+      "2": "Law of Effect పలిత నిమభం",
+      "3": "Law of Exercise ఄభ్యయస నిమభం",
+      "4": "Law of Observation ఩రిశీలనా నిమభం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 385,
+    "question_text": "396 Classical conditioning theory is also known as",
+    "options": {
+      "1": "S - type",
+      "2": "R - type",
+      "3": "C - type",
+      "4": "P - type"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 386,
+    "question_text": "397 Ivan Pavlov conducted experiments on",
+    "options": {
+      "1": "Dog కుక్ి",
+      "2": "Rat ఎలుక్",
+      "3": "Cat పలిీ",
+      "4": "Chimpanzee చింపాంజీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 387,
+    "question_text": "398 This is not a Law of Thorndike‟s Trial and Error Theory",
+    "options": {
+      "1": "Law of Generalization సామాన్లయక్యణ నిమభం",
+      "2": "Law of Readiness సంస్కదీత నిమభం",
+      "3": "Law of Effect పలిత నిమభం",
+      "4": "Law of Exercise ఄభ్యయస నిమభం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 388,
+    "question_text": "399 This is not a key feature of Trial and Error learning",
+    "options": {
+      "1": "Learning is Gradual",
+      "2": "Motivation is essential",
+      "3": "Elimination of Incorrect Responses",
+      "4": "Learning occurs through imitation"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 389,
+    "question_text": "400 Operant Conditioning Theory was developed by",
+    "options": {
+      "1": "Francis Galton ఫ్రానిసస్ గాలటన్",
+      "2": "Sigmund Freud స్కగమండ్ ఫ్రాయిడ్",
+      "3": "Erikson ఎరిక్సన్",
+      "4": "Skinner స్కినుర్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 390,
+    "question_text": "401 Operant Conditioning Theory is also called as",
+    "options": {
+      "1": "Insightful Learning ఄంతయదృషట ఄబయసనం",
+      "2": "Higher order Conditioning ఈనుత క్రభ నిఫంధనం",
+      "3": "Industrial Learning పారిశ్రామిక్ ఄబయసనం",
+      "4": "Instrumental Learning ఩రిక్రాతమక్ ఄబయసనం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 391,
+    "question_text": "402 Skinner used this animal in his experiments",
+    "options": {
+      "1": "Rat ఎలుక్",
+      "2": "Lion స్కంహం",
+      "3": "Tiger పులి",
+      "4": "Pig ఩ంది"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 392,
+    "question_text": "403 Operant Conditioning is also called as",
+    "options": {
+      "1": "R type",
+      "2": "G type",
+      "3": "K type",
+      "4": "P type"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 393,
+    "question_text": "404 In Skinner‟s Operant Conditioning, Reinforced stimulus is given only to",
+    "options": {
+      "1": "Wrong Response",
+      "2": "Correct Response",
+      "3": "Every Response",
+      "4": "Some Responses"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 394,
+    "question_text": "405 A boy is doing his project work. Providing reinforcement for every 5 minutes to him is called as",
+    "options": {
+      "1": "Discontinuous Reinforcement Schedule",
+      "2": "Fixed Interval Reinforcement Schedule",
+      "3": "Fixed Ratio Reinforcement Schedule",
+      "4": ""
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 395,
+    "question_text": "407 Correct options from the following statements.",
+    "options": {
+      "1": "Only A is Correct A మాత్రమే సరైనది",
+      "2": "Only B is Correct B మాత్రమే సరైనది",
+      "3": "Both A & B are Correct A & B లు రండు సరైనవి",
+      "4": "Both A & B are incorrect"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 396,
+    "question_text": "408 Correct sentence related to Learning Theories",
+    "options": {
+      "1": "Only A is Correct A మాత్రమే సరైనది",
+      "2": "Only B is Correct B మాత్రమే సరైనది",
+      "3": "Both A & B are Correct A & B లు రండు సరైనవి",
+      "4": "Both A & B are incorrect"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 397,
+    "question_text": "409 „Providing reinforcement to every correct answer given by student‟. The law of reinforcement here is.",
+    "options": {
+      "1": "Discontinuous వియళ",
+      "2": "Unstable ratio ఄస్కాయ నిషూతిి",
+      "3": "Variable చయశీల",
+      "4": "Continuous నియంతయ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 398,
+    "question_text": "410 A boy who gives responses to a questionnaire is provided reinforcement for every three responses. The law of reinforcement here is",
+    "options": {
+      "1": "Discontinuous వియళ",
+      "2": "unstable Interval ఄస్కాయకాల",
+      "3": "Fixed Ratio స్కాయ నిషూతిి",
+      "4": "Variable చయశీల"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 399,
+    "question_text": "411 Clint Cantered Therapy was developed by",
+    "options": {
+      "1": "Watson వాటసన్",
+      "2": "Carl Rogers కార్ీ రోజర్స",
+      "3": "Crow and Crow క్రో భరియు క్రో",
+      "4": "Allport ఄల్ పోర్ట"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 400,
+    "question_text": "412 “Theory of Hierarchy of Needs” was developed by",
+    "options": {
+      "1": "Thorndike థాయన్ డైక్",
+      "2": "Watson వాటసన్",
+      "3": "Maslow మాసో ీ",
+      "4": "Pavlov పావ్సలోవ్స"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 401,
+    "question_text": "414 This is a physiological need according to Maslow",
+    "options": {
+      "1": "Music సంగీతం",
+      "2": "Food అహాయం",
+      "3": "Identity గురిింపు",
+      "4": "Love ప్రేభ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 402,
+    "question_text": "415 According to Maslow, House is a",
+    "options": {
+      "1": "Physiological Need శారీయక్ ఄవసయం",
+      "2": "Safety Need బద్రత ఄవసయం",
+      "3": "Esteem Need గౌయవ ఄవసయం",
+      "4": "Love and Belonging Needప్రేభ సంఫంధిత ఄవసయం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 403,
+    "question_text": "416 According to Maslow, Affection is a",
+    "options": {
+      "1": "Physiological Need శారీయక్ ఄవసయం",
+      "2": "Safety Need బద్రత ఄవసయం",
+      "3": "Love and Belonging Need ప్రేభ సంఫంధిత ఄవసయం",
+      "4": "Esteem Need గౌయవ ఄవసయం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 404,
+    "question_text": "417 Incorrect pair related to Maslow‟s Hierarchy of Needs",
+    "options": {
+      "1": "Water Physiological Need",
+      "2": "Home Safety Need",
+      "3": "Love Self Actualization Need",
+      "4": "Identity Esteem Need"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 405,
+    "question_text": "418 This is not an advantage of Experiential learning",
+    "options": {
+      "1": "Encourages child centered learning",
+      "2": "Students can learn life skills",
+      "3": "Useful to improve creativity",
+      "4": "Students are not happy with this learning"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 406,
+    "question_text": "419 Maslow‟s theory is related to",
+    "options": {
+      "1": "Conditioning నిఫంధన",
+      "2": "Needs ఄవసరాలు",
+      "3": "Intelligence ప్రజా",
+      "4": "Attention ఄవధ్యనం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 407,
+    "question_text": "420 This is a lower order need according to Maslow",
+    "options": {
+      "1": "Esteem Needs గౌయవ ఄవసరాలు",
+      "2": "Self Actualization Needs స్త్రేమ స్కది ీఄవసరాలు",
+      "3": "Love and Belonging Needs",
+      "4": "Physiological Needs శారీయక్ ఄవసరాలు"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 408,
+    "question_text": "421 Social Learning Theory was proposed by",
+    "options": {
+      "1": "Thorndike థాయన్ డైక్",
+      "2": "Ivan Pavlov ఆవాన్ పావ్సలోవ్స",
+      "3": "Skinner స్కినుర్",
+      "4": "Bandura ఫండూయ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 409,
+    "question_text": "422 According to Bandura, Learning occurs by",
+    "options": {
+      "1": "Association సంసయగము ద్యేరా",
+      "2": "Imitation ఄనుక్యణ ద్యేరా",
+      "3": "Trail and Error మతు ద్యషం ద్యేరా",
+      "4": "Sudden action అక్స్కమక్ చయయల ద్యేరా"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 410,
+    "question_text": "423 This is not the other name of Bandura‟s Theory",
+    "options": {
+      "1": "Learning by Modelling",
+      "2": "Learning through Observation",
+      "3": "Learning by Imitation",
+      "4": "Learning by Association"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 411,
+    "question_text": "424 This is not a step in Bandura‟s Theory",
+    "options": {
+      "1": "Attention ఄవధ్యనం",
+      "2": "Retention ధ్యయణ",
+      "3": "Generalization సామాన్లయక్యణం",
+      "4": "Reinforcement పునయభలనం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 412,
+    "question_text": "425 In Bandura‟s theory “Remembering the observed behaviour” is called",
+    "options": {
+      "1": "Attention ఄవధ్యనం",
+      "2": "Retention ధ్యయణ",
+      "3": "Performance పునరుతూదన",
+      "4": "Reinforcement పునయభలనం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 413,
+    "question_text": "426 A child watches carefully while his teacher is solving a problem. Later he solves similar problems. The type of learning here is",
+    "options": {
+      "1": "Observation Learning ఩రిశీలనా ఄబయసనం",
+      "2": "Classical Conditioning సంప్రద్యమ నిఫంధనం",
+      "3": "Trial and Error మతు ద్యషం",
+      "4": "Operant Conditioning కాయయసాధక్ నిఫంధనం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 414,
+    "question_text": "427 The first step of Bandura‟s Social Imitation Learning Theory",
+    "options": {
+      "1": "Retention ధ్యయణ",
+      "2": "Performance పునరుతూదన",
+      "3": "Reinforcement పునయభలనం",
+      "4": "Attention ఄవధ్యనం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 415,
+    "question_text": "428 Bandura demonstrates “Observation Learning Theory” through the following experiment",
+    "options": {
+      "1": "Bobo Doll Experiment",
+      "2": "Ice Berg Experiment",
+      "3": "Puzzle Box Experiment",
+      "4": "Trial and Error Experiment"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 416,
+    "question_text": "429 According to Bandura, these are important for learning",
+    "options": {
+      "1": "Only A is Correct A మాత్రమే సరైనది",
+      "2": "Only B is Correct B మాత్రమే సరైనది",
+      "3": "Only C is Correct C మాత్రమే సరైనది",
+      "4": "A, B, C all are Correct A, B, C ఄన్లు సరైనవే"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 417,
+    "question_text": "430 The author of the book “Social Learning and Personality Development” is",
+    "options": {
+      "1": "Bandura ఫండురా",
+      "2": "Skinner స్కినుర్",
+      "3": "Thorndike థాయన్డైక్",
+      "4": "Bruner బ్రూనర్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 418,
+    "question_text": "431 The book “The Process of Education” was written by",
+    "options": {
+      "1": "Thorndike థాయన్ డైక్",
+      "2": "Ivan Pavlov ఆవాన్ పావ్సలోవ్స",
+      "3": "Jerome Bruner జెరోమ్స బ్రూనర్",
+      "4": "Bandura ఫండురా"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 419,
+    "question_text": "432 According to Bruner‟s Theory of Instruction, this is in correct one.",
+    "options": {
+      "1": "Learning Readiness ఄబయసనకు సనుదీత",
+      "2": "Content Construction విషమ నిరామణము",
+      "3": "Content Sequence విషమ వరుసక్రభం",
+      "4": "Punishment శిక్షించడం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 420,
+    "question_text": "433 According to Bruner, this type of motivation has more influence on the learner",
+    "options": {
+      "1": "Extrinsic Motivation ఫహయగత ప్రేయణ",
+      "2": "Intrinsic Motivation ఄంతయగత ప్రేయణ",
+      "3": "Forceful Motivation ఫలవంతపు ప్రేయణ",
+      "4": "Motivation has no role ప్రేయణ పాత్ర లేదు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 421,
+    "question_text": "434 According to Bruner,",
+    "options": {
+      "1": "Interest and curiosity of the learner are major learning factors",
+      "2": "Self learning should not be given more importance",
+      "3": "Learning is Teacher centred",
+      "4": "The learning content is important rather than method of teaching"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 422,
+    "question_text": "435 Bruner‟s Theory is also known as",
+    "options": {
+      "1": "Classical Conditioning Theory",
+      "2": "Operant Conditioning Theory",
+      "3": "Trial and Error Theory",
+      "4": "Discovery Learning Theory"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 423,
+    "question_text": "436 Bruner‟s approach gives importance to",
+    "options": {
+      "1": "Self Learning స్త్రేమ ఄబయసనం",
+      "2": "Teacher centered ఈపాధ్యయమ కేంద్రీక్ృతం",
+      "3": "Lecture Method ఈ఩నాయస ఩దీతి",
+      "4": "Rote Learning ఫటీట ఄబయసనం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 424,
+    "question_text": "437 The teaching content that presents subject matter in a meaningful and organized form has",
+    "options": {
+      "1": "Content Validity విషమ సప్రమాణత",
+      "2": "Content Reliability విషమ విశేసన్లమత",
+      "3": "Content Construction విషమ నిరామణం",
+      "4": "Content Test విషమ ఩రీక్ష"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 425,
+    "question_text": "438 “Any concept can be effectively taught to any one at any stage,” is said by",
+    "options": {
+      "1": "Thorndike థాయన్ డైక్",
+      "2": "Ivan Pavlov ఆవాన్ పావ్సలోవ్స",
+      "3": "Skinner స్కినుర్",
+      "4": "Jerome Bruner జెరోమ్స బ్రూనర్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 426,
+    "question_text": "439 According to Bruner‟s Theory of Instruction, the correct order of teaching is",
+    "options": {
+      "1": "A, B, C",
+      "2": "B, C, A",
+      "3": "C, B, A",
+      "4": "B, A, C"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 427,
+    "question_text": "440 In Bruner‟s Theory of Instruction, the teacher mainly acts as",
+    "options": {
+      "1": "Dictator నిమంత",
+      "2": "Monitor ఩యయవేక్షకుడు",
+      "3": "Lecturer ఈ఩నాయసకుడు",
+      "4": "Examiner ఩రీక్షకుడు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 428,
+    "question_text": "441 According to Bruner‟s Theory learning through diagrams and pictures , represents",
+    "options": {
+      "1": "Enactive Method క్రియాతమక్ ఩దీతి",
+      "2": "Iconic Method చిత్ర ప్రతిభ ఩దీతి",
+      "3": "Symbolic Method ప్రతీకాతమక్ ఩దీతి",
+      "4": "Verbal Method శాబిక్ి ఩దీతి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 429,
+    "question_text": "442 Vygotsky belongs to this country",
+    "options": {
+      "1": "Sri Lanka శ్రీ లంక్",
+      "2": "India ఆండియా",
+      "3": "Russia యషాయ",
+      "4": "Pakistan పాకసాాన్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 430,
+    "question_text": "443 Socio Cultural Theory was developed by",
+    "options": {
+      "1": "Skinner స్కినుర్",
+      "2": "Sigmund Freud స్కగమండ్ ఫ్రాయిడ్",
+      "3": "Vygotsky వైగోట్స్త్రి",
+      "4": "Erikson ఎరిక్సన్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 431,
+    "question_text": "444 The concept of ZPD was given by",
+    "options": {
+      "1": "Watson వాటసన్",
+      "2": "Vygotsky వైగోట్స్త్రి",
+      "3": "Erikson ఎరిక్సన్",
+      "4": "Sigmund Freud స్కగమండ్ ఫ్రాయిడ్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 432,
+    "question_text": "445 This concept is not related to Vygotsky",
+    "options": {
+      "1": "ZPD జెడ్. ప. డి",
+      "2": "Schemata స్కిమాట",
+      "3": "Scaffolding సారువా",
+      "4": "Reciprocal Teaching ఩యసూయ బోధన"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 433,
+    "question_text": "446 According to Vygotsky, ZPD means",
+    "options": {
+      "1": "Zone of Pre Development",
+      "2": "Zone of Proximal Development",
+      "3": "Zone of Personality Development",
+      "4": "Zone of Psychological Development"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 434,
+    "question_text": "447 This is not a Lower Mental Function according to Vygotsky",
+    "options": {
+      "1": "Observation ఩రిశీలించడం",
+      "2": "Questioning ప్రశిుంచడం",
+      "3": "Comparing పోలిడం",
+      "4": "Reasoning వివేచించడం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 435,
+    "question_text": "448 This belongs to Lower Mental function according to Vygotsky",
+    "options": {
+      "1": "Reasoning వివేచించడం",
+      "2": "Questioning ప్రశిుంచడం",
+      "3": "Discrimination విచక్షణ",
+      "4": "Analysing విశ్లీషంచడం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 436,
+    "question_text": "449 This is not a Higher Mental Functions according to Vygotsky",
+    "options": {
+      "1": "Analysing విశ్లీషంచడం",
+      "2": "Synthesizing సంశ్లీషంచడం",
+      "3": "Creative Thinking సృజనాతమక్ంగా అలోచించడం",
+      "4": "Comparing పోలిడం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 437,
+    "question_text": "450 According to Vygotsky, correct use of higher mental functions",
+    "options": {
+      "1": "Only A A మాత్రమే",
+      "2": "Only B B మాత్రమే",
+      "3": "Both A and B A భరియు B రండూ",
+      "4": "Both A and B are not related"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 438,
+    "question_text": "452 A: “Social Scaffolding” is used by Vygotsky",
+    "options": {
+      "1": "Only A is Correct A మాత్రమే సరైనది",
+      "2": "Only B is Correct B మాత్రమే సరైనది",
+      "3": "Both A & B are Correct A & B లు రండు సరైనవి",
+      "4": "Both A & B are incorrect"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 439,
+    "question_text": "453 This plays a major role in cognitive development, according to Vygotsky.",
+    "options": {
+      "1": "Rote Learning ఫటీట ఄబయసనం",
+      "2": "Memorization సమృతి",
+      "3": "Language భ్యష",
+      "4": "Habits ఄలవాటు ీ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 440,
+    "question_text": "454 According to Vygotsky, the private speech at childhood transforms to this speech as they grow up",
+    "options": {
+      "1": "Outer Speech బాహయ భ్యషణం",
+      "2": "Inner Speech ఄంతరాభషణం",
+      "3": "Indirect Speech ఩రోక్ష భ్యషణం",
+      "4": "Direct Speech ప్రతయక్ష భ్యషణం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 441,
+    "question_text": "455 One of the following is not related to Gestaltism.",
+    "options": {
+      "1": "Verthimar వరీభీ ర్",
+      "2": "Kofka కోఫ్కి",
+      "3": "Kohler కోహెలర్",
+      "4": "Skinner స్కినుర్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 442,
+    "question_text": "456 “The Mentality of Apes” book was written by",
+    "options": {
+      "1": "Thorndike థాయన్డైక్",
+      "2": "Kohler కోహెలర్",
+      "3": "Vygotsky వైగోట్స్త్రి",
+      "4": "Skinner స్కినుర్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 443,
+    "question_text": "457 Kohler conducted experiments on this animal",
+    "options": {
+      "1": "Dog కుక్ి",
+      "2": "Cat పలిీ",
+      "3": "Elephant ఏనుగు",
+      "4": "Chimpanzee చింపాంజీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 444,
+    "question_text": "458 Gestalt means",
+    "options": {
+      "1": "Configuration సభగ్రాక్ృతి",
+      "2": "Intelligence ప్రజా",
+      "3": "Reinforcement పునయభలనం",
+      "4": "Teaching Machine బోధనా మంత్రం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 445,
+    "question_text": "459 In Kohler‟s experiment, the name of chimpanzee is",
+    "options": {
+      "1": "Rani రాణి",
+      "2": "Sultana సులినా",
+      "3": "Fathima ఫ్కతిమా",
+      "4": "Jyothi జోయతి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 446,
+    "question_text": "460 In this type of learning, thought comes like a flash",
+    "options": {
+      "1": "Classical Conditioning శాస్త్రమర నిఫంధన",
+      "2": "Operant Conditioning కాయయసాధక్ నిఫంధన",
+      "3": "Trial and Error మతు ద్యష",
+      "4": "Insightful ఄంతర్ దృషట"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 447,
+    "question_text": "461 In Insightful learning, chimpanzee observed different aspects in this manner",
+    "options": {
+      "1": "Analysed విశ్లీషణ",
+      "2": "Organised whole వయవస్త్రక్ా ృత మొతింగా",
+      "3": "Synthesised సంశ్లీషణ",
+      "4": "Discriminated విచక్షణ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 448,
+    "question_text": "462 This is not a characteristic of Insightful Learning",
+    "options": {
+      "1": "Observe the problematic situation",
+      "2": "Initially, trying Trial and Error method",
+      "3": "Understanding the learning status as a whole",
+      "4": "Learning new task by conditioning"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 449,
+    "question_text": "464 This leadership focuses on serving the needs of their team members",
+    "options": {
+      "1": "Democratic Leadership ప్రజ్ఞసాేభయ నామక్తేం",
+      "2": "Servant Leadership స్నవా నామక్తేం",
+      "3": "Transactional Leadership ఩యసూయ అధ్యరిత నామక్తేం",
+      "4": "Autocratic Leadership నిమంతృతే నామక్తేం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 450,
+    "question_text": "465 This is not the characteristics of a good classroom environment",
+    "options": {
+      "1": "Safe and secure బద్రమైన భరియు యక్షణ గల",
+      "2": "Positive Atmosphere",
+      "3": "Supportive Relationships",
+      "4": "No clear rules"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 451,
+    "question_text": "466 The final step in Action Research plan",
+    "options": {
+      "1": "Identifying the problem",
+      "2": "Preparation of the report",
+      "3": "",
+      "4": ""
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 452,
+    "question_text": "467 In the classroom management, this is not related to physical organisation",
+    "options": {
+      "1": "Lesson Construction పాఠాయంశ నిరామణం",
+      "2": "Seating Arrangement కూరుినే ఄభరిక్",
+      "3": "White Boards తెలీఫలీలు",
+      "4": "Projectors ప్రొజెక్టరు ీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 453,
+    "question_text": "468 The art of influencing, guiding and inspiring individuals in a team is",
+    "options": {
+      "1": "Friendship స్నుహం",
+      "2": "Leadership నామక్తేం",
+      "3": "Dictatorship నిమంతృతేం",
+      "4": "Relationship సంఫంధం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 454,
+    "question_text": "469 This is not a quality of a good leader",
+    "options": {
+      "1": "Visionary ద్యయశనికుడు",
+      "2": "Motivation ప్రేయణను క్లిగించడం",
+      "3": "Influencer ప్రభ్యవితం చేస్నవాడు",
+      "4": "Unstable person ఄస్కాయమైన వాడు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 455,
+    "question_text": "470 Leadership style where the leader make decisions without consulting others",
+    "options": {
+      "1": "Democratic Leadership ప్రజ్ఞసాేభయయుత నామక్తేం",
+      "2": "Service Leadership స్నవా నామక్తేం",
+      "3": "Autocratic Leadership నియంకుశతే నామక్తేం",
+      "4": "Transactional Leadership"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 456,
+    "question_text": "471 Father of Action Research",
+    "options": {
+      "1": "Kurt Lewin క్ర్ట లెవిన్",
+      "2": "Sigmund Freud స్కగమండ్ ఫ్రాయిడ్",
+      "3": "Ivan Pavlov ఆవాన్ పావ్సలవ్స",
+      "4": "T orndike థాయన్ డైక్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 457,
+    "question_text": "h 472 Seating arrangement in straight lines",
+    "options": {
+      "1": "U -Shaped Arrangement U – అకాయపు ఄభరిక్",
+      "2": "Traditional Arrangement సాంప్రద్యయాక్ ఄభరిక్",
+      "3": "Circular Arrangement వలయాకాయ ఄభరిక్",
+      "4": "Auditorium Arrangement అడిటోరిమం ఄభరిక్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 458,
+    "question_text": "474 An e - classroom",
+    "options": {
+      "1": "Uses only chalk and board",
+      "2": "Uses only charts",
+      "3": "Uses only lectures",
+      "4": "Uses Multimedia"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 459,
+    "question_text": "475 Effective classroom",
+    "options": {
+      "1": "Not safe and secure",
+      "2": "Support the student‟s needs",
+      "3": "Rigid in the rules",
+      "4": "Lack of proper lighting facilities"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 460,
+    "question_text": "476 Most desirable outcome of classroom management",
+    "options": {
+      "1": "Silence of the students విద్యయరుీల మౌనం",
+      "2": "Fear towards a teacher ఈపాధ్యయయుని ఩టీ బమం",
+      "3": "Good learning environment భంచి ఄబయసనా వాతవయణం",
+      "4": "Punishing the students విద్యయరుీలను శిక్షించడం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 461,
+    "question_text": "477 Classroom management principle of respect and empathy come under this approach",
+    "options": {
+      "1": "Autocratic Approach నియంకుశతేవాదం",
+      "2": "Humanistic Approach మానవతవాదం",
+      "3": "Behaviouristic Approach ప్రవయినావాదం",
+      "4": "Democratic Approach ప్రజ్ఞసాేభయ వాదం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 462,
+    "question_text": "478 As a leader, a teacher should not Build a confidence in students Manage time effectively Encourage conflicts సంఘయణి లను ప్రోతసహంచడం Motivate students విద్యయరుీలకు ప్రేయణ క్లిగించడం 479 Kurt Lewin‟s Model of Action Research does not possess this step",
+    "options": {
+      "1": "Planning ప్రణాళికా యచన",
+      "2": "Sharing ఩ంచ్చకోవడం",
+      "3": "Action చయయ",
+      "4": "Observation ఩రిశీలన"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 463,
+    "question_text": "480 Leadership that encourages team members in decision making process",
+    "options": {
+      "1": "Democratic Leadership ప్రజ్ఞసాేభయ నామక్తేం",
+      "2": "Autocratic leadership నియంకుశతే నామక్తేం",
+      "3": "Service Leadership స్నవా నామక్తేం",
+      "4": "Coaching Leadership కోచింగ్ నామక్తేం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 464,
+    "question_text": "481 Poor strategy for managing classroom time",
+    "options": {
+      "1": "Setting up clear goals",
+      "2": "Use of Technology",
+      "3": "Unawareness of the learning objectives",
+      "4": "Prioritisation"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 465,
+    "question_text": "482 Most suitable seating arrangement for the teacher -centred lecture",
+    "options": {
+      "1": "Traditional Rows సాంప్రద్యమక్ వరుసలు",
+      "2": "Bean bag Seating బీన్ బాయగ్ స్త్రటింగ్",
+      "3": "Small Groups చిను సమూహాలు",
+      "4": "Circular Environment వలయాకాయపు ఄభరిక్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 466,
+    "question_text": "483 Delegative leadership is referred to",
+    "options": {
+      "1": "Democratic Leadership ప్రజ్ఞసాేభయ నామక్తేం",
+      "2": "Autocratic Leadership నియంకుశతే నామక్తేం",
+      "3": "Laissez Faire Leadership లేస్నజ్ ఫెయిర్ నామక్తేం",
+      "4": "Coaching Leadership కోచింగ్ నామక్తేం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 467,
+    "question_text": " 484 Guidance is a",
+    "options": {
+      "1": "Continuous processes",
+      "2": "Teaching learning process",
+      "3": "Regular physical activity",
+      "4": "One time activity"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 468,
+    "question_text": "485 Process of giving Guidance is",
+    "options": {
+      "1": "Experiment ప్రయోగం",
+      "2": "Conversation సంభ్యషణ",
+      "3": "Counselling భంత్రణం – కౌనిసలింగ్",
+      "4": "Teaching బోధన"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 469,
+    "question_text": "486 Characteristics of a well being person -",
+    "options": {
+      "1": "Compares with others ఆతరులతో పోలుికోవడం",
+      "2": "Emotionally stable భ్యవోద్వయగ఩యంగా స్కాయంగా ఈంటాడు",
+      "3": "Pessimist నిరాశావాది",
+      "4": "Cannot adjust with others ఆతరులతో సరుబాి టు క్లిగి ఈండలేడు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 470,
+    "question_text": "487 Guidance given to select a suitable career is",
+    "options": {
+      "1": "Educational guidance విద్యయవిషమక్ మాయగదయశక్తేం",
+      "2": "Vocational guidance ఔద్యయగిక్ మాయగదయశక్తేం",
+      "3": "Personal guidance వయకిగత మాయగదయశక్తేం",
+      "4": "Marital guidance వైవాహక్ మాయగదయశక్తేం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 471,
+    "question_text": "488 Guidance given to personal problems is",
+    "options": {
+      "1": "Educational guidance విద్యయవిషమక్ మాయగదయశక్తేం",
+      "2": "Vocational guidance ఔద్యయగిక్ మాయగదయశక్తేం",
+      "3": "Institutional guidance సంసాాగత మాయగదయశక్తేం",
+      "4": "Personal guidance వయకిగత మాయగదయశక్తేం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 472,
+    "question_text": "489 Defence mechanisms help in",
+    "options": {
+      "1": "Reducing Psychological stress",
+      "2": "Overthinking about problems",
+      "3": "Solve problems సభసయల ఩రిషాిరానిక",
+      "4": "To become emotionally unstable"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 473,
+    "question_text": "490 Characteristic of a person with adjustment",
+    "options": {
+      "1": "Knows about his abilities",
+      "2": "Unable to take decisions నియణయాలను తీసుకోలేడు",
+      "3": "Having over confidence తనపై ఄతి నభమక్ం క్లిగి ఈంటాడు",
+      "4": "Involves in unnecessary things"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 474,
+    "question_text": "491 Defence mechanism that refuses reality",
+    "options": {
+      "1": "Projection ప్రక్షే఩ణం",
+      "2": "Rationalization హేతక్తక్యణం",
+      "3": "Denial నిరాక్యణ",
+      "4": "Repression దభనం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 475,
+    "question_text": "492 The type of counselling where the counsellor shows domination",
+    "options": {
+      "1": "Non – Directive counselling ఄనిరేశి క్ భంత్రణం",
+      "2": "Elective counselling ద్యయశనిక్ భంత్రణం",
+      "3": "Directive counselling నిరేిశక్ భంత్రణం",
+      "4": "Goal directed counselling లక్షాయతమక్ భంత్రణం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 476,
+    "question_text": "493 Incorrect statement regarding counselling",
+    "options": {
+      "1": "Psychological tests do not help in counselling",
+      "2": "Counselling helps in understanding abnormal behaviour.",
+      "3": "In directive counselling, counsellor plays a major role .",
+      "4": "Counselling helps in solving problems"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 477,
+    "question_text": "494 Defence mechanism that is pushing sorrowful thoughts into unconsciousness",
+    "options": {
+      "1": "Compensation ఩రిహాయం",
+      "2": "Repression దభనం",
+      "3": "Identification తద్యతీమక్యణం",
+      "4": "Displacement విసాి఩న"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 478,
+    "question_text": "495 Well-being is related to these aspects",
+    "options": {
+      "1": "Physical శారీయక్",
+      "2": "Mental మానస్కక్",
+      "3": "Social సాంఘిక్",
+      "4": "Related to all these aspects"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 479,
+    "question_text": "496 Group guidance is given to",
+    "options": {
+      "1": "Teachers only ఈపాధ్యయయులకు మాత్రమే",
+      "2": "Only to one individual ఑క్ వయకిక మాత్రమే",
+      "3": "A group of individuals of same class",
+      "4": "Persons working in different professions"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 480,
+    "question_text": "497 It is needed for good physical and mental health",
+    "options": {
+      "1": "Should sleep at late night",
+      "2": "Should do physical exercise regularly",
+      "3": "Should involve in unnecessary affairs",
+      "4": "Should be jealous about others"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 481,
+    "question_text": "498 Positive factor that influences mental health",
+    "options": {
+      "1": "Good social relations",
+      "2": "Maladjustment సరుిబాటులేనితనం",
+      "3": "Social Isolation సామాజిక్ ఑ంటరితనం",
+      "4": "Overstress తీవ్రమైన ఑తిిడి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 482,
+    "question_text": "499 Balance between persons needs and desires",
+    "options": {
+      "1": "Stress ఑తిిడి",
+      "2": "Adjustment సరుిబాటు",
+      "3": "Behaviour ప్రవయిన",
+      "4": "Personality మూరిిభతేం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 483,
+    "question_text": "500 Day dreaming is this type of defence mechanism",
+    "options": {
+      "1": "Regression ప్రతిగభనం",
+      "2": "Compensation ఩రిహాయం",
+      "3": "Projection ప్రక్షే఩ణం",
+      "4": "Fantasy సవేయక్లూన"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 484,
+    "question_text": "501 Personal Guidance is not related to",
+    "options": {
+      "1": "Adjustment problems సరుబాి టు సభసయలు",
+      "2": "Organisational problems వయవసాాగత సభసయలు",
+      "3": "Family problems కుటుంఫ సభసయలు",
+      "4": "Marital problems వైవాహక్ సభసయలు"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 485,
+    "question_text": "502 Guidance given to the students to choose a suitable course",
+    "options": {
+      "1": "Vocational guidance ఔద్యయగిక్ మాయగదయశక్తేం",
+      "2": "Educational guidance",
+      "3": "Personal guidance వయకిగత మాయగదయశక్తేం",
+      "4": "Sports guidance క్రీడా మాయగదయశక్తేం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 486,
+    "question_text": "503 Negative aspect of mental health",
+    "options": {
+      "1": "Having stress ఑తిిడిని క్లిగి ఈండడం",
+      "2": "Having adjustment సరుిబాటు క్లిగిఈండడం",
+      "3": "Having good friends",
+      "4": "Having good sleep"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 487,
+    "question_text": "504 Positive aspect of mental health",
+    "options": {
+      "1": "Overthinking ఄతిఅలోచన",
+      "2": "Malnutrition పోషకాహాయలో఩ం",
+      "3": "Adjustment to the surroundings",
+      "4": "Frustration కుంఠనము"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 488,
+    "question_text": "505 In NEP – 2020 NEP means",
+    "options": {
+      "1": "National Employment Policy",
+      "2": "National Examination Policy",
+      "3": "National Education Policy",
+      "4": "National Enrolment Policy"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 489,
+    "question_text": "506 The first education policy of the 21st century is",
+    "options": {
+      "1": "PoA -1992",
+      "2": "NEP - 1986",
+      "3": "NEP - 1968",
+      "4": "NEP - 2020"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 490,
+    "question_text": "507 In NEP – 2020, 5 + 3 + 3 + 4 structure is prescribed to the children of this age group (in years)",
+    "options": {
+      "1": "4 - 12",
+      "2": "3 - 18",
+      "3": "6 - 14",
+      "4": "3 – 15"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 491,
+    "question_text": "508 NEP – 2020 emphasis this aspect",
+    "options": {
+      "1": "Rote learning ఫటీట఩దీతి",
+      "2": "Examination preparation ఩రీక్షల కొయకు సనుదతి",
+      "3": "Teacher centred education ఈపాధ్యయమ కేంద్ర విదయ",
+      "4": "21st century skills 21వ శతఫిపు నైపుణాయలు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 492,
+    "question_text": "509 NCF – 2005 was designed by",
+    "options": {
+      "1": "SCERT",
+      "2": "DIET",
+      "3": "NCTE",
+      "4": "NCERT"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 493,
+    "question_text": "510 NCF – 2005 stands for",
+    "options": {
+      "1": "National Children Framework - 2005",
+      "2": "National Course Framework - 2005",
+      "3": "National Curriculum Framework - 2005",
+      "4": "National Class Framework - 2005"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 494,
+    "question_text": "511 National Education Policy – 2020 formulated this structure of education",
+    "options": {
+      "1": "10 + 2 + 3",
+      "2": "11 + 1 + 3",
+      "3": "5 + 3 + 3 + 4",
+      "4": "10 + 3 +"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 495,
+    "question_text": "512 According to NEP – 2020 education starts at the age of",
+    "options": {
+      "1": "3 years 3 సంవతసరాలు",
+      "2": "5 years 5 సంవతసరాలు",
+      "3": "6 years 6 సంవతసరాలు",
+      "4": "2 years 2 సంవతసరాలు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 496,
+    "question_text": "513 NCF – FS 2022 is based on",
+    "options": {
+      "1": "NPE - 1986",
+      "2": "NCF - 2008",
+      "3": "RTE - 2009",
+      "4": "NEP - 2020"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 497,
+    "question_text": "514 NCTE",
+    "options": {
+      "1": "National Committee on Teacher Education",
+      "2": "National Council for Trade and Education",
+      "3": "National Council for Teacher Education",
+      "4": "National Conference on Teacher Empowerment"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 498,
+    "question_text": "515 APSCF aims at this",
+    "options": {
+      "1": "Developing memory skills",
+      "2": "Developing examination skills",
+      "3": "Holistic development",
+      "4": "Improve hand writing skills"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 499,
+    "question_text": "516 NTA means",
+    "options": {
+      "1": "National Technological Assessment",
+      "2": "National Television Academy",
+      "3": "National Trade and Administration",
+      "4": "National Testing Agency"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 500,
+    "question_text": "517 According to RTE – 2009 Act the following age group children have the right to compulsory education",
+    "options": {
+      "1": "5 – 9 years 5 – 9 సంవతసరాలు",
+      "2": "6 – 14 years 6 – 14 సంవతసరాలు",
+      "3": "4 – 12 years 4 – 12 సంవతసరాలు",
+      "4": "7 – 18 years 7 – 18 సంవతసరాలు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 501,
+    "question_text": "518 Expand APSCF",
+    "options": {
+      "1": "Andhra Pradesh School Course Framework",
+      "2": "Andhra Pradesh School Curriculum Framework",
+      "3": "Andhra Pradesh State Children Framework",
+      "4": "Andhra Pradesh State Curriculum Framework"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 502,
+    "question_text": "519 NCF – FS 2022 was designed by",
+    "options": {
+      "1": "SCERT",
+      "2": "DIET",
+      "3": "NCERT",
+      "4": "SSA"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 503,
+    "question_text": "520 4 indicates this stage in NEP - 2020 structure of education 5 + 3 + 3 + 4,",
+    "options": {
+      "1": "Foundational level పునాది సాాయి",
+      "2": "Secondary level మాధయమిక్ సాాయి",
+      "3": "Preparatory level సనాుహ సాాయి",
+      "4": "Middle level భధయ సాాయి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 521,
+    "question_text": "RTE Act was implemented from this year",
+    "options": {
+      "1": "2009",
+      "2": "2008",
+      "3": "2010",
+      "4": "2005"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 505,
+    "question_text": "522 DIKSHA means",
+    "options": {
+      "1": "Directorate of Information for Knowledge Sharing",
+      "2": "District Institute for Knowledge Sharing",
+      "3": "Department of Information for Knowledge Sharing",
+      "4": "Digital Infrastructure for Knowledge Sharing"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 506,
+    "question_text": "523 NEP – 2020 gives importance to",
+    "options": {
+      "1": "Experiential Learning ఄనుబవాతమక్ ఄబయసనం",
+      "2": "Memorization గురుించ్చకోవడం",
+      "3": "Learning to reading textbooks only",
+      "4": "Rote learning ఫటీ టఄబయసనం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 507,
+    "question_text": "524 Anganwaadi education comes under this frame",
+    "options": {
+      "1": "Primary ప్రాథమిక్",
+      "2": "E.C.C.E ఆ.స్క.స్క.ఆ",
+      "3": "High School ఈనుతపాఠశాల",
+      "4": "Upper Primary ప్రాథమికోనుత"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 508,
+    "question_text": "525 Southern regional office of NCTE is in",
+    "options": {
+      "1": "New Delhi న్యయఢిలీీ",
+      "2": "Hyderabad హైదరాబాదు",
+      "3": "Bengaluru బెంగళూరు",
+      "4": "Lucknow లకోు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 509,
+    "question_text": "526 This is not an Assessment tool",
+    "options": {
+      "1": "Essay Type Tests వాయసరూ఩ ప్రశులు",
+      "2": "Interview ఩రి఩ృచి",
+      "3": "Observation ఩రిశీలన",
+      "4": "Time Table కాల నియణమ ఩టిటక్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 510,
+    "question_text": "527 Assessment carried out from time to time to know the progress of the children",
+    "options": {
+      "1": "Summative Assessment సంగ్రహణ భదింపు",
+      "2": "Formative Assessment నిరామణాతమక్ భదింపు",
+      "3": "Baseline Test ప్రాయంబ ఩రీక్ష",
+      "4": "Project work ప్రాజెక్ ట఩ని"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 511,
+    "question_text": "528 Number of times the Summative Assessment is conducted in schools",
+    "options": {
+      "1": "One Time ఑క్ిసారి",
+      "2": "Two Times రండు సారుీ",
+      "3": "Three Times మూడు సారుీ",
+      "4": "Four Times నాలుగు సారుీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 512,
+    "question_text": "529 Assessing the children‟s abilities as a part of daily teaching – learning process is",
+    "options": {
+      "1": "Assessment as Learning",
+      "2": "Assessment for Learning",
+      "3": "Assessment of Learning",
+      "4": "Assessment on Learning"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 513,
+    "question_text": "530 Assessment used to understand the children‟s behaviour in a classroom",
+    "options": {
+      "1": "Written test వ్రాత ఩రీక్ష",
+      "2": "Project work ప్రాజెక్ ట఩ని",
+      "3": "Observation ఩రిశీలన",
+      "4": "Note books నోట్ పుసికాలు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 514,
+    "question_text": "531 This is not correctly related to Summative Assessment",
+    "options": {
+      "1": "It is assessed in the form of examinations.",
+      "2": "It is conducted in a specific schedule.",
+      "3": "It reveals only about the result only.",
+      "4": "It is an internal classroom assessment"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 515,
+    "question_text": "532 This is not the main aim of Diagnostic Evaluation",
+    "options": {
+      "1": "Estimates the strengths and weaknesses among Students.",
+      "2": "Provides Qualitative Education.",
+      "3": "Identifies the hurdles among students.",
+      "4": "It is not useful to rectify the mistakes of"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 516,
+    "question_text": "Children. 533 “Destiny of the Nation is shaped in the classroom”, stated by",
+    "options": {
+      "1": "Kothari Commission కొఠారీ క్మీషన్",
+      "2": "Radha Krishnan Commission",
+      "3": "University Commission విశేవిద్యయలమ క్మీషన్",
+      "4": "Macaulay Report మెకాలే రిపోర్ ట"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 517,
+    "question_text": "534 The process of preparing a report by observing and analysing a problem and its solution is called",
+    "options": {
+      "1": "Observation ఩రిశీలన",
+      "2": "Project Work ప్రాజెక్ ట఩ని",
+      "3": "Interview ఩రి఩ృచి",
+      "4": "Questionnaire ప్రశాువళి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 518,
+    "question_text": "535 Choose the wrong statement related to Assessment.",
+    "options": {
+      "1": "Different tools are used for Assessment",
+      "2": "It is used in teaching – learning process",
+      "3": "It gives importance to knowledge construction",
+      "4": "It is done only through examinations"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 519,
+    "question_text": "536 According to RTE 2009, this age group children should be given free and compulsory education (in years)",
+    "options": {
+      "1": "1-14",
+      "2": "6-14",
+      "3": "3-14",
+      "4": "1-16"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 520,
+    "question_text": "537 CCE means",
+    "options": {
+      "1": "Comprehensive Curricular Evaluation",
+      "2": "Continuous Curricular Evaluation",
+      "3": "Comprehensive Continuous Evaluation",
+      "4": "Continuous Comprehensive Evaluation"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 521,
+    "question_text": "538 Aim of Continuous Comprehensive Evaluation",
+    "options": {
+      "1": "Rote learning ఫటీట ఄబయసనం",
+      "2": "Remembering Information",
+      "3": "",
+      "4": "Analytical Thinking"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 522,
+    "question_text": "Securing good marks 539 Progress report of the child tells",
+    "options": {
+      "1": "Holistic development of the students",
+      "2": "Only the marks of the students",
+      "3": "Information about the lessons",
+      "4": "Information about the teachers"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 523,
+    "question_text": "540 This is not a quality of a good test",
+    "options": {
+      "1": "Validity సప్రమాణత",
+      "2": "Reliability విశేసన్లమత",
+      "3": "Objectivity లక్షాయతమక్త",
+      "4": "Subjectivity విషమనిషటత"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 524,
+    "question_text": "541 Assessment done after the completion of a course",
+    "options": {
+      "1": "Formative Assessment నిరామణాతమక్ మూలయంక్నం",
+      "2": "Baseline Test ప్రాయంబ సాాయి ఩రీక్ష",
+      "3": "Half yearly Examination ఄయీ సంవతసయ ఩రీక్ష",
+      "4": "Summative Assessment సంగ్రహణాతమక్ భదింపు"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 525,
+    "question_text": "542 Item that is not related to Response Assessment",
+    "options": {
+      "1": "Multiple – Choice Questions",
+      "2": "Binary Choice Questions",
+      "3": "Natural Observation సహజ ఩రిశీలన",
+      "4": "Matching Type Questions జత ఩రిచే ప్రశులు"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 526,
+    "question_text": "543 This tool is used to know whether a concept exists or not",
+    "options": {
+      "1": "Teacher Diary టీచర్ డైరీ",
+      "2": "Student‟s Diary విద్యయరులీ డైరీ",
+      "3": "Checklist చెక్లిసుట",
+      "4": "Portfolio పోరుఫోట లియో"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 527,
+    "question_text": "544 The Assessment that declares the final judgement on a childrens‟s learning achievement",
+    "options": {
+      "1": "Assessment of Learning",
+      "2": "Assessment for Learning",
+      "3": "Assessment as Learning",
+      "4": "Assessment by Learning"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 528,
+    "question_text": "545 This type of questions help students to express their own views",
+    "options": {
+      "1": "Fill in the blanks ఖాళీలను పూరించడం",
+      "2": "Essay Type Questions వాయసరూ఩ ప్రశులు",
+      "3": "Matching జత ఩యచడం",
+      "4": "Multiple Choice Questions"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 529,
+    "question_text": "546 Assessment conducted at the end of the Academic Year",
+    "options": {
+      "1": "Baseline Test ప్రాయంబసాాయి భదింపు",
+      "2": "Formative Assessment నిరామణాతమక్ మూలయంక్నం",
+      "3": "Summative Assessment సంగ్రహణాతమక్ మూలయంక్నం",
+      "4": "Assignment ఄసైన్మెంటు"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 530,
+    "question_text": "547 Measure of central tendency",
+    "options": {
+      "1": "Arithmetic Mean ఄంక్భధయభం",
+      "2": "Variance విసిృతి",
+      "3": "Standard Derivation ప్రామాణిక్ విచలనం",
+      "4": "Range వాయపి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 531,
+    "question_text": "548 This is not a measure of variability",
+    "options": {
+      "1": "Quartile Deviation చతరాీంశ విచలనం",
+      "2": "Average Deviation సగటు విచలనం",
+      "3": "Variance విసిృతి",
+      "4": "Median భధయగతం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 532,
+    "question_text": "549 Arithmetic mean of 16, 18, 20, 22, 24",
+    "options": {
+      "1": "24",
+      "2": "20",
+      "3": "18",
+      "4": "16"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 533,
+    "question_text": "550 Formula for finding Quartile deviation",
+    "options": {
+      "1": "QD =",
+      "2": "QD =",
+      "3": "QD =",
+      "4": "QD ="
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 534,
+    "question_text": "551 Mean of the first ten Natural Numbers",
+    "options": {
+      "1": "3.5",
+      "2": "4.5",
+      "3": "5.5",
+      "4": "6.5"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 535,
+    "question_text": "552 Median of the scores is 14, 17, 16, 12, 8, 4, 24, 22",
+    "options": {
+      "1": "14",
+      "2": "16",
+      "3": "15",
+      "4": "17"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 536,
+    "question_text": "553 Mode of the given data 7, 6, 8, 9, 10, 7, 6, 9, 8, 10, 7, 8, 7",
+    "options": {
+      "1": "9",
+      "2": "8",
+      "3": "7",
+      "4": "10"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 537,
+    "question_text": "554 In a pie diagram, the sum of the angles of all sectors is",
+    "options": {
+      "1": "120",
+      "2": "180",
+      "3": "90",
+      "4": "360"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 538,
+    "question_text": "555 The following are the marks of a student in various subjects 57, 63, 48, 65, 61. The range is",
+    "options": {
+      "1": "57",
+      "2": "48",
+      "3": "17",
+      "4": "25"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 539,
+    "question_text": "556 The empirical relation between the measures of central tendency",
+    "options": {
+      "1": "Mode = 3 Median – 2 Mean",
+      "2": "Mode = 3 Mean – 2 Median",
+      "3": "Mode = 3 Median + 2 Mean",
+      "4": "Mode = Median – Mean"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 540,
+    "question_text": "557 Bar graph among the following",
+    "options": {
+      "1": "Frequency polygon పౌనః పునయ ఫహుభుజి",
+      "2": "Cumulative Percentage Frequency Curve",
+      "3": "Histogram సోపాన చిత్రం",
+      "4": "Circle Graph వృతిరేఖా చిత్రం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 558,
+    "question_text": "The Arithmetic Mean of the data 7,10,15,10,8,8,7,3,2,10",
+    "options": {
+      "1": "10",
+      "2": "8",
+      "3": "5",
+      "4": "16"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 542,
+    "question_text": "559 Q = 80, Q = 20 then Quartile deviation is 3 1 3 = ,",
+    "options": {
+      "1": "20",
+      "2": "30",
+      "3": "40",
+      "4": "50"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 543,
+    "question_text": "560 Difference between the highest value and the lowest value in a data is called",
+    "options": {
+      "1": "Standard Deviation ప్రామాణిక్ విచలనం",
+      "2": "Quartile Deviation చతరాాంశ విచలనం",
+      "3": "Mean Deviation సగటు విచలనం",
+      "4": "Range వాయపి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 544,
+    "question_text": "561 This isa derived score",
+    "options": {
+      "1": "Range వాయపి",
+      "2": "Deviation విచలనం",
+      "3": "Z -Score జడ్ – సోిరు",
+      "4": "Mean సరాసరి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 545,
+    "question_text": "562 Classification and interpretation of data is called",
+    "options": {
+      "1": "Numerology న్యయభరాలజీ",
+      "2": "Statistics సాంఖయక్ శాసరం",
+      "3": "Algebra బీజగణితం",
+      "4": "Symmetry సషటవం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 546,
+    "question_text": "563 In the formula of Median, ( ) × c, c denotes",
+    "options": {
+      "1": "Frequency వాయపి",
+      "2": "Lower Limit of the Class తయగతి దిగువ హదు ి",
+      "3": "Class - Interval తయగతి ఄంతయం",
+      "4": "Sum of the Frequency పౌనః పునాయల మొతిం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 564,
+    "question_text": " Mode of the data 10, 20, 30, 40, 50",
+    "options": {
+      "1": "10",
+      "2": "20",
+      "3": "50",
+      "4": "Cannot be determined నిరాీరించలేము"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 548,
+    "question_text": "565 This is not related to Graphical representation of data",
+    "options": {
+      "1": "Histogram హసోటగ్రాం",
+      "2": "Pie Graph పై చిత్రం",
+      "3": "Snellen Chart సులెన్ చారుట",
+      "4": "Frequency Polygon పౌనః పునయ ఫహుభుజి"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 549,
+    "question_text": "566 f is equal to",
+    "options": {
+      "1": "C",
+      "2": "N",
+      "3": "m",
+      "4": "d"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 550,
+    "question_text": "567 Median of the scores 76, 24, 53, 35, 80, 09, 43",
+    "options": {
+      "1": "53",
+      "2": "43",
+      "3": "80",
+      "4": "76"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 551,
+    "question_text": "568 This belongs to audio Visual Aid",
+    "options": {
+      "1": "Radio – రేడియో",
+      "2": "Television – టెలివిజన్",
+      "3": "News Paper – వారాి ఩త్రిక్",
+      "4": "Black Board – నలీ ఫల ీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 552,
+    "question_text": "569 The word “Technology” is derived from",
+    "options": {
+      "1": "Russian – యషయన్",
+      "2": "English – అంగీం",
+      "3": "Greek – గ్రీకు",
+      "4": "Persian – ఩రిిమన్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 553,
+    "question_text": "570 “Information for all,” this statement is given by",
+    "options": {
+      "1": "W.T.O",
+      "2": "W.H.O",
+      "3": "I.L.O",
+      "4": "UNESCO"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 554,
+    "question_text": "571 The word „communis‟ is derived from this language",
+    "options": {
+      "1": "Hindi – హందీ",
+      "2": "English – అంగీం",
+      "3": "Latin – లటిన్",
+      "4": "Telugu – తెలుగు"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 555,
+    "question_text": "572 According to UNESCO, Information Technology is related to these branches.",
+    "options": {
+      "1": "Medicine, Technology – వైదయం, సాంకేతిక్త",
+      "2": "Architecture, Geology – అరిిటెక్ిర్, జియాలజీ",
+      "3": "Technology, Engineering – సాంకేతిక్త, ఆంజన్లరింగ్",
+      "4": "Statistics, Data Science – సాంఖయక్ శాసరం, డేటా సైన్స"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 556,
+    "question_text": "573 This belongs to Print Media",
+    "options": {
+      "1": "Radio – రేడియో",
+      "2": "Television – టెలివిజన్",
+      "3": "Cinema – స్కనిమా",
+      "4": "News Paper – వారాి ఩త్రిక్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 557,
+    "question_text": "574 This belongs to Audio aid",
+    "options": {
+      "1": "Radio – రేడియో",
+      "2": "Television – టెలివిజన్",
+      "3": "Cinema – స్కనిమా",
+      "4": "News Paper – వారాి ఩త్రిక్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 558,
+    "question_text": "575 The term “Educational Technology” is derived from the combination of these two words",
+    "options": {
+      "1": "Education, Technology",
+      "2": "Education, Psychology",
+      "3": "Education, Philosophy",
+      "4": "Education, Sociology"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 559,
+    "question_text": "576 The type of communication used in reports, responses to queries and petitions is",
+    "options": {
+      "1": "Horizontal Communication",
+      "2": "Cluster Communication",
+      "3": "",
+      "4": "Star Communication"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 560,
+    "question_text": "577 According to Robert Stolorow, the reason for the utilization of technological knowledge in educational system is",
+    "options": {
+      "1": "Illiteracy",
+      "2": "Acceleration in the generation of New Knowledge",
+      "3": "Poverty and Economic Statutes",
+      "4": "Disparities in the Society"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 561,
+    "question_text": "578 This is not an objective of Educational Technology",
+    "options": {
+      "1": "Creating gap between Teachers and Students",
+      "2": "Provision of modern educational tools",
+      "3": "Creating more self-directed learning opportunities",
+      "4": "Providing Opportunities for more individuals"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 562,
+    "question_text": "579 This is not an example of Print Media",
+    "options": {
+      "1": "News Paper – వారాి ఩త్రిక్",
+      "2": "Books – పుసికాలు",
+      "3": "Television – టెలివిజన్",
+      "4": "Posters – పోసటరుీ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 563,
+    "question_text": "580 This characteristic is not required for Educational films used in Education",
+    "options": {
+      "1": "Must align with curriculum context",
+      "2": "Should not facilitate group learning",
+      "3": "Authenticity is crucial",
+      "4": "Should follow a structured format"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 564,
+    "question_text": "581 This is not an advantage of Educational film",
+    "options": {
+      "1": "Creates interest in studies",
+      "2": "Teach many people at once",
+      "3": "Can‟t present historical events",
+      "4": "Help in acquiring mental abilities necessary for"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 565,
+    "question_text": "learning 582 This is not a limitation of Educational films",
+    "options": {
+      "1": "Training is required to operate projector",
+      "2": "Some schools do not have necessary resources",
+      "3": "It is very expensive",
+      "4": "Creates interest to students"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 566,
+    "question_text": "583 Incorrect statement on the importance of ICT to teachers",
+    "options": {
+      "1": "Creating new course material",
+      "2": "Make abstract concepts easier to understand",
+      "3": "Can provide real life experiences",
+      "4": "Doesn‟t support the development of teaching"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 567,
+    "question_text": "methods 584 “Music” comes under this type of teaching technique",
+    "options": {
+      "1": "Stimulating Visual learning",
+      "2": "Listening Teaching Method",
+      "3": "Tactile Teaching Method",
+      "4": "Kinesthetic Teaching Method"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 568,
+    "question_text": "585 Flash cards come under this type of teaching method",
+    "options": {
+      "1": "Stimulating Visual learning",
+      "2": "Listening Teaching Method",
+      "3": "Tactile Teaching Method",
+      "4": "Kinesthetic Teaching Method"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 569,
+    "question_text": "586 This is not a feature of written communication",
+    "options": {
+      "1": "It is clear",
+      "2": "Can‟t be used as evidence",
+      "3": "It is contextually useful",
+      "4": "It is concise"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 570,
+    "question_text": "587 In Flander‟s interaction analysis category method, the category “Lecturing” comes under this item.",
+    "options": {
+      "1": "Teacher Talk ఈపాధ్యయమ సంభ్యషణ",
+      "2": "Student Talk విద్యయరిీ సంభ్యషణ",
+      "3": "Silence నిశశఫిం",
+      "4": "Confusion గందయగోళం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 571,
+    "question_text": "588 In Flander‟s interaction analysis category method, „student talk response‟ comes under this item",
+    "options": {
+      "1": "Teacher Talk ఈపాధ్యయమ సంభ్యషణ",
+      "2": "Student Talk విద్యయరి ీసంభ్యషణ",
+      "3": "Silence నిశశఫిం",
+      "4": "Confusion గందయగోళం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 572,
+    "question_text": "589 This is not an advantage of ICT",
+    "options": {
+      "1": "Increases Motivation to study",
+      "2": "Completely replaces the role of a teacher",
+      "3": "Learning experience has the potential to extend",
+      "4": "Helps to implement personalised learning"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 573,
+    "question_text": "590 This is not a part of Multimedia",
+    "options": {
+      "1": "Graphics గ్రాఫిక్స",
+      "2": "Animations యానిమేషన్స",
+      "3": "Videos వీడియోస్",
+      "4": "Radio రేడియో"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 574,
+    "question_text": "591 This is not the advantage of Multimedia",
+    "options": {
+      "1": "Friendly Exchange స్నుహపూయేక్ వినిభమం",
+      "2": "Expensive ఖరీదైనది",
+      "3": "Accessible to audience ప్రేక్షకులకు ఄందుబాటులో ఈంటుంది",
+      "4": "Flexible ఄనువైనది"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 575,
+    "question_text": "592 This is an advantage of Multimedia",
+    "options": {
+      "1": "Expensive ఖరీదైనది",
+      "2": "Friendly exchange స్నుహపూయేక్ వినిభమము",
+      "3": "Takes long display loading time",
+      "4": "Compilation Time సంక్లన సభమం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 576,
+    "question_text": "593 This is not a disadvantage of online Education",
+    "options": {
+      "1": "Obscentity falls very easily to young children",
+      "2": "There are many scam sites in the internet",
+      "3": "Hackers may steal person‟s identity",
+      "4": "Saves time and money"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 577,
+    "question_text": "594 This is not a disadvantage of online Education",
+    "options": {
+      "1": "Malicious persons can enter personal computers",
+      "2": "Some people may get addicted to the internet",
+      "3": "Reduces communication gaps",
+      "4": "There are many antisocial sites on internet"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 578,
+    "question_text": "595 This is not a computer language",
+    "options": {
+      "1": "Fortran ఫోరారన్",
+      "2": "Cobol కోబాల్",
+      "3": "Pascal పాసిల్",
+      "4": "Newton న్యయటన్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 579,
+    "question_text": "596 The device used in second generation computers",
+    "options": {
+      "1": "Transistors ట్రానిససటరు ీ",
+      "2": "Vacuum Tubes వాయకూయమ్స టూయబ్బలు",
+      "3": "Integrated circuits ఆంటిగ్రేటెడ్ సరూిాట్లు",
+      "4": "Artificial Intelligence క్ృత్రిభ మేధ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 580,
+    "question_text": "597 This is not a characteristic of computers",
+    "options": {
+      "1": "Speed వేగం",
+      "2": "Accuracy ఖచిితతేం",
+      "3": "Forgetting విసమృతి",
+      "4": "Reliability విశేసన్లమత"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 581,
+    "question_text": "598 This is not a characteristic of computers",
+    "options": {
+      "1": "Memory సమృతి",
+      "2": "Fatigue విసుగు",
+      "3": "Reliability విశేసన్లమత",
+      "4": "Repetetion పునరావృతి"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 582,
+    "question_text": "599 This is not a characteristic of computers",
+    "options": {
+      "1": "Versatality ఫహుముఖ మైనది",
+      "2": "Diligency శ్రదీ",
+      "3": "Automation సేమంచాలక్ం",
+      "4": "Emotional ఈద్వేగఫరితమైనది"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 583,
+    "question_text": "600 This is not an input device",
+    "options": {
+      "1": "Key board క్తబోర్డ",
+      "2": "Mouse మౌస్",
+      "3": "Scanner సాినర్",
+      "4": "Speaker స్త్రూక్ర్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 584,
+    "question_text": "601 This is not an output device",
+    "options": {
+      "1": "Monitor మోనిటర్",
+      "2": "Printer ప్రంటర్",
+      "3": "Speaker స్త్రూక్ర్",
+      "4": "Mouse మౌస్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 585,
+    "question_text": "602 This is not a type of memory in ICT",
+    "options": {
+      "1": "Cache memory కాష్ మెమొరీ",
+      "2": "Primary memory ప్రాధమిక్ మెమొరీ",
+      "3": "Elementary memory ఎలిమెంటరీ మెమొరీ",
+      "4": "Secondary memory సక్ండరీ మెమొరీ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 586,
+    "question_text": "603 Microsoft‟s widely used slideshow software",
+    "options": {
+      "1": "MS WORD",
+      "2": "MS EXCEL",
+      "3": "MS POWERPOINT",
+      "4": "MS DOS"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 587,
+    "question_text": "604 The network works across large areas such as countries and continents",
+    "options": {
+      "1": "LAN",
+      "2": "MAN",
+      "3": "CAN",
+      "4": "WAN"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 588,
+    "question_text": "605 The network that works in small areas like a building or a campus",
+    "options": {
+      "1": "MAN",
+      "2": "LAN",
+      "3": "GAN",
+      "4": "WAN"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 589,
+    "question_text": "606 This is not a type of computer network",
+    "options": {
+      "1": "LAN",
+      "2": "MAN",
+      "3": "CAN",
+      "4": "WAN"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 590,
+    "question_text": "607 In computer network, this is not an advantage of Intranet",
+    "options": {
+      "1": "Communication క్మూయనికేషన్",
+      "2": "Collaboration సహకాయం",
+      "3": "Affordable ఖరుి తకుివ",
+      "4": "Time Consuming ఄధిక్ సభమం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 591,
+    "question_text": "608 Father of modern computer",
+    "options": {
+      "1": "Charles Babbage చారీస్ బాబ్లజ్",
+      "2": "Stephen Hawking స్త్రటఫెన్ హాకంగ్",
+      "3": "Pascal పాసిల్",
+      "4": "Leibniz లబిుజ్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 592,
+    "question_text": "609 Logarithms were invented by",
+    "options": {
+      "1": "Pascal పాసిల్",
+      "2": "Napier నేపమర్",
+      "3": "Leibniz లబిుజ్",
+      "4": "Babbage బాబ్లజ్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 593,
+    "question_text": "610 Shortcut key useful for closing window/ shut down",
+    "options": {
+      "1": "Alt +F 4",
+      "2": "Ctrl + Y",
+      "3": "Ctrl + Z",
+      "4": "Ctrl + X"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 594,
+    "question_text": "611 Shortcut key useful for spellcheck",
+    "options": {
+      "1": "F 1",
+      "2": "F 2",
+      "3": "F 5",
+      "4": "F"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 7,
+    "question_text": "612 Shortcut key useful for underlining",
+    "options": {
+      "1": "Ctrl + S",
+      "2": "Ctrl + U",
+      "3": "Ctrl + P",
+      "4": "Ctrl + K"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 596,
+    "question_text": "613 Shortcut key useful to print a file",
+    "options": {
+      "1": "Ctrl + S",
+      "2": "Ctrl + U",
+      "3": "Ctrl + P",
+      "4": "Ctrl + K"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 597,
+    "question_text": "614 Shortcut key useful to save a file",
+    "options": {
+      "1": "Ctrl + S",
+      "2": "Ctrl + U",
+      "3": "Ctrl + P",
+      "4": "Ctrl + K"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 598,
+    "question_text": "615 Shortcut key useful for right alignment of a text",
+    "options": {
+      "1": "Ctrl + C",
+      "2": "Ctrl + D",
+      "3": "Ctrl + R",
+      "4": "Ctrl + L"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 599,
+    "question_text": "616 Shortcut key useful for „Select all‟",
+    "options": {
+      "1": "Ctrl + B",
+      "2": "Ctrl + A",
+      "3": "Ctrl + C",
+      "4": "Ctrl + E"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 600,
+    "question_text": "617 Shortcut key used to copy a file",
+    "options": {
+      "1": "Ctrl + A",
+      "2": "Ctrl + B",
+      "3": "Ctrl + C",
+      "4": "Ctrl + D"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 601,
+    "question_text": "618 Shortcut key useful to open a new blank document",
+    "options": {
+      "1": "Ctrl + A",
+      "2": "Ctrl + B",
+      "3": "Ctrl + C",
+      "4": "Ctrl + N"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 602,
+    "question_text": "619 Shortcut key useful for central alignment",
+    "options": {
+      "1": "Ctrl + A",
+      "2": "Ctrl + B",
+      "3": "Ctrl + C",
+      "4": "Ctrl + E"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 603,
+    "question_text": "620 Shortcut key useful for Help",
+    "options": {
+      "1": "F 1",
+      "2": "F 4",
+      "3": "F 5",
+      "4": "F"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 7,
+    "question_text": "621 Full form of CPU",
+    "options": {
+      "1": "Computer Parts Unity",
+      "2": "Central Processing Unit",
+      "3": "Code Processing Unit",
+      "4": "Compact Parts Units"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 605,
+    "question_text": "622 Full form of CD",
+    "options": {
+      "1": "Compact Disc",
+      "2": "Computer Disk",
+      "3": "Compact Device",
+      "4": "Computer Device"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 606,
+    "question_text": "623 Full form of WWW",
+    "options": {
+      "1": "Word Wide Web",
+      "2": "Wide Web World",
+      "3": "World Wide Web",
+      "4": "World Web Wide"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 607,
+    "question_text": "624 Full form of DOS",
+    "options": {
+      "1": "Desk Operating Sound",
+      "2": "Disk Operating Sound",
+      "3": "Desk Operating System",
+      "4": "Disk Operating System"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 608,
+    "question_text": "625 Full form of LAN",
+    "options": {
+      "1": "Local Area Network",
+      "2": "Local Aided Network",
+      "3": "Local Advanced Network",
+      "4": "List Automated Network"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 609,
+    "question_text": "626 Full form of IC",
+    "options": {
+      "1": "Internet Circuit",
+      "2": "Integrated Circuit",
+      "3": "Internal Circuit",
+      "4": "International Circuit"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 610,
+    "question_text": "627 Full form of RAM",
+    "options": {
+      "1": "Read All Memory",
+      "2": "Random Access Manufacturing",
+      "3": "Read Access Memory",
+      "4": "Random Access Memory"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 611,
+    "question_text": "628 Full form of HTTP",
+    "options": {
+      "1": "Hyper Text Transfer Protocol",
+      "2": "Hyper Test Transfer Protocol",
+      "3": "Hyper Text Transfer Publishing",
+      "4": "Higher Test Transfer Protocol"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 612,
+    "question_text": "629 Full form of ICT",
+    "options": {
+      "1": "Information and Communication Technology",
+      "2": "International Computer Training",
+      "3": "International Computer Technology",
+      "4": "Information and Communication Training"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 613,
+    "question_text": "630 E-mail means",
+    "options": {
+      "1": "Energetic Mail",
+      "2": "Electronic Mail",
+      "3": "Emerging Mail",
+      "4": "Entertainment Mail"
+    },
+    "answer": 3
+  }
+]

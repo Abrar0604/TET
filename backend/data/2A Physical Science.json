@@ -1,0 +1,2642 @@
+[
+  {
+    "question_id": 1,
+    "question_text": "SCIENCE   1 The speed of a car is 36 Kmph. Its speed in m/s.",
+    "options": {
+      "1": "18",
+      "2": "72",
+      "3": "5",
+      "4": "10"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 2,
+    "question_text": "A car travels 16m in 3s and another 16m in 5s. The average speed of car is (in m/s)",
+    "options": {
+      "1": "8",
+      "2": "6",
+      "3": "4",
+      "4": "2"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 3,
+    "question_text": "The formula for average velocity is",
+    "options": {
+      "1": "Initial velocity + Final velocity",
+      "2": "Initial velocity – Final velocity",
+      "3": "తొలివేగం తుదివేగం 2 2 𝐼𝑛𝑖𝑡𝑖𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦− 𝐹𝑖𝑛𝑎𝑙 𝑣𝑒𝑙𝑜𝑐𝑖𝑡𝑦 −",
+      "4": "తొలివేగం తుదివేగం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 2,
+    "question_text": "2 4 The units of Acceleration in S.I System S.I",
+    "options": {
+      "1": "m",
+      "2": "m/s",
+      "3": "m/s2 2",
+      "4": "m s2"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 2,
+    "question_text": "5 The initial velocity of a freely falling object is",
+    "options": {
+      "1": "Zero",
+      "2": "Maximum",
+      "3": "One",
+      "4": "Cannot say"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 6,
+    "question_text": "An athlete is running in a circular track of radius 120 m and reaches the starting point in 1 minute. The displacement of the athlete is (in meters)",
+    "options": {
+      "1": "120",
+      "2": "60",
+      "3": "2",
+      "4": "0"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 7,
+    "question_text": "In the formula v2 – u2 = 2as, ‘a’ represents v2 – u2 = 2as ‘a’",
+    "options": {
+      "1": "Initial velocity",
+      "2": "Final velocity",
+      "3": "Acceleration",
+      "4": "Distance"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 8,
+    "question_text": "A train starting from rest gains a velocity 20m/s in 5 seconds. The acceleration of train is (in m/s2)",
+    "options": {
+      "1": "2",
+      "2": "4",
+      "3": "6",
+      "4": "8"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 9,
+    "question_text": "Five kilometres is equal to (in m.)",
+    "options": {
+      "1": "5",
+      "2": "50",
+      "3": "500",
+      "4": "5000"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 10,
+    "question_text": "Motion of the needle of a sewing machine is in",
+    "options": {
+      "1": "Rectilinear motion",
+      "2": "Oscillatory motion",
+      "3": "Rotatory motion",
+      "4": "Circulatory motion"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 11,
+    "question_text": "While measuring the length of knitting needle, the reading of the scale at one end is 3.0cm and the other end is 33.1cm. The length of the needle is (in cm)",
+    "options": {
+      "1": "3.1",
+      "2": "36.1",
+      "3": "30.1",
+      "4": "11.1"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 12,
+    "question_text": "The correct order of the following lengths.",
+    "options": {
+      "1": "1cm < 1mm < 1m < 1km",
+      "2": "1mm < 1cm < 1m < 1km",
+      "3": "1km < 1m < 1cm < 1mm",
+      "4": "1km < 1m < 1mm < 1cm"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 13,
+    "question_text": "The frictional force between a wooden box and floor is 20N. The force required to move the wooden box is N",
+    "options": {
+      "1": "10 N",
+      "2": "15 N",
+      "3": "21 N",
+      "4": "0 N"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 14,
+    "question_text": "If the force applied on the object is in the direction of motion, then the speed of object",
+    "options": {
+      "1": "Increases",
+      "2": "Decreases",
+      "3": "First increases and then decreases",
+      "4": "First decreases and then increases"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 15,
+    "question_text": "The force applied by an archer to stretch the bow is an example of",
+    "options": {
+      "1": "Frictional force",
+      "2": "Muscular force",
+      "3": "Gravitational force",
+      "4": "Magnetic force"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 16,
+    "question_text": "Pressure is the ratio of force and",
+    "options": {
+      "1": "Area",
+      "2": "Volume",
+      "3": "Density",
+      "4": "Length"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 17,
+    "question_text": "The force exerted by a charged body on another charged body is known as",
+    "options": {
+      "1": "Muscular force",
+      "2": "Frictional force",
+      "3": "Electrostatic force",
+      "4": "Magnetic force"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 18,
+    "question_text": "This is an example for Non-contact force",
+    "options": {
+      "1": "Muscular force",
+      "2": "Frictional force",
+      "3": "Gravitational force",
+      "4": "Tension force"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 19,
+    "question_text": "This is an example for contact force",
+    "options": {
+      "1": "Muscular force",
+      "2": "Gravitational force",
+      "3": "Electrostatic force",
+      "4": "Magnetic force"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 20,
+    "question_text": "This is not an example for muscular force",
+    "options": {
+      "1": "squeezing a piece of lemon between fingers",
+      "2": "Taking out toothpaste from toothpaste",
+      "3": "Lifting the bucket containing water with hands",
+      "4": "Charged balloon attracting the pieces of paper"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 21,
+    "question_text": "The decreasing order of frictional forces",
+    "options": {
+      "1": "rolling, static, sliding",
+      "2": "rolling, sliding, static",
+      "3": "static, sliding, rolling",
+      "4": "sliding, static, rolling"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 22,
+    "question_text": "The reason for sprinkling of powder on the carom board",
+    "options": {
+      "1": "To increase the friction",
+      "2": "To decrease the friction",
+      "3": "To decorate carom board",
+      "4": "To decrease force"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 23,
+    "question_text": "The correct statement among the following",
+    "options": {
+      "1": "Rolling friction is smaller than sliding friction",
+      "2": "Sliding friction is smaller than rolling friction",
+      "3": "Rolling friction is equal to sliding friction",
+      "4": "Rolling friction is larger than sliding friction"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 24,
+    "question_text": "The reason that tyres are treaded",
+    "options": {
+      "1": "To decrease the friction",
+      "2": "To increase the friction",
+      "3": "To obtain good looking",
+      "4": "To increase speed"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 25,
+    "question_text": "S.I Unit of Universal gravitational constant (G) is (G) S.I",
+    "options": {
+      "1": "N.m2.Kg2",
+      "2": "N.m2 Kg–2",
+      "3": "N m–2 Kg2",
+      "4": "N m–2 Kg–2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 26,
+    "question_text": "The value of ‘g’ on earth ‘g’",
+    "options": {
+      "1": "9.8 ms–2",
+      "2": "9.8 cms–2",
+      "3": "98 ms–2",
+      "4": "98 cms–2"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 27,
+    "question_text": "If the weight of an object is 60 N on earth, then the weight of same object on moon is N",
+    "options": {
+      "1": "6 N",
+      "2": "10 N",
+      "3": "0 N",
+      "4": "36 N"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 28,
+    "question_text": "The mass of an object is 10 Kg. The weight of the object on the earth is (g=9.8m/s2) (g=9.8 ) 2",
+    "options": {
+      "1": "9.8 N",
+      "2": "0.2 N",
+      "3": "98 N",
+      "4": "0 N"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 29,
+    "question_text": "The thrust per unit area is called",
+    "options": {
+      "1": "Force",
+      "2": "Pressure",
+      "3": "Weight",
+      "4": "Mass"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 30,
+    "question_text": "S.I unit of pressure is S.I",
+    "options": {
+      "1": "Newton",
+      "2": "Pascal",
+      "3": "dyne",
+      "4": "Watt"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 31,
+    "question_text": "A stone is released from the top of a tower of height 20m. The final velocity before touching the ground is (g=10m/s2)",
+    "options": {
+      "1": "0 m/s",
+      "2": "10 m/s",
+      "3": "20 m/s",
+      "4": "40 m/s"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 32,
+    "question_text": "The buoyant force acts on an object immersed in a liquid in this direction",
+    "options": {
+      "1": "In upward direction",
+      "2": "In downward direction",
+      "3": "Towards right",
+      "4": "Towards left"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 33,
+    "question_text": "The principle used in the designing of ships and submarines",
+    "options": {
+      "1": "Newton’s principle",
+      "2": "Pascal’s principle",
+      "3": "Archimedes’ principle",
+      "4": "Boyle’s principle"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 34,
+    "question_text": "A: Mass of the body does not change from place to place B: Weight of the body changes from place to place A:",
+    "options": {
+      "1": "Both A and B are correct A B",
+      "2": "Both A and B are incorrect A B",
+      "3": "A is correct, B is incorrect A B",
+      "4": "A is incorrect, B is correct"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 35,
+    "question_text": "A B 35 According to Newton’s Universal law of gravitation, Force acts between two bodies is",
+    "options": {
+      "1": "Directly proportional to the Square of the distance between them",
+      "2": "Inversely proportional to the Square of the distance between them",
+      "3": "Directly proportional to the distance between them",
+      "4": "Inversely proportional to the distance between them"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 36,
+    "question_text": "The formula to find ‘g’ value on earth ‘g’",
+    "options": {
+      "1": "g= 𝑀 𝐺𝑀",
+      "2": "g= 𝑅2 𝑀𝑅2",
+      "3": "g= 𝐺 𝑅𝑀2",
+      "4": "g="
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 37,
+    "question_text": "𝐺  37 The physical quantity work has",
+    "options": {
+      "1": "Only magnitude",
+      "2": "Only direction",
+      "3": "Both magnitude and direction",
+      "4": "Neither magnitude nor direction"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 38,
+    "question_text": "A force of 5N acting on an object to displace it through 2m in the direction of force. The work done becomes",
+    "options": {
+      "1": "2.5 J",
+      "2": "10 J",
+      "3": "0.4 J",
+      "4": "20 J"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 39,
+    "question_text": "Unit of work in S.I system S.I",
+    "options": {
+      "1": "Newton",
+      "2": "Erg",
+      "3": "Joule",
+      "4": "Watt"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 40,
+    "question_text": "Mechanical work is equals to",
+    "options": {
+      "1": "Potential energy × kinetic energy ×",
+      "2": "Potential energy ÷ kinetic energy ÷",
+      "3": "Potential energy ˗ kinetic energy ˗",
+      "4": "Potential energy + kinetic energy +"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 41,
+    "question_text": "Formula of potential energy",
+    "options": {
+      "1": "mgh 1",
+      "2": "mv2 2",
+      "3": "ma",
+      "4": "F s"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 42,
+    "question_text": "Formula of kinetic energy",
+    "options": {
+      "1": "mgh 1",
+      "2": "mv2 2",
+      "3": "ma",
+      "4": "F s"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 43,
+    "question_text": "Formula of power is",
+    "options": {
+      "1": "Work × time ×",
+      "2": "Work / time /",
+      "3": "Force × distance ×",
+      "4": "Force / distance /"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 44,
+    "question_text": "The following two quantities has same units",
+    "options": {
+      "1": "Work , Force",
+      "2": "Work , Power",
+      "3": "Power , Force",
+      "4": "Work , Energy"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 45,
+    "question_text": "Water stored in the reservoir at a certain height has this energy",
+    "options": {
+      "1": "Potential energy",
+      "2": "Kinetic energy",
+      "3": "Both potential and kinetic energies",
+      "4": "Neither potential nor kinetic energies"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 46,
+    "question_text": "For a freely falling body, during its free fall",
+    "options": {
+      "1": "Potential energy is maximum",
+      "2": "Kinetic energy is maximum",
+      "3": "Potential energy decreases and kinetic energy increases",
+      "4": "Potential energy increases and kinetic energy decreases"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 47,
+    "question_text": "One of the following object has potential energy",
+    "options": {
+      "1": "Blowing wind",
+      "2": "Rotating wheel",
+      "3": "Flowing water",
+      "4": "Stretched spring"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 48,
+    "question_text": "One of the following object has kinetic energy",
+    "options": {
+      "1": "Stretched rubber band",
+      "2": "Water stored in dam",
+      "3": "Ball kept at a height on the wall",
+      "4": "Flowing water"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 49,
+    "question_text": "S. I unit of wavelength is S. I",
+    "options": {
+      "1": "Centimetre",
+      "2": "Metre",
+      "3": "Hertz",
+      "4": "Second"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 50,
+    "question_text": "S. I unit of frequency S. I",
+    "options": {
+      "1": "Metre",
+      "2": "Hertz",
+      "3": "Second",
+      "4": "Meter / Second"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 51,
+    "question_text": "Magnitude of maximum disturbance in the medium on either side of mean value is called",
+    "options": {
+      "1": "Frequency",
+      "2": "Amplitude",
+      "3": "Wavelength",
+      "4": "Time period"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 52,
+    "question_text": "If λ is the wavelength and υ is the frequency of sound produced then the formula for speed of sound wave is λ υ",
+    "options": {
+      "1": "v = υ λ",
+      "2": "υ = v",
+      "3": "V = υ λ υ",
+      "4": "λ ="
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 53,
+    "question_text": "v 53 The amount of sound energy passing through unit are in each second is called",
+    "options": {
+      "1": "Frequency",
+      "2": "Amplitude",
+      "3": "Intensity",
+      "4": "Wave length"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 54,
+    "question_text": "A sound wave has a frequency of 20Hz and a wave length 35m then the speed of sound is",
+    "options": {
+      "1": "70 m/s",
+      "2": "700 m/s",
+      "3": "7000 m/s",
+      "4": "7 m/s"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 55,
+    "question_text": "The repeated reflection that results in the persistence of sound is calle",
+    "options": {
+      "1": "Echo",
+      "2": "Multiple reflections",
+      "3": "Reverberation",
+      "4": "Frequency"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 56,
+    "question_text": "The frequency of sound wave is 60 Hz. The number of times does it vibrate in one second is",
+    "options": {
+      "1": "6",
+      "2": "10",
+      "3": "60",
+      "4": "1/60"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 57,
+    "question_text": "Temperature of an object is 250C. Its temperature in kelvin scale 250C.",
+    "options": {
+      "1": "298 K",
+      "2": "248 K",
+      "3": "300 K",
+      "4": "25 K"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 58,
+    "question_text": "Two objects A and B are in thermal equilibrium. If the temperature of A is 300C , Then the temperature of B is B 300C",
+    "options": {
+      "1": "00C",
+      "2": "300C",
+      "3": "3000C",
+      "4": "600C"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 59,
+    "question_text": "1 Calorie is equal to",
+    "options": {
+      "1": "4186 J",
+      "2": "418.6 J",
+      "3": "41.86 J",
+      "4": "4.186 J"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 60,
+    "question_text": "Boiling point of water at normal atmospheric pressure is",
+    "options": {
+      "1": "00C",
+      "2": "1000C",
+      "3": "1100C",
+      "4": "-50C"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 61,
+    "question_text": " 61 A spherical mirror whose reflecting surface curved inwards is called",
+    "options": {
+      "1": "Concave mirror",
+      "2": "Convex mirror",
+      "3": "Plane mirror",
+      "4": "Plano convex mirror"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 62,
+    "question_text": "If an object is placed at centre of curvature in front of a concave mirror then the characteristics of image",
+    "options": {
+      "1": "Real , inverted and diminished",
+      "2": "Real , inverted and magnified",
+      "3": "Real , inverted and same size",
+      "4": "Virtual , erect and same size"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 63,
+    "question_text": "To form an image at infinite distance, the object should be placed in front of a concave mirror at",
+    "options": {
+      "1": "At focus",
+      "2": "At pole",
+      "3": "At centre of curvature",
+      "4": "Between pole and focus"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 64,
+    "question_text": "This lens is called converging lens",
+    "options": {
+      "1": "Concave lens",
+      "2": "Convex lens",
+      "3": "Plano concave lens",
+      "4": "Plano convex lens"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 65,
+    "question_text": "Lens formula among the following 1",
+    "options": {
+      "1": "+ = 𝑢 𝑣 𝑓 1 1 1",
+      "2": "- = 𝑣 𝑢 𝑓 1 1 1",
+      "3": "= - 𝑣 𝑓 𝑢 1 1 1",
+      "4": "= -"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 66,
+    "question_text": "𝑢 𝑓 𝑣 66 The power of the lens with focal length 2metres ( in diapters)",
+    "options": {
+      "1": "0.1",
+      "2": "0.2",
+      "3": "0.5",
+      "4": "2"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 67,
+    "question_text": "The following material cannot be used to make a lens",
+    "options": {
+      "1": "Water",
+      "2": "Glass",
+      "3": "Plastic",
+      "4": "Clay"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 68,
+    "question_text": "The human eye forms the image of an object at its",
+    "options": {
+      "1": "Cornea",
+      "2": "Iris",
+      "3": "Pupil",
+      "4": "Retina"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 69,
+    "question_text": "The change in the focal length of the eye lens is caused by the action of",
+    "options": {
+      "1": "Pupil",
+      "2": "Retina",
+      "3": "Ciliary muscles",
+      "4": "Iris"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 70,
+    "question_text": "The splitting of white light into component colours is",
+    "options": {
+      "1": "Scattering",
+      "2": "Dispersion",
+      "3": "Reflection",
+      "4": "Refraction"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 71,
+    "question_text": "The defect arises due to gradual weakening of ciliary muscles and diminishing the flexibility of eye lens is",
+    "options": {
+      "1": "Myopia",
+      "2": "Hypermetropia",
+      "3": "Presbyopia",
+      "4": "blindness"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 72,
+    "question_text": "The lens used to correct the eye defect myopia",
+    "options": {
+      "1": "concave lens",
+      "2": "convex lens",
+      "3": "plano convex lens",
+      "4": "plano concave lens"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 73,
+    "question_text": "The S.I unit of potential difference S.I",
+    "options": {
+      "1": "Ampere",
+      "2": "Volt",
+      "3": "Joule",
+      "4": "Ohm"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 74,
+    "question_text": "Work done in moving a charge of 2C across two points having a potential difference 12V is",
+    "options": {
+      "1": "6 J",
+      "2": "12 J",
+      "3": "24 J",
+      "4": "10 J"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 75,
+    "question_text": "If the length of the wire increased by 2 times, then the resistance of the wire increases by",
+    "options": {
+      "1": "2 times",
+      "2": "4 times",
+      "3": "½ times",
+      "4": "¼ times"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 76,
+    "question_text": "If the area of the cross section of the wire increases by 2 times, then the resistance increases by",
+    "options": {
+      "1": "2 times",
+      "2": "4 times",
+      "3": "½ times",
+      "4": "¼ times"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 77,
+    "question_text": "Resistors with resistance values 2 Ὠ, 4Ὠ are connected in series then the resultant resistance will be 2 Ὠ , 4Ὠ",
+    "options": {
+      "1": "2 Ω",
+      "2": "4 Ω",
+      "3": "6 Ω",
+      "4": "1/6 Ω"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 78,
+    "question_text": "Resistors with resistances 5 Ω and 10 Ω are connected in parallel then the resultant resistance will be",
+    "options": {
+      "1": "5 Ω",
+      "2": "15 Ω",
+      "3": "3/10 Ω",
+      "4": "10/3 Ω"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 79,
+    "question_text": "When a current of 2A passed through the resistance of 5 Ω then the potential difference between the terminals of resistor is Ω",
+    "options": {
+      "1": "3 V",
+      "2": "2.5 V",
+      "3": "0.4 V",
+      "4": "10 V"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 80,
+    "question_text": "One kilo watt hour (KWH) is equal to",
+    "options": {
+      "1": "3.6×106 erg 3.6×106",
+      "2": "3.6×106 joul 3.6×106",
+      "3": "3.6 erg 3.6",
+      "4": "3.6 joule 3.6"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 81,
+    "question_text": "The following terms does not represent electrical power in a circuit",
+    "options": {
+      "1": "i2R",
+      "2": "iR2",
+      "3": "V i",
+      "4": "V2/ R"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 82,
+    "question_text": "The S.I unit of resistivity",
+    "options": {
+      "1": "Ω",
+      "2": "Ω - m",
+      "3": "Ω m2",
+      "4": "Ω / m2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 83,
+    "question_text": "1 Volt = 1 𝑐𝑜𝑢𝑙𝑢𝑚𝑏",
+    "options": {
+      "1": "1 joule",
+      "2": "1 ohm",
+      "3": "1 watt",
+      "4": "1 ampere"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 84,
+    "question_text": "1 ohm = 1 𝑎𝑚𝑝𝑒𝑟𝑒",
+    "options": {
+      "1": "1 coulomb",
+      "2": "1 joule",
+      "3": "1 volt",
+      "4": "1 watt"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 85,
+    "question_text": " 85 The physical quantity magnetic field has",
+    "options": {
+      "1": "Only magnitude",
+      "2": "Only direction",
+      "3": "Both magnitude and direction",
+      "4": "Neither magnitude nor direction"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 86,
+    "question_text": "In right hand thumb rule, thumb indicates the direction of",
+    "options": {
+      "1": "Magnetic field",
+      "2": "Electric current",
+      "3": "Induced current",
+      "4": "Induced magnetic field"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 87,
+    "question_text": "The direction of magnetic lines of force outside the bar magnet",
+    "options": {
+      "1": "From north to south",
+      "2": "From south to north",
+      "3": "From east to west",
+      "4": "From west to east"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 88,
+    "question_text": "If a current passes through the horizontal powerline from east to west then the direction of magnetic field at a point below the wire when viewed from east to west",
+    "options": {
+      "1": "In clockwise direction in a plane perpendicular to the wire",
+      "2": "In anti clockwise direction in a plane perpendicular to the wire",
+      "3": "In clockwise direction in a plane parallel to the wire",
+      "4": "In anti clockwise direction in a plane parallel to the wire"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 89,
+    "question_text": "In Flemings left hand rule central finger indicates the direction of",
+    "options": {
+      "1": "Magnetic field",
+      "2": "Current",
+      "3": "Force on the conductor",
+      "4": "Induced current"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 90,
+    "question_text": "In Flemings left hand rule fore finger indicates the direction of",
+    "options": {
+      "1": "Magnetic field",
+      "2": "Current electricity",
+      "3": "Force on the conductor",
+      "4": "Induced current"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 91,
+    "question_text": "In Flemings left hand rule, thumb indicates the direction of",
+    "options": {
+      "1": "Magnetic field",
+      "2": "Current electricity",
+      "3": "Force on the conductor",
+      "4": "Induced current"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 92,
+    "question_text": "At the time of short circuit , the current in the circuit",
+    "options": {
+      "1": "Reduces substantially",
+      "2": "Does not change",
+      "3": "Increases heavily",
+      "4": "Vary continuously"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 93,
+    "question_text": "Units of magnetic flux density is",
+    "options": {
+      "1": "Weber",
+      "2": "Weber- meter",
+      "3": "Weber/meter",
+      "4": "Weber/meter2"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 2,
+    "question_text": "94 If a charge ‘q’ move with a velocity ‘v’ perpendicular to the magnetic field ‘B’ then the magnetic force on the charge is ‘q’ v’ ‘B’",
+    "options": {
+      "1": "qvB 𝑞𝑣𝐵",
+      "2": "2 𝑞𝑣𝐵",
+      "3": "3",
+      "4": "0"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 95,
+    "question_text": "Non-magnetic material among the following is",
+    "options": {
+      "1": "Iron",
+      "2": "Cobalt",
+      "3": "Nickel",
+      "4": "Wood"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 96,
+    "question_text": "If you cut the magnet into two pieces number of poles does each piece has",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 97,
+    "question_text": "Bauxite is an ore of this metal",
+    "options": {
+      "1": "Zinc",
+      "2": "Barium",
+      "3": "Aluminium",
+      "4": "Iron"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 98,
+    "question_text": "Formula of cinnabar is",
+    "options": {
+      "1": "HgS",
+      "2": "PbS",
+      "3": "AlCl 3",
+      "4": "MnO"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 2,
+    "question_text": "99 The impurity present in the ore is called",
+    "options": {
+      "1": "Gangue",
+      "2": "Flux",
+      "3": "Slag",
+      "4": "Mineral"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 100,
+    "question_text": "The reducing agent in thermite process is",
+    "options": {
+      "1": "Al",
+      "2": "Mg",
+      "3": "Fe",
+      "4": "Si"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 101,
+    "question_text": "The correct formula of gypsum",
+    "options": {
+      "1": "CuSO . 2H O 4 2",
+      "2": "CaSO . 1/2H O 4 2",
+      "3": "CuSO . 5H O 4 2",
+      "4": "CaSO . 2H O"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 4,
+    "question_text": "2 102 Corrosion occurs in the presence of",
+    "options": {
+      "1": "Oxygen and Carbon dioxide",
+      "2": "Oxygen and Water",
+      "3": "Nitrogen and Water",
+      "4": "Oxygen and Nitrogen"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 103,
+    "question_text": "Heating the ore in the absence of air or oxygen is called",
+    "options": {
+      "1": "Roasting",
+      "2": "Smelting",
+      "3": "Calcination",
+      "4": "Refining"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 104,
+    "question_text": "Heating the ore strongly in the presence of air or oxygen is called",
+    "options": {
+      "1": "Roasting",
+      "2": "Smelting",
+      "3": "Calcination",
+      "4": "Refining"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 105,
+    "question_text": "Heating the ore strongly by adding flux is called",
+    "options": {
+      "1": "Roasting",
+      "2": "Smelting",
+      "3": "Calcination",
+      "4": "Refining"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 106,
+    "question_text": "The most abundant metal in earth crust is",
+    "options": {
+      "1": "Silver",
+      "2": "Aluminium",
+      "3": "Zinc",
+      "4": "Iron"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 107,
+    "question_text": "Bronze is an alloy of these metals",
+    "options": {
+      "1": "Iron and Copper",
+      "2": "Copper and Aluminium",
+      "3": "Copper and Tin",
+      "4": "Zinc and Tin"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 108,
+    "question_text": "The oil used in froth floatation process is",
+    "options": {
+      "1": "Kerosene oil",
+      "2": "Pine oil",
+      "3": "Coconut oil",
+      "4": "Olive oil"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 109,
+    "question_text": "Formula of chloroform",
+    "options": {
+      "1": "CH COOH 3",
+      "2": "CHCl 3",
+      "3": "CH CH OH 3 2",
+      "4": "CH"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 4,
+    "question_text": "110 The major component of biogas and compressed natural gas is",
+    "options": {
+      "1": "Ehane",
+      "2": "Methane",
+      "3": "Propane",
+      "4": "Butane"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 111,
+    "question_text": "Butanone is a four carbon compound with the functional group",
+    "options": {
+      "1": "Carboxylic acid",
+      "2": "Aldehyde",
+      "3": "Ketone",
+      "4": "Alcohol"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 112,
+    "question_text": "Saturated hydrocarbon among the following",
+    "options": {
+      "1": "Ethane",
+      "2": "Ethene",
+      "3": "Ethyne",
+      "4": "Methene"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 113,
+    "question_text": "Chemical formula of benzene is",
+    "options": {
+      "1": "C H 4 10",
+      "2": "C H 5 6",
+      "3": "C H 6 6",
+      "4": "C H"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 6,
+    "question_text": "12 114 Formula of alcohol functional group",
+    "options": {
+      "1": "-OH",
+      "2": "-COOH",
+      "3": "-CHO",
+      "4": "-NH"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 2,
+    "question_text": "115 Catalyst used in the hydrogenation of oils",
+    "options": {
+      "1": "Iron",
+      "2": "Nickle",
+      "3": "Chromium",
+      "4": "Manganese"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 116,
+    "question_text": "Ethanol is commonly called as",
+    "options": {
+      "1": "Alcohol",
+      "2": "Acid",
+      "3": "Ketone",
+      "4": "Ester"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 117,
+    "question_text": "Ethanoic acid is commonly called as",
+    "options": {
+      "1": "Hydrochloric acid",
+      "2": "Sulphuric acid",
+      "3": "Acetic acid",
+      "4": "Nitric acid"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 118,
+    "question_text": "The name of hydrocarbon C 4 H 8",
+    "options": {
+      "1": "Butane",
+      "2": "Butene",
+      "3": "Butyne",
+      "4": "Propane"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 119,
+    "question_text": "Carbon has the ability to form long chains with other carbon elements called",
+    "options": {
+      "1": "Isomerism",
+      "2": "Catenation",
+      "3": "Formation of multiple bonds",
+      "4": "Substitution"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 120,
+    "question_text": "Methane undergo substitution reaction with chlorine in the presence of sunlight to form",
+    "options": {
+      "1": "Methyl chloride and HCl HCl",
+      "2": "Ethyl chloride and HCl HCl",
+      "3": "Methyl chloride and CO CO",
+      "4": "Ethyl chloride and CO CO"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 121,
+    "question_text": "The following cannot be changed easily by friction",
+    "options": {
+      "1": "A plastic scale",
+      "2": "A copper rod",
+      "3": "An inflated balloon",
+      "4": "A woollen cloth"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 122,
+    "question_text": "Choose the correct option A : Like charges repel each other B : Unlike charges attract each other",
+    "options": {
+      "1": "Both A and B are correct",
+      "2": "Both A and B are incorrect",
+      "3": "A is correct, B is incorrect",
+      "4": "A is incorrect, B is correct"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 123,
+    "question_text": "A device used to test whether an object is carrying a charge or not is",
+    "options": {
+      "1": "Microscope",
+      "2": "Colonoscope",
+      "3": "Electroscope",
+      "4": "Telescope"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 124,
+    "question_text": "When a glass rod rubbed with silk cloth",
+    "options": {
+      "1": "The glass rod and the silk cloth both acquire positive charge",
+      "2": "The glass rod and the silk cloth both acquire negative charge",
+      "3": "The rod acquire positive charge and the cloth acquire negative charge",
+      "4": "The rod acquire negative charge and the cloth acquire positive"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 125,
+    "question_text": "charge 125 The uppermost layer of the earth",
+    "options": {
+      "1": "Crust",
+      "2": "Mantle",
+      "3": "Inner core",
+      "4": "Outer core"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 126,
+    "question_text": "Physical change among the following is",
+    "options": {
+      "1": "Converting ice into water",
+      "2": "Rusting of iron",
+      "3": "Burning of magnesium ribbon",
+      "4": "Changing milk into curd"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 127,
+    "question_text": "The gas released by the action of vinegar with baking soda",
+    "options": {
+      "1": "Hydrogen",
+      "2": "Oxygen",
+      "3": "Carbon dioxide",
+      "4": "Nitrogen"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 128,
+    "question_text": "The chemical change among the following is",
+    "options": {
+      "1": "Converting ice into water",
+      "2": "Cutting a paper into four parts",
+      "3": "Stretching a rubber band",
+      "4": "Burning crackers"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 129,
+    "question_text": "The process of depositing this metal layer on iron articles called as galvanisation",
+    "options": {
+      "1": "Aluminium",
+      "2": "Chromium",
+      "3": "Zinc",
+      "4": "Copper"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 130,
+    "question_text": "The chemical name of baking soda is",
+    "options": {
+      "1": "Sodium carbonate",
+      "2": "Sodium bicarbonate",
+      "3": "Sodium sulphate",
+      "4": "Sodium chloride"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 131,
+    "question_text": "Choose the correct option A : Iron and rust are different substances B : Condensation is a physical change",
+    "options": {
+      "1": "Both A and B are correct",
+      "2": "Both A and B are incorrect",
+      "3": "A is correct , B is incorrect",
+      "4": "A is incorrect , B is correct"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 132,
+    "question_text": "Freezing mixture is a combination of",
+    "options": {
+      "1": "Ice and water",
+      "2": "Ice and common salt",
+      "3": "Water and common salt",
+      "4": "Water and starch"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 133,
+    "question_text": "The surface phenomenon among the following",
+    "options": {
+      "1": "Melting",
+      "2": "Boiling",
+      "3": "Evaporation",
+      "4": "Deposition"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 134,
+    "question_text": "Metal present in liquid state at room temperature",
+    "options": {
+      "1": "Sodium",
+      "2": "Potassium",
+      "3": "Calcium",
+      "4": "Mercury"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 135,
+    "question_text": "Among the following example for metalloid",
+    "options": {
+      "1": "Silicon",
+      "2": "Iron",
+      "3": "Sulphur",
+      "4": "Chlorine"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 136,
+    "question_text": "Example for homogeneous mixture",
+    "options": {
+      "1": "Sand and salt",
+      "2": "Sugar and salt",
+      "3": "Water and oil",
+      "4": "Salt and water"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 137,
+    "question_text": "Example for heterogenous mixture",
+    "options": {
+      "1": "Water in alcohol",
+      "2": "Salt in water",
+      "3": "Sulphur in carbon disulphide",
+      "4": "Water in oil"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 138,
+    "question_text": "The percentage of Oxygen and Nitrogen in air respectively",
+    "options": {
+      "1": "21, 78",
+      "2": "78, 21",
+      "3": "10, 80",
+      "4": "80, 10"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 139,
+    "question_text": "CNG means",
+    "options": {
+      "1": "Controlled Natural Gas",
+      "2": "Compressed Natural Gas",
+      "3": "Compressed Nature Gas",
+      "4": "Controlled Nature Gas"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 140,
+    "question_text": "The melting point of Ice is nearly ( in Kelvin)",
+    "options": {
+      "1": "100",
+      "2": "273.15",
+      "3": "0",
+      "4": "373.15"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 141,
+    "question_text": "Example of a substance that Sublimise",
+    "options": {
+      "1": "Camphor",
+      "2": "Common salt",
+      "3": "Ice",
+      "4": "Magnesium"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 142,
+    "question_text": "Changing directly from gaseous state to solid state without converting into liquid state called",
+    "options": {
+      "1": "Melting",
+      "2": "Sublimation",
+      "3": "Deposition",
+      "4": "Crystallization"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 143,
+    "question_text": "The rate of evaporation increases with",
+    "options": {
+      "1": "Increase in surface area",
+      "2": "Decrease in temperature",
+      "3": "High humidity",
+      "4": "Decrease in wind speed"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 144,
+    "question_text": "300 K value in Celsius scale",
+    "options": {
+      "1": "1000C",
+      "2": "2730C",
+      "3": "270C",
+      "4": "5730C"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 145,
+    "question_text": " 145 The chemical formula of Magnesium Chloride",
+    "options": {
+      "1": "MgCl",
+      "2": "MgCl 2",
+      "3": "Mg Cl 2",
+      "4": "Mg Cl"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 2,
+    "question_text": "2 146 Molecular mass of CaCl 2 CaCl",
+    "options": {
+      "1": "75 u",
+      "2": "11 u",
+      "3": "106 u",
+      "4": "111 u"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 147,
+    "question_text": "Among the following the element with atomicity One",
+    "options": {
+      "1": "Helium",
+      "2": "Oxygen",
+      "3": "Hydrogen",
+      "4": "Nitrogen"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 148,
+    "question_text": "The ratio of Nitrogen and Hydrogen in Ammonia by mass",
+    "options": {
+      "1": "14:3",
+      "2": "7:3",
+      "3": "7:1",
+      "4": "14:1"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 149,
+    "question_text": "The symbol of Carbonate ion is",
+    "options": {
+      "1": "CO - 3",
+      "2": "CO -2 3",
+      "3": "CO -3 3",
+      "4": "CO+2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 150,
+    "question_text": "Tetra atomic element among the following is",
+    "options": {
+      "1": "Oxygen",
+      "2": "Sulphur",
+      "3": "Argon",
+      "4": "Phosphorous"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 151,
+    "question_text": "The number of valency shell electrons present in Chlorine atom",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "7",
+      "4": "8"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 152,
+    "question_text": "The number of protons present in Tritium 3 ( H ) 1",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 153,
+    "question_text": "The correct electron configuration of Sodium (Na) (Na)",
+    "options": {
+      "1": "2 , 8",
+      "2": "2 , 8 ,1",
+      "3": "2 , 1 , 8",
+      "4": "8 , 2, 1"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 154,
+    "question_text": "Rutherford’s Alpha particle scattering experiment was responsible for the discovery of",
+    "options": {
+      "1": "Atomic nucleus",
+      "2": "Electron",
+      "3": "Proton",
+      "4": "Neutron"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 155,
+    "question_text": "Isotopes of an element have",
+    "options": {
+      "1": "The same physical properties",
+      "2": "Different chemical properties",
+      "3": "Different number of neutrons",
+      "4": "Different atomic numbers"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 156,
+    "question_text": "Isotope used as a fuel in nuclear reactors",
+    "options": {
+      "1": "Cobalt",
+      "2": "Uranium",
+      "3": "Iodine",
+      "4": "Carbon"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 157,
+    "question_text": "The ability of metals to be drawn into thin wires is called",
+    "options": {
+      "1": "Malleability",
+      "2": "Ductility",
+      "3": "Sonority",
+      "4": "Lustrous"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 158,
+    "question_text": "All metals exist as solids at room temperature except",
+    "options": {
+      "1": "Sodium",
+      "2": "Magnesium",
+      "3": "Zinc",
+      "4": "Mercury"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 159,
+    "question_text": "Most non metals produce these when dissolves in water",
+    "options": {
+      "1": "Acidic oxides",
+      "2": "Basic oxides",
+      "3": "Neutral oxides",
+      "4": "peroxides"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 160,
+    "question_text": "Metals that have low melting points",
+    "options": {
+      "1": "Sodium , Magnesium",
+      "2": "Zinc , Potassium",
+      "3": "Gallium , Caesium",
+      "4": "Calcium , Barium"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 161,
+    "question_text": "Metal that reacts with water",
+    "options": {
+      "1": "Sodium",
+      "2": "Gold",
+      "3": "Silver",
+      "4": "Copper"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 162,
+    "question_text": "Cation present in NaCl",
+    "options": {
+      "1": "Na+",
+      "2": "Na+2",
+      "3": "Cl-1",
+      "4": "Cl-2"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 163,
+    "question_text": "Cation present in MgCl 2 MgCl",
+    "options": {
+      "1": "Mg+",
+      "2": "Mg+2",
+      "3": "Cl-1",
+      "4": "Cl-2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 164,
+    "question_text": "Bond formed by the transfer of electrons from metals to nonmetal is",
+    "options": {
+      "1": "Ionic bond",
+      "2": "Covalent bond",
+      "3": "Polar covalent bond",
+      "4": "Non polar covalent bond"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 165,
+    "question_text": "The layer of the earth that is major source of metals",
+    "options": {
+      "1": "Crust",
+      "2": "Mantle",
+      "3": "Inner core",
+      "4": "Outer core"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 166,
+    "question_text": "Galvanization is a method of coating a thin layer of this metal",
+    "options": {
+      "1": "Iron",
+      "2": "Zinc",
+      "3": "Aluminium",
+      "4": "Chromium"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 167,
+    "question_text": "To get Stainless steel, Iron is added to",
+    "options": {
+      "1": "Nickel and Copper",
+      "2": "Nickel and Chromium",
+      "3": "Chromium and Platinum",
+      "4": "Nickel and Platinum"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 168,
+    "question_text": "Example of molecule with Covalent bond",
+    "options": {
+      "1": "NaCl",
+      "2": "AlCl 3",
+      "3": "MgCl 2",
+      "4": "HCl"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 169,
+    "question_text": " 169 This fibre is called artificial silk",
+    "options": {
+      "1": "Nylon",
+      "2": "Rayon",
+      "3": "Acrylic",
+      "4": "Polyester"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 170,
+    "question_text": "Polycot is a mixture of",
+    "options": {
+      "1": "Polyester and wool",
+      "2": "Polyester and cotton",
+      "3": "Polyester and silk",
+      "4": "Polyester and nylon"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 171,
+    "question_text": "Thermosetting plastic used in the preparation of electrical switches, handles of utensils",
+    "options": {
+      "1": "Bakelite",
+      "2": "Melamine",
+      "3": "Polythene",
+      "4": "PVC"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 172,
+    "question_text": "Artificial fibre used in the preparation of Parachutes and ropes for rock climbing",
+    "options": {
+      "1": "Rayon",
+      "2": "Nylon",
+      "3": "Acrylic",
+      "4": "Polyester"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 173,
+    "question_text": "Inexhaustible natural resource among the following",
+    "options": {
+      "1": "Forest",
+      "2": "Minerals",
+      "3": "Petroleum",
+      "4": "Sunlight"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 174,
+    "question_text": "The process of conversion of dead vegetation into coal is called",
+    "options": {
+      "1": "Carbonisation",
+      "2": "Oxidation",
+      "3": "Calcination",
+      "4": "Reduction"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 175,
+    "question_text": "The purest form of carbon is",
+    "options": {
+      "1": "Coal",
+      "2": "Coke",
+      "3": "Coal tar",
+      "4": "Coal gas"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 176,
+    "question_text": "CNG means",
+    "options": {
+      "1": "Compressed Natural Gas",
+      "2": "Contract Natural Gas",
+      "3": "Compressed Nano Gas",
+      "4": "Contract Nano Gas"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 177,
+    "question_text": "This is not an inflammable substance",
+    "options": {
+      "1": "Wood",
+      "2": "Petrol",
+      "3": "Alcohol",
+      "4": "LPG"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 178,
+    "question_text": "The best fire extinguisher for fires involving electrical equipment and inflammable materials",
+    "options": {
+      "1": "Water",
+      "2": "Oxygen",
+      "3": "Coconut oil",
+      "4": "Carbon dioxide"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 179,
+    "question_text": "The dangerous gas released by the incomplete combustion of fuels is",
+    "options": {
+      "1": "Carbon monoxide",
+      "2": "Carbon dioxide",
+      "3": "Oxygen",
+      "4": "Hydrogen"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 180,
+    "question_text": "The cleaner fuel among the following is",
+    "options": {
+      "1": "Petrol",
+      "2": "Diesel",
+      "3": "Coal",
+      "4": "CNG"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 181,
+    "question_text": "Acid among the following",
+    "options": {
+      "1": "NaOH",
+      "2": "CH COOH 3",
+      "3": "KOH",
+      "4": "NH OH"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 4,
+    "question_text": "182 This cannot be used as an olfactory indicator",
+    "options": {
+      "1": "Vanilla essence",
+      "2": "Clove oil",
+      "3": "Hibiscus",
+      "4": "Onion"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 183,
+    "question_text": "The gas released by the reaction of zinc with hydrochloric acid",
+    "options": {
+      "1": "Oxygen",
+      "2": "Hydrogen",
+      "3": "Nitrogen",
+      "4": "Carbon dioxide"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 184,
+    "question_text": "Acids reacts with bases to form",
+    "options": {
+      "1": "Only salts",
+      "2": "Only water",
+      "3": "Salt and water",
+      "4": "Bases"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 185,
+    "question_text": "Bases that are soluble in water are called",
+    "options": {
+      "1": "Alcohols",
+      "2": "Alkaloids",
+      "3": "Alkalis",
+      "4": "Alkyls"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 186,
+    "question_text": "Acidic solution among the following is",
+    "options": {
+      "1": "Gastric juice",
+      "2": "Pure water",
+      "3": "Milk of magnesia",
+      "4": "Sodium hydroxide"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 187,
+    "question_text": "Milk of magnesia is a",
+    "options": {
+      "1": "Strong Acid",
+      "2": "Weak Acid",
+      "3": "Strong Base",
+      "4": "Weak Base"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 188,
+    "question_text": "The acid present in Tomato",
+    "options": {
+      "1": "Oxalic acid",
+      "2": "Tartaric acid",
+      "3": "Citric acid",
+      "4": "Acetic acid"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 189,
+    "question_text": "Number of water molecules present in Washing soda formula",
+    "options": {
+      "1": "2",
+      "2": "5",
+      "3": "8",
+      "4": "10"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 190,
+    "question_text": "Plaster of Paris is derived by heating",
+    "options": {
+      "1": "Sodium carbonate",
+      "2": "Copper sulphate",
+      "3": "Gypsum",
+      "4": "Sodium chloride"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 191,
+    "question_text": "The substance that turns the red litmus into blue colour is",
+    "options": {
+      "1": "Acid",
+      "2": "Base",
+      "3": "Neutral",
+      "4": "Water"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 192,
+    "question_text": "The type of medicines used for treating indigestion",
+    "options": {
+      "1": "Antibiotic",
+      "2": "Analgesic",
+      "3": "Antacid",
+      "4": "Antiseptic"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 193,
+    "question_text": "The statement of an actual event or a physical event is",
+    "options": {
+      "1": "Fact",
+      "2": "Generalization",
+      "3": "Concept",
+      "4": "Hypothesis"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 194,
+    "question_text": "“Magnets attracts iron objects” this statement is an example for",
+    "options": {
+      "1": "Fact",
+      "2": "Generalization",
+      "3": "Concept",
+      "4": "Hypothesis"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 195,
+    "question_text": "‘Can water be boiled at any temperature?’ this statement is an example for this type of hypothesis",
+    "options": {
+      "1": "Null hypothesis",
+      "2": "Declarative hypothesis",
+      "3": "Prediction hypothesis",
+      "4": "Question hypothesis"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 196,
+    "question_text": "‘There is relation between pressure and boiling point of water’ this statement is an example for this type of hypothesis",
+    "options": {
+      "1": "Null hypothesis",
+      "2": "Declarative hypothesis",
+      "3": "Prediction hypothesis",
+      "4": "Question hypothesis"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 197,
+    "question_text": "‘Science learning is useful for entering into different professions like Doctors, Engineers and Teachers’ indicates this value",
+    "options": {
+      "1": "Intellectual value",
+      "2": "Cultural value",
+      "3": "Moral value",
+      "4": "Vocational value"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 198,
+    "question_text": "‘Learning science develops discipline in taking readings in laboratory and while working in laboratory’ indicates this value",
+    "options": {
+      "1": "Moral value",
+      "2": "Aesthetic value",
+      "3": "Disciplinary value",
+      "4": "Utilitarian value"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 199,
+    "question_text": "First step in ‘Scientific method’ is",
+    "options": {
+      "1": "Identification of problem",
+      "2": "Analysing problem",
+      "3": "Testing Hypothesis",
+      "4": "Generalization of results"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 200,
+    "question_text": "The cognitive domain was explained by",
+    "options": {
+      "1": "B.S. Blooms",
+      "2": "David R. Krathwohl",
+      "3": "R. H. Dawey",
+      "4": "Jeevan"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 201,
+    "question_text": "The first step in cognitive domain of Blooms classification of educational objectives",
+    "options": {
+      "1": "Understanding",
+      "2": "Application",
+      "3": "Knowledge",
+      "4": "Evaluation"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 202,
+    "question_text": "The first step in ‘Affective domain’ of Blooms classification of educational objectives",
+    "options": {
+      "1": "Responding",
+      "2": "Valuing",
+      "3": "Organisation",
+      "4": "Receiving"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 203,
+    "question_text": "The first step in ‘Psychomotor domain’ of Blooms classification of educational objectives",
+    "options": {
+      "1": "Imitation",
+      "2": "Manipulation",
+      "3": "Precision",
+      "4": "Articulation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 204,
+    "question_text": "The specification “Recall” belongs to this objective",
+    "options": {
+      "1": "Knowledge",
+      "2": "Understanding",
+      "3": "Application",
+      "4": "Skill"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 205,
+    "question_text": "‘Teaching is an interaction process’ defined by",
+    "options": {
+      "1": "Edmund Amidon",
+      "2": "A. Flander",
+      "3": "B.O. Smith",
+      "4": "H. C. Morrison"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 206,
+    "question_text": "‘Memory level of Teaching’ designed by",
+    "options": {
+      "1": "Edmund Amidon",
+      "2": "A. Flander",
+      "3": "J. F. Herbart",
+      "4": "H. C. Morrison"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 207,
+    "question_text": "Student centred teaching method among the following",
+    "options": {
+      "1": "Heuristic method",
+      "2": "Lecture method",
+      "3": "Lecture demonstration method",
+      "4": "Historical method"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 208,
+    "question_text": "Teacher centred teaching method among the following",
+    "options": {
+      "1": "Lecture method",
+      "2": "Heuristic method",
+      "3": "Project method",
+      "4": "Laboratory method"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 209,
+    "question_text": "The first step in Project method is",
+    "options": {
+      "1": "Planning",
+      "2": "Execution",
+      "3": "Evaluation",
+      "4": "Providing a situation"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 210,
+    "question_text": "The last step in Project method is",
+    "options": {
+      "1": "Preparing a report",
+      "2": "Evaluation",
+      "3": "Planning",
+      "4": "Providing a situation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 211,
+    "question_text": "In this method students learn the lesson by doing experiment on their own",
+    "options": {
+      "1": "Lecture demonstration method",
+      "2": "Lecture method",
+      "3": "Historical method",
+      "4": "Laboratory method"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 212,
+    "question_text": "The first step in ‘Problem solving method’ is",
+    "options": {
+      "1": "Conclusion",
+      "2": "Analysing problem",
+      "3": "Defining problem",
+      "4": "Identifying problem"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 213,
+    "question_text": "‘Heuristic’ is derived from the Greek word Heurisco. The meaning of Heurisco is",
+    "options": {
+      "1": "Experiment",
+      "2": "Investigation",
+      "3": "Doing work",
+      "4": "Hypothesis"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 214,
+    "question_text": "‘Communication’ is derived from the following Latin word",
+    "options": {
+      "1": "Comments",
+      "2": "Communis",
+      "3": "Commons",
+      "4": "Connections"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 215,
+    "question_text": "In this teaching method, the teacher explains the concept by showing the experiment to him",
+    "options": {
+      "1": "Lecture method",
+      "2": "Lecture demonstration method",
+      "3": "Heuristic method",
+      "4": "Problem solving method"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 216,
+    "question_text": "‘Heuristic method’ was first introduced by",
+    "options": {
+      "1": "H. E. Armstrong",
+      "2": "F. W. Westway",
+      "3": "Kilpatrick",
+      "4": "H. C. Morrison"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 217,
+    "question_text": "Plan prepared to teach the lessons present in the curriculum year long",
+    "options": {
+      "1": "Unit plan",
+      "2": "Period plan",
+      "3": "Year plan",
+      "4": "Monthly plan"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 218,
+    "question_text": "‘A unit is a large block of related subject matter as can be over viewed by the learner’ said by",
+    "options": {
+      "1": "Bossing",
+      "2": "Preston",
+      "3": "Bagley",
+      "4": "Morrison"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 219,
+    "question_text": "The educationalist who prepared the steps in ‘Lesson planning’",
+    "options": {
+      "1": "Herbert",
+      "2": "Bassing",
+      "3": "Morrison",
+      "4": "Bagley"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 220,
+    "question_text": "The first step in the execution of ‘Steps in lesson planning’",
+    "options": {
+      "1": "Preparation",
+      "2": "Presentation",
+      "3": "Association",
+      "4": "Generalization"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 221,
+    "question_text": "‘Curriculum should be prepared based on the Physical and Mental levels of students’. The principle involved in this is sentence",
+    "options": {
+      "1": "Principle of Balance",
+      "2": "Principle of Articulation",
+      "3": "Principle of Utility",
+      "4": "Principle of Maturity"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 222,
+    "question_text": "Curriculum must include “Learning by doing” activities. The principle involved in this is sentence",
+    "options": {
+      "1": "Principle of Activity centredness",
+      "2": "Principle of Articulation",
+      "3": "Principle of Creativity",
+      "4": "Principle of Conservation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 223,
+    "question_text": "In Programmed learning, based on this principle The students will learn with his own capacity based on individual differences",
+    "options": {
+      "1": "Principle of Small steps",
+      "2": "Principle of Self pacing",
+      "3": "Principle of Immediate self reinforcement",
+      "4": "Principle of Student testing"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 224,
+    "question_text": "The first step in micro teaching is",
+    "options": {
+      "1": "Skill demonstration",
+      "2": "Micro teaching",
+      "3": "Defining the Skill",
+      "4": "Transfer of Skill"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 225,
+    "question_text": "The final step in micro teaching is",
+    "options": {
+      "1": "Defining the Skill",
+      "2": "Skill demonstration",
+      "3": "Micro teaching",
+      "4": "Transfer of Skill"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 226,
+    "question_text": "The word ‘Curriculum’ is derived from Latin word ‘Currere’ means",
+    "options": {
+      "1": "To run",
+      "2": "To learn",
+      "3": "To understand",
+      "4": "To write"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 227,
+    "question_text": "This occupied a major role in teaching learning process apart from teacher and student",
+    "options": {
+      "1": "Black board",
+      "2": "Laboratory",
+      "3": "Text book",
+      "4": "Atmosphere"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 228,
+    "question_text": "This is not a mechanical feature of a text book",
+    "options": {
+      "1": "Book binding should be neat",
+      "2": "The cover page of text book should be attractive",
+      "3": "The size of letters in the text book should be visible",
+      "4": "The content in the text book should be logical and meaningful"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 229,
+    "question_text": "Choose the correct option",
+    "options": {
+      "1": "Both A and B are Correct",
+      "2": "Both A and B are Incorrect",
+      "3": "Ais correct, B is incorrect",
+      "4": "Ais incorrect, B is correct"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 230,
+    "question_text": "The evaluation occur during teaching learning process is called",
+    "options": {
+      "1": "Placement evaluation",
+      "2": "Formative evaluation",
+      "3": "Summative evaluation",
+      "4": "Diagnostic evaluation"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 231,
+    "question_text": "The type of evaluation used before teaching learning process is",
+    "options": {
+      "1": "Placement evaluation",
+      "2": "Formative evaluation",
+      "3": "Diagnostic evaluation",
+      "4": "Summative evaluation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 232,
+    "question_text": "The tests used to identify the problem faced by students in a particular area and its solution are",
+    "options": {
+      "1": "Achievement tests",
+      "2": "Diagnostic tests",
+      "3": "Aptitude tests",
+      "4": "Attitude tests"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 233,
+    "question_text": "The type of evaluation that ‘Students evaluate their progress themselves’ is called",
+    "options": {
+      "1": "Formative evaluation",
+      "2": "Summative evaluation",
+      "3": "Self evaluation",
+      "4": "Diagnostic evaluation"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 234,
+    "question_text": "In the process of evaluation subject matter, learning experiences and evaluation are three components then the fourth component is",
+    "options": {
+      "1": "Educational objectives",
+      "2": "Laboratories",
+      "3": "Attitudes",
+      "4": "Aptitudes"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 235,
+    "question_text": "The evaluation used after the completion of some chapters",
+    "options": {
+      "1": "Self evaluation",
+      "2": "Formative evaluation",
+      "3": "Summative evaluation",
+      "4": "Diagnostic evaluation"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 236,
+    "question_text": "In this type of test the student will answer orally for the questions asked orally",
+    "options": {
+      "1": "Written tests",
+      "2": "Summative tests",
+      "3": "Rating scales",
+      "4": "Oral tests"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 237,
+    "question_text": "This is not a use of multiple choice questions",
+    "options": {
+      "1": "Questions are objective",
+      "2": "Importance given to identification",
+      "3": "Take less time for scoring",
+      "4": "Students writing skills can be tested"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 238,
+    "question_text": "The teacher choose a test that fulfil the purpose of which it is meant for. Then the characteristic of this test is",
+    "options": {
+      "1": "Validity",
+      "2": "Reliability",
+      "3": "Objectivity",
+      "4": "Utility"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 239,
+    "question_text": "The answer script is evaluated at different times or by different people where same marks are obtained. Then the test has this characteristic",
+    "options": {
+      "1": "Validity",
+      "2": "Reliability",
+      "3": "Objectivity",
+      "4": "Utility"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 240,
+    "question_text": "The science organisation working in our state for popularising Science",
+    "options": {
+      "1": "Ekalavya",
+      "2": "Jodo gyan",
+      "3": "Vikram shila",
+      "4": "Jana vignana Vedika"
+    },
+    "answer": 4
+  }
+]

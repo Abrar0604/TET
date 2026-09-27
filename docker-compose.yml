@@ -1,0 +1,17 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - DATABASE_URL=sqlite:///./exam_platform.db
+      - JWT_SECRET=production-secret-tet-mock-exam-2026
+    volumes:
+      # Mount SQLite db directory to host to persist user data across container updates
+      - ./data_storage:/app/backend/data_storage
+    restart: unless-stopped

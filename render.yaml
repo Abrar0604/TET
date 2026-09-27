@@ -1,0 +1,13 @@
+services:
+  - type: web
+    name: tet-mock-exam-platform
+    env: python
+    region: oregon
+    plan: free
+    buildCommand: "cd frontend && npm install && npm run build && cd ../backend && pip install -r requirements.txt"
+    startCommand: "cd backend && uvicorn main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: DATABASE_URL
+        value: sqlite:///./exam_platform.db
+      - key: JWT_SECRET
+        generateValue: true

@@ -1,0 +1,2631 @@
+[
+  {
+    "question_id": 1,
+    "question_text": "The innermost part of the flower is A and it produces B. Find out A and B.",
+    "options": {
+      "1": "A-Stamen B - Pollen",
+      "2": "A – Pistil B - Ovary",
+      "3": "A -Pistil B - Ovules",
+      "4": "A – Stamen B - Ovules"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 2,
+    "question_text": "Nodes and internodes are present in this plant part",
+    "options": {
+      "1": "Stem",
+      "2": "Root",
+      "3": "Leaf",
+      "4": "Bud"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 3,
+    "question_text": "Insectivorous leaves are found in this plant",
+    "options": {
+      "1": "Vanda",
+      "2": "Pitcher plant",
+      "3": "Bryophyllum",
+      "4": "Pea"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 5,
+    "question_text": "The external stimuli are received through these parts in living organisms",
+    "options": {
+      "1": "Brain and Spinal cord",
+      "2": "Nerves",
+      "3": "Sense organs",
+      "4": "Muscles"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 6,
+    "question_text": "Identify the parasitic plant",
+    "options": {
+      "1": "Maize",
+      "2": "Opuntia",
+      "3": "Cuscuta",
+      "4": "Banyan"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 7,
+    "question_text": "This is not example of herb",
+    "options": {
+      "1": "Banyan",
+      "2": "Parthenium",
+      "3": "Marigold",
+      "4": "Tulasi"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 8,
+    "question_text": "Find the mismatch.",
+    "options": {
+      "1": "Leaf - Petiole",
+      "2": "Flower - Venation",
+      "3": "Pistil -Ovary",
+      "4": "Stamen – Filament"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 9,
+    "question_text": "There is a main root and several lateral roots are present in A while all roots are similar in B. Find out A and B.",
+    "options": {
+      "1": "A – Main Root System B – Lateral Root System",
+      "2": "A - Lateral Root System B – Main Root System",
+      "3": "A – Tap Root System B – Fibrous Root System",
+      "4": "A – Main Root System B – Fibrous Root System"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 10,
+    "question_text": "Dolphins and Whales respire through",
+    "options": {
+      "1": "Gills",
+      "2": "Skin",
+      "3": "Mouth",
+      "4": "Blowholes"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 11,
+    "question_text": "Match the following.",
+    "options": {
+      "1": "A - ii B – iii C - i",
+      "2": "A - iii B – ii C - i",
+      "3": "A - i B – iii C – ii",
+      "4": "A - i B – ii C - iii"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 12,
+    "question_text": "Respiration in plants takes place",
+    "options": {
+      "1": "During day time only",
+      "2": "During night time only",
+      "3": "At afternoon time only",
+      "4": "During day and night"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 13,
+    "question_text": "The joint that connects the neck with head is",
+    "options": {
+      "1": "Ball and socket joint",
+      "2": "Pivot joint",
+      "3": "Hinge joint",
+      "4": "Fixed joint"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 14,
+    "question_text": "The fixed joint is present in",
+    "options": {
+      "1": "Shoulder",
+      "2": "Neck",
+      "3": "Upper jaw",
+      "4": "Elbow"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 15,
+    "question_text": "Number of bones in human skeleton at the time of birth",
+    "options": {
+      "1": "305",
+      "2": "206",
+      "3": "310",
+      "4": "246"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 16,
+    "question_text": "Pelvic bones are seen in",
+    "options": {
+      "1": "Shoulder",
+      "2": "Elbow",
+      "3": "Skull",
+      "4": "Below stomach"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 17,
+    "question_text": "Cartilage is found in this part of the body",
+    "options": {
+      "1": "Ear lobe",
+      "2": "Skin",
+      "3": "Heart",
+      "4": "Eye"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 18,
+    "question_text": "Organism having hard outer skeleton",
+    "options": {
+      "1": "Fish",
+      "2": "Cockroach",
+      "3": "Earthworm",
+      "4": "Bird"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 19,
+    "question_text": "The part of the plant that got modified into spines in Desert plants is",
+    "options": {
+      "1": "Stem",
+      "2": "Flowers",
+      "3": "Leaves",
+      "4": "Roots"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 20,
+    "question_text": "Find the odd one among the following",
+    "options": {
+      "1": "Rocks",
+      "2": "Sunlight",
+      "3": "Soil",
+      "4": "Animals"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 21,
+    "question_text": "The organism that breathes through the blowhole",
+    "options": {
+      "1": "Dolphin",
+      "2": "Fish",
+      "3": "Octopus",
+      "4": "Squid"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 22,
+    "question_text": "The cone shaped trees with sloping branches are generally seen in this area",
+    "options": {
+      "1": "Grass lands",
+      "2": "Deserts",
+      "3": "Mountain regions",
+      "4": "Oceans"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 23,
+    "question_text": "Desert plants that perform Photosynthesis through its stem",
+    "options": {
+      "1": "Grass",
+      "2": "Lotus",
+      "3": "Tamarind",
+      "4": "Cactus"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 24,
+    "question_text": "The animals with thick skin and fur are found in",
+    "options": {
+      "1": "Mountain regions",
+      "2": "Grass lands",
+      "3": "Deserts",
+      "4": "Oceans"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 25,
+    "question_text": "Free living cells in pond water were first observed by",
+    "options": {
+      "1": "Robert Hook",
+      "2": "Robert Brown",
+      "3": "Leeuwen Hoek",
+      "4": "Virchow"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 26,
+    "question_text": "This cell organelle is absent in plant cell",
+    "options": {
+      "1": "Cell wall",
+      "2": "Centriole",
+      "3": "Plastid",
+      "4": "Vacuole"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 27,
+    "question_text": "This cell organelle is known as “Suicidal bag of the cell”",
+    "options": {
+      "1": "Nucleus",
+      "2": "Mitochondria",
+      "3": "Lysosomes",
+      "4": "Ribosomes"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 28,
+    "question_text": "The cell organelle that do not has its own DNA among the following",
+    "options": {
+      "1": "Nucleus",
+      "2": "Plastid",
+      "3": "Mitochondria",
+      "4": "Vacuole"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 29,
+    "question_text": "Lysosomes are derived from this cell organelle",
+    "options": {
+      "1": "Golgi apparatus",
+      "2": "Endoplasmic Reticulum",
+      "3": "Mitochondria",
+      "4": "Nucleus"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 30,
+    "question_text": "The cell organelle that is known as ‘Powerhouse of the cell’",
+    "options": {
+      "1": "Mitochondria",
+      "2": "Vacuole",
+      "3": "Plastid",
+      "4": "Lysosome"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 31,
+    "question_text": "The cell division that forms Gametes",
+    "options": {
+      "1": "Mitosis",
+      "2": "Meiosis",
+      "3": "Fertilisation",
+      "4": "Pollination"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 32,
+    "question_text": "A dry raisin absorbs water through this process when kept it in for some time",
+    "options": {
+      "1": "Diffusion",
+      "2": "Osmosis",
+      "3": "Transpiration",
+      "4": "Root pressure"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 33,
+    "question_text": "This will be happened when a deshelled raw egg is placed in concentrated sugar solution",
+    "options": {
+      "1": "Its size increases",
+      "2": "Its size decreases",
+      "3": "No change occurs in its size",
+      "4": "It Dissolves"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 34,
+    "question_text": "The stain that is used to stain onion peel is",
+    "options": {
+      "1": "safranin",
+      "2": "Potassium Hydroxide",
+      "3": "Dilute Hydrochloric Acid",
+      "4": "Baking soda"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 35,
+    "question_text": "The cell organelle found only in animal cells",
+    "options": {
+      "1": "Vacuole",
+      "2": "Plastid",
+      "3": "Cell wall",
+      "4": "Centriole"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 36,
+    "question_text": "The cell organelle that involves in protein synthesis",
+    "options": {
+      "1": "Centriole",
+      "2": "Vacuole",
+      "3": "Ribosomes",
+      "4": "Lysosomes"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 37,
+    "question_text": "This tissue causes increase in the girth of the stem",
+    "options": {
+      "1": "Simple Permanent Tissue",
+      "2": "Complex Permanent Tissue",
+      "3": "Meristematic Tissue",
+      "4": "Cork Tissue"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 38,
+    "question_text": "This is not a simple permanent tissue",
+    "options": {
+      "1": "Parenchyma",
+      "2": "Xylem",
+      "3": "Collenchyma",
+      "4": "Sclerenchyma"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 39,
+    "question_text": "Complex permanent tissue among the following",
+    "options": {
+      "1": "Phloem",
+      "2": "Parenchyma",
+      "3": "Collenchyma",
+      "4": "Sclerenchyma"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 40,
+    "question_text": "This tissue helps the plants to float on water",
+    "options": {
+      "1": "Collenchyma",
+      "2": "Chlorenchyma",
+      "3": "Aerenchyma",
+      "4": "Phloem"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 41,
+    "question_text": "This tissue is found in the tendrils and stems of climbers",
+    "options": {
+      "1": "Collenchyma",
+      "2": "Parenchyma",
+      "3": "Aerenchyma",
+      "4": "Complex Permanent Tissue"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 42,
+    "question_text": "The non-living cells in Phloem",
+    "options": {
+      "1": "Companion cells",
+      "2": "Phloem Fibres",
+      "3": "Phloem Parenchyma",
+      "4": "Sieve Tubes"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 43,
+    "question_text": "The epithelial tissue that is found in the lining of mouth",
+    "options": {
+      "1": "Cuboidal",
+      "2": "Columnar",
+      "3": "Stratified",
+      "4": "Squamous"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 44,
+    "question_text": "The ‘Fluid Connective Tissue’ is",
+    "options": {
+      "1": "Cartilage",
+      "2": "Blood",
+      "3": "Areolar",
+      "4": "Ligament"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 45,
+    "question_text": "This tissue stores fat in our body",
+    "options": {
+      "1": "Cartilage",
+      "2": "Areolar Tissue",
+      "3": "Bone",
+      "4": "Adipose Tissue"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 46,
+    "question_text": "This connective tissue connects muscles with bones",
+    "options": {
+      "1": "Tendon",
+      "2": "Ligament",
+      "3": "Cartilage",
+      "4": "Areolar"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 47,
+    "question_text": "These muscle movements are not in our control",
+    "options": {
+      "1": "Striated muscle",
+      "2": "Skeletal muscle",
+      "3": "Non straited muscle",
+      "4": "Voluntary muscle"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 48,
+    "question_text": "The cell that carries nerve impulses",
+    "options": {
+      "1": "Muscle cell",
+      "2": "White blood cell",
+      "3": "Neuron",
+      "4": "Adipose cell"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 49,
+    "question_text": "Streptomycin and Tetracycline are the examples for",
+    "options": {
+      "1": "Vaccines",
+      "2": "Pesticides",
+      "3": "Antibiotics",
+      "4": "Chemical fertilisers"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 50,
+    "question_text": "These diseases can be prevented by drinking boiled water",
+    "options": {
+      "1": "Malaria and Chickenpox",
+      "2": "Typhoid and Cholera",
+      "3": "Foot and mouth Disease",
+      "4": "Malaria and Measles"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 51,
+    "question_text": "Yeast is used in the production of",
+    "options": {
+      "1": "Alcohol and Baking soda",
+      "2": "Sugar and Fertiliser",
+      "3": "Bread and Alcohol",
+      "4": "Curd and Vinegar"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 52,
+    "question_text": "Pasteurisation is the preservation method for",
+    "options": {
+      "1": "Fruits",
+      "2": "Fish",
+      "3": "Jam",
+      "4": "Milk"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 53,
+    "question_text": "The most common carrier of communicable diseases is",
+    "options": {
+      "1": "Housefly",
+      "2": "Pig",
+      "3": "Spider",
+      "4": "Cockroach"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 54,
+    "question_text": "This bacterium lives inside the root nodules of Legume plants",
+    "options": {
+      "1": "Lactobacillus",
+      "2": "Blue green algae",
+      "3": "Rhizobium",
+      "4": "Tobacco Mosaic"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 55,
+    "question_text": "This disease is not caused by bacteria",
+    "options": {
+      "1": "Tuberculosis",
+      "2": "Typhoid",
+      "3": "Cholera",
+      "4": "Dysentery"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 56,
+    "question_text": "This artificial preservative is used in jams",
+    "options": {
+      "1": "Sodium Bicarbonate",
+      "2": "Sodium Meta bisulphite",
+      "3": "Sodium Chloride",
+      "4": "Sodium Carbonate"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 57,
+    "question_text": "This is not a communicable disease",
+    "options": {
+      "1": "Common cold",
+      "2": "Chickenpox",
+      "3": "Typhoid",
+      "4": "Tuberculosis"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 58,
+    "question_text": "The first vaccine invented was useful to prevent this disease",
+    "options": {
+      "1": "Chickenpox",
+      "2": "Smallpox",
+      "3": "Anthrax",
+      "4": "Polio"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 59,
+    "question_text": "Example for Nitrogen fixing bacteria",
+    "options": {
+      "1": "Plasmodium",
+      "2": "Cyanobacteria",
+      "3": "Salmonella",
+      "4": "Lactobacillus"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 60,
+    "question_text": "This is the carrier Malaria",
+    "options": {
+      "1": "Male Aedes mosquito",
+      "2": "Female Aedes mosquito",
+      "3": "Female Culex mosquito",
+      "4": "Female Anopheles mosquito"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 61,
+    "question_text": "Copper Sulphate and Caustic soda solutions are used to test for this nutrient in food.",
+    "options": {
+      "1": "Carbohydrates",
+      "2": "Fats",
+      "3": "Proteins",
+      "4": "Vitamins"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 62,
+    "question_text": "This is not a nutrient but an essential component of food",
+    "options": {
+      "1": "Roughage",
+      "2": "Vitamin",
+      "3": "Mineral",
+      "4": "Iron"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 63,
+    "question_text": "Deficiency of this vitamin causes Beri-Beri.",
+    "options": {
+      "1": "Vitamin C",
+      "2": "Vitamin A",
+      "3": "Vitamin D",
+      "4": "Vitamin B"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 1,
+    "question_text": "64. These are often called Body building foods",
+    "options": {
+      "1": "Proteins",
+      "2": "Vitamins",
+      "3": "Carbohydrates",
+      "4": "Fats"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 65,
+    "question_text": "Deficiency of Vitamin A causes",
+    "options": {
+      "1": "Bone and tooth decay",
+      "2": "Mental disability in children",
+      "3": "Loss of vision",
+      "4": "Anaemia"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 66,
+    "question_text": "Among the following items Fats are abundant in",
+    "options": {
+      "1": "Ground nuts",
+      "2": "Potato",
+      "3": "Maize",
+      "4": "Beans"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 67,
+    "question_text": "Paper becomes translucent when rubbed with this food component",
+    "options": {
+      "1": "Starch",
+      "2": "Dietary fibre",
+      "3": "Fat",
+      "4": "Protein"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 68,
+    "question_text": "This food nutrient gives blue black colour with iodine solution",
+    "options": {
+      "1": "Starch",
+      "2": "Vitamin A",
+      "3": "Fat",
+      "4": "Iron"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 69,
+    "question_text": "Examples for rabi crops",
+    "options": {
+      "1": "Green gram and black gram",
+      "2": "Paddy and cotton",
+      "3": "Maize and cotton",
+      "4": "Wheat and Mustard"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 70,
+    "question_text": "Growing different crops in a piece of land in a preplanned succession is called",
+    "options": {
+      "1": "Inter crops",
+      "2": "Crop Rotation",
+      "3": "Mixed Crops",
+      "4": "Hybridisation"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 71,
+    "question_text": "This is not an example for fermented food",
+    "options": {
+      "1": "Idly",
+      "2": "Cake",
+      "3": "Rice",
+      "4": "Dosa"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 72,
+    "question_text": "Examples for weed plants",
+    "options": {
+      "1": "Finger millets and cowpea",
+      "2": "Parthenium and Cyprinus",
+      "3": "Mosam bee and Coconut",
+      "4": "Ground nut and Sunflower"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 73,
+    "question_text": "The primary product of photosynthesis",
+    "options": {
+      "1": "Proteins",
+      "2": "Fats",
+      "3": "Carbohydrates",
+      "4": "Fibre"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 74,
+    "question_text": "Guard cells are present in",
+    "options": {
+      "1": "Anthers",
+      "2": "Stomata",
+      "3": "Roots",
+      "4": "Seeds"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 75,
+    "question_text": "The stems in these plants perform photosynthesis to prevent transpiration",
+    "options": {
+      "1": "Water plants",
+      "2": "Mangroves",
+      "3": "Desert plants",
+      "4": "Conifers"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 76,
+    "question_text": "Chlorophyll is not present in this plant",
+    "options": {
+      "1": "Hydrilla",
+      "2": "Hibiscus",
+      "3": "Nepenthes",
+      "4": "Cuscuta"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 77,
+    "question_text": "The mode of nutrition which gets nutrients from dead and decaying matter is",
+    "options": {
+      "1": "Autotrophic nutrition",
+      "2": "Parasitic nutrition",
+      "3": "Saprophytic nutrition",
+      "4": "Symbiosis"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 78,
+    "question_text": "The partners in Lichens",
+    "options": {
+      "1": "Alga and Bacteria",
+      "2": "Alga and Fungus",
+      "3": "Plant and Animal",
+      "4": "Fungus and Bacteria"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 79,
+    "question_text": "Match the following.",
+    "options": {
+      "1": "A - iv B – i C - ii D - iii",
+      "2": "A - iii B – i C ii D - iv –",
+      "3": "A - iv B – i C – iii D - ii",
+      "4": "A - ii B – iv C i D - iii"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 79,
+    "question_text": "– 80. During Photosynthesis, A gas is absorbed in and B gas is released by the green plants. Find A and B",
+    "options": {
+      "1": "A – Oxygen B – Carbon dioxide",
+      "2": "A – Nitrogen B – Oxygen",
+      "3": "A – Carbon dioxide B – Nitrogen",
+      "4": "A – Carbon dioxide B – Oxygen"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 81,
+    "question_text": "The largest gland in human body",
+    "options": {
+      "1": "Gall bladder",
+      "2": "Pancreas",
+      "3": "Liver",
+      "4": "Pituitary gland"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 82,
+    "question_text": "The finger like outgrowths in the walls of small intestine of humans",
+    "options": {
+      "1": "Nephrons",
+      "2": "Villi",
+      "3": "Neurons",
+      "4": "Pseudopodia"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 83,
+    "question_text": "In humans, digestion of starch starts in",
+    "options": {
+      "1": "Stomach",
+      "2": "Small intestine",
+      "3": "Large intestine",
+      "4": "Mouth"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 84,
+    "question_text": "In humans, this type of teeth helps in biting and cutting",
+    "options": {
+      "1": "Incisors",
+      "2": "Canines",
+      "3": "Premolars",
+      "4": "Molars"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 85,
+    "question_text": "Breakdown of glucose using oxygen is",
+    "options": {
+      "1": "Anaerobic respiration",
+      "2": "Fermentation",
+      "3": "Aerobic respiration",
+      "4": "Transpiration"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 86,
+    "question_text": "The air enters the body of Cockroach through",
+    "options": {
+      "1": "Lungs",
+      "2": "Gills",
+      "3": "Spiracles",
+      "4": "Skin"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 87,
+    "question_text": "In humans, during inhalation, the ribs",
+    "options": {
+      "1": "Move outwards",
+      "2": "Move downwards",
+      "3": "Move inwards",
+      "4": "Do not move at all"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 88,
+    "question_text": "Muscle cramps in legs after heavy exercise is due to the accumulation of",
+    "options": {
+      "1": "Carbon dioxide",
+      "2": "Lactic acid",
+      "3": "Alcohol",
+      "4": "Water"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 89,
+    "question_text": "Match the following.",
+    "options": {
+      "1": "A - iii B – i C - iv D - ii",
+      "2": "A - ii B – iv C i D - iii –",
+      "3": "A - iv B – iii C – ii D - i",
+      "4": "A - iii B – ii C iv D - i"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 89,
+    "question_text": "– 90. The organism that perform Anaerobic respiration",
+    "options": {
+      "1": "Cockroach",
+      "2": "Earthworm",
+      "3": "Frog",
+      "4": "Yeast"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 91,
+    "question_text": "The small balloon like structures in the lungs are",
+    "options": {
+      "1": "Bronchi",
+      "2": "Trachea",
+      "3": "Alveoli",
+      "4": "Larynx"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 92,
+    "question_text": "The respiratory pigment in the blood of human beings",
+    "options": {
+      "1": "Haemocyanin",
+      "2": "Haemochrome",
+      "3": "Chlorophyll",
+      "4": "Haemoglobin"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 93,
+    "question_text": "Fish breathe with the help of",
+    "options": {
+      "1": "Lungs",
+      "2": "Skin",
+      "3": "Trachea",
+      "4": "Gills"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 94,
+    "question_text": "This is a lung disease",
+    "options": {
+      "1": "Tuberculosis",
+      "2": "Psoriasis",
+      "3": "Eczema",
+      "4": "Goitre"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 95,
+    "question_text": "This gas is exhaled air turns the lime water milky white",
+    "options": {
+      "1": "Oxygen",
+      "2": "Carbon dioxide",
+      "3": "Water vapour",
+      "4": "Nitrogen"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 96,
+    "question_text": "More energy is released during this process",
+    "options": {
+      "1": "Anaerobic respiration",
+      "2": "Fermentation",
+      "3": "Aerobic respiration",
+      "4": "Diffusion"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 97,
+    "question_text": "This organ in human body that acts like a pump",
+    "options": {
+      "1": "Lungs",
+      "2": "Kidneys",
+      "3": "Liver",
+      "4": "Heart"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 98,
+    "question_text": "Blood is transported from the heart to body parts through these vessels",
+    "options": {
+      "1": "Veins",
+      "2": "Arteries",
+      "3": "Arterioles",
+      "4": "Venules"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 99,
+    "question_text": "Blood travels with a low pressure in",
+    "options": {
+      "1": "Arteries",
+      "2": "Xylem",
+      "3": "Veins",
+      "4": "Phloem"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 100,
+    "question_text": "The normal blood pressure in humans is",
+    "options": {
+      "1": "120/80 mm. of H2O",
+      "2": "80/120 mm. of H2O",
+      "3": "80/120 mm. of Hg.",
+      "4": "120/80 mm. of Hg."
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 101,
+    "question_text": "The instrument used to measure blood pressure",
+    "options": {
+      "1": "Thermometer",
+      "2": "Sphygmomanometer",
+      "3": "Stethoscope",
+      "4": "Pressure Guage"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 102,
+    "question_text": "The colour of Lymph",
+    "options": {
+      "1": "Red",
+      "2": "Yellow",
+      "3": "Green",
+      "4": "Colourless"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 103,
+    "question_text": "A harmless and painless, nonsurgical donation that can save many precious lives is",
+    "options": {
+      "1": "Kidney donation",
+      "2": "Cornea donation",
+      "3": "Blood donation",
+      "4": "liver donation"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 104,
+    "question_text": "This process helps in the movement of water and minerals from roots to leaves in plants.",
+    "options": {
+      "1": "Photosynthesis",
+      "2": "Transpiration",
+      "3": "Respiration",
+      "4": "Excretion"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 105,
+    "question_text": "This component of our blood fight against germs that enter our body",
+    "options": {
+      "1": "Red blood cells",
+      "2": "Platelets",
+      "3": "Haemoglobin",
+      "4": "White blood cells"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 106,
+    "question_text": "The instrument used to feel the heartbeats is",
+    "options": {
+      "1": "Sphygmomanometer",
+      "2": "Stethoscope",
+      "3": "Thermometer",
+      "4": "Syringe"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 107,
+    "question_text": "The function of xylem in plants",
+    "options": {
+      "1": "Transport of food",
+      "2": "Transport of water",
+      "3": "Transport of food and water",
+      "4": "Transport of air"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 108,
+    "question_text": "In humans the urine is stored here before urination",
+    "options": {
+      "1": "Kidneys",
+      "2": "Ureters",
+      "3": "Urinary bladder",
+      "4": "Urethra"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 109,
+    "question_text": "Olfactory receptors provide this sense",
+    "options": {
+      "1": "Taste",
+      "2": "Smell",
+      "3": "Touch",
+      "4": "Vision"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 110,
+    "question_text": "The reflex action is controlled by",
+    "options": {
+      "1": "Brain",
+      "2": "Spinal cord",
+      "3": "Heart",
+      "4": "Pituitary gland"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 111,
+    "question_text": "The part of the brain that controls blood pressure, salivation and vomiting",
+    "options": {
+      "1": "Cerebrum",
+      "2": "Cerebellum",
+      "3": "Mid brain",
+      "4": "Medulla oblongata"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 112,
+    "question_text": "Walking in straight line, cycling are controlled by this part of Brain",
+    "options": {
+      "1": "Cerebrum",
+      "2": "Mid brain",
+      "3": "Cerebellum",
+      "4": "Medulla oblongata"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 113,
+    "question_text": "The gap between two neurons is",
+    "options": {
+      "1": "Dendrites",
+      "2": "Synapse",
+      "3": "Axon",
+      "4": "Impulse"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 114,
+    "question_text": "Chemotropism occurs in this part",
+    "options": {
+      "1": "Stem",
+      "2": "Root",
+      "3": "Pollen tube",
+      "4": "Tendril"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 115,
+    "question_text": "This tropic movement shows upward growth of shoot and downward growth of root due to Gravitational force is",
+    "options": {
+      "1": "Phototropism",
+      "2": "Geotropism",
+      "3": "Hydrotropism",
+      "4": "Thigmotropism"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 116,
+    "question_text": "This Phytohormone inhibit growth of plant",
+    "options": {
+      "1": "Auxin",
+      "2": "Abscisic acid",
+      "3": "Cytokinin",
+      "4": "Gibberellin"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 117,
+    "question_text": "This phytohormone makes the plant to bend towards sunlight",
+    "options": {
+      "1": "Auxins",
+      "2": "Gibberellin",
+      "3": "Cytokinin",
+      "4": "Abscisic acid"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 118,
+    "question_text": "This gland secrets Growth Hormone",
+    "options": {
+      "1": "Testis",
+      "2": "Thyroid gland",
+      "3": "Pituitary gland",
+      "4": "Adrenal gland"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 119,
+    "question_text": "The hormone that enables animal body to deal with dangerous situations",
+    "options": {
+      "1": "Insulin",
+      "2": "Adrenalin",
+      "3": "Ghrelin",
+      "4": "Thyroxin"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 120,
+    "question_text": "The hormone that regulates metabolism for body growth in animals",
+    "options": {
+      "1": "Insulin",
+      "2": "Adrenalin",
+      "3": "Thyroxin",
+      "4": "Progesterone"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 121,
+    "question_text": "This plant shows vegetative propagation through leaves",
+    "options": {
+      "1": "Banayan",
+      "2": "Rose",
+      "3": "Bryophyllum",
+      "4": "Sugarcane"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 122,
+    "question_text": "Budding as a mode of reproduction is seen in",
+    "options": {
+      "1": "Spirogyra",
+      "2": "Fern",
+      "3": "Ginger",
+      "4": "Yeast"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 123,
+    "question_text": "Spores are the asexual reproductive bodies in",
+    "options": {
+      "1": "Pitcher plant",
+      "2": "Rhizopus",
+      "3": "Bryophyllum",
+      "4": "Potato"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 124,
+    "question_text": "Identify the odd one with regard to female flower parts",
+    "options": {
+      "1": "Stigma",
+      "2": "Style",
+      "3": "Anther",
+      "4": "Ovary"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 125,
+    "question_text": "After fertilisation the ovary of a flower turns into",
+    "options": {
+      "1": "Seed",
+      "2": "Stalk",
+      "3": "Gamete",
+      "4": "Fruit"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 126,
+    "question_text": "Dispersal of seeds through fruit bursts is seen in",
+    "options": {
+      "1": "Xanthium",
+      "2": "Balsam నలగోరిాంట",
+      "3": "Coconut",
+      "4": "Sunflower"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 127,
+    "question_text": "The fusion of male and female gametes resulting in a zygote is called",
+    "options": {
+      "1": "Fertilisation",
+      "2": "Pollination",
+      "3": "Reproduction",
+      "4": "Seed formation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 128,
+    "question_text": "New plants develop from parts called eyes in",
+    "options": {
+      "1": "Cactus",
+      "2": "Ginger",
+      "3": "Potato",
+      "4": "Rose"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 129,
+    "question_text": "Internal fertilisation is seen in",
+    "options": {
+      "1": "Frogs",
+      "2": "Toads",
+      "3": "Lizard",
+      "4": "Star fish"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 130,
+    "question_text": "External fertilisation is seen in",
+    "options": {
+      "1": "Lizard",
+      "2": "Garden Lizard",
+      "3": "Starfish",
+      "4": "Butterfly"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 131,
+    "question_text": "Metamorphosis is seen in",
+    "options": {
+      "1": "Hen",
+      "2": "Silkworm",
+      "3": "Snakes",
+      "4": "Fish"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 132,
+    "question_text": "This is an example of viviparous animal",
+    "options": {
+      "1": "Squirrel",
+      "2": "Moth",
+      "3": "Frog",
+      "4": "Starfish"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 133,
+    "question_text": "Find out the odd one out regarding the dominant traits in pea plants",
+    "options": {
+      "1": "Violet flowers",
+      "2": "Wrinkled seeds",
+      "3": "Tallness",
+      "4": "Yellow seed"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 134,
+    "question_text": "In these organisms the sex in the young ones determined by temperature of the surroundings before hatching out",
+    "options": {
+      "1": "Hens",
+      "2": "Reptiles",
+      "3": "Humans",
+      "4": "Fishes"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 135,
+    "question_text": "Number of sex chromosomes in humans",
+    "options": {
+      "1": "2",
+      "2": "22",
+      "3": "44",
+      "4": "46"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 136,
+    "question_text": "Children in humans inherit this sex chromosome from their mother",
+    "options": {
+      "1": "X – Chromosome",
+      "2": "Y – Chromosome",
+      "3": "Both X and Y chromosomes",
+      "4": "No chromosomes will be inherited"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 137,
+    "question_text": "Round, green colour seeded plant is crossed with wrinkled yellow colour seeded plant, F generation plants 1 will be having",
+    "options": {
+      "1": "Wrinkled, green colour seed plants",
+      "2": "Wrinkled, white colour seed plants",
+      "3": "Round, white colour seed plants",
+      "4": "Round, Yellow colour seed plants"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 138,
+    "question_text": "In Mendel’s inheritance experiments, F generation 2 plants were got by through",
+    "options": {
+      "1": "Self- pollination of F plants 1",
+      "2": "Cross-pollination of parent plants",
+      "3": "Self – pollination of parent plants",
+      "4": "Cross – pollination of F plants"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 1,
+    "question_text": "139. In human beings, the sex of the child depends on",
+    "options": {
+      "1": "Maternal chromosome",
+      "2": "Parental chromosome",
+      "3": "Various factors in surroundings",
+      "4": "Both maternal and paternal sex chromosomes"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 140,
+    "question_text": "22+XX chromosomes are found in",
+    "options": {
+      "1": "In all humans",
+      "2": "In women",
+      "3": "In men",
+      "4": "In Reptiles"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 141,
+    "question_text": "Phenotypic ratio in F generation when Mendel crossed 2 plants with two contrasting characters",
+    "options": {
+      "1": "1:3:1",
+      "2": "3:1",
+      "3": "9:3:3:1",
+      "4": "9:3:1"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 142,
+    "question_text": "Plant even with a single copy of ‘T’ gene appear tall every time while short plants should have a double copy of ‘t’. So the dominant trait here is",
+    "options": {
+      "1": "Tallness",
+      "2": "Shortness",
+      "3": "Medium height",
+      "4": "Both tall and short"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 143,
+    "question_text": "Genotypic ratio in F2 generation of Mendels monohybrid cross",
+    "options": {
+      "1": "2:3:1",
+      "2": "3:1",
+      "3": "1:3:1",
+      "4": "1:2:1"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 144,
+    "question_text": "When Mendel crossed two plants having one pair of contrasting traits such as tall and short, F plants 1 appeared as",
+    "options": {
+      "1": "All are tall plants",
+      "2": "All are short plants",
+      "3": "Some are tall and some are short plants",
+      "4": "All are medium sized plants"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 145,
+    "question_text": "Food relations are shown linear in this",
+    "options": {
+      "1": "Food web",
+      "2": "Trophic level",
+      "3": "Ecological pyramid",
+      "4": "Food chain"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 146,
+    "question_text": "Match the following.",
+    "options": {
+      "1": "A – ii B -iv C – iii D – i",
+      "2": "A – i B -iii C – iv D – ii",
+      "3": "A – iii B -ii C – iv D - i",
+      "4": "A – iv B -iii C – i D - ii"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 147,
+    "question_text": "Natural ecosystems among the following",
+    "options": {
+      "1": "Forest and pond",
+      "2": "Park and crop field",
+      "3": "Garden and lake",
+      "4": "Zoological park and wildlife sanctuary"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 148,
+    "question_text": "The substance formed by the action of",
+    "options": {
+      "1": "Compost",
+      "2": "Humus",
+      "3": "Minerals",
+      "4": "Detritus"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 149,
+    "question_text": "Find the primary consumer among the following",
+    "options": {
+      "1": "Moss",
+      "2": "Insect",
+      "3": "Crane",
+      "4": "Lion"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 150,
+    "question_text": "Find the decomposer",
+    "options": {
+      "1": "Amoeba",
+      "2": "Fungi",
+      "3": "Crow",
+      "4": "Ant"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 151,
+    "question_text": "The amount of organic matter available at each trophic level for the next level is",
+    "options": {
+      "1": "90%",
+      "2": "100%",
+      "3": "10%",
+      "4": "0.1%"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 152,
+    "question_text": "Primary consumers",
+    "options": {
+      "1": "Feed on herbivores",
+      "2": "Feed on animals eat plant and plant products",
+      "3": "Feed on carnivores",
+      "4": "Feed on dead matter"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 153,
+    "question_text": "The green plants belonging to the terrestrial ecosystem capture this much percentage of total sunlight reaching the earth",
+    "options": {
+      "1": "10%",
+      "2": "90%",
+      "3": "1%",
+      "4": "0.1%"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 154,
+    "question_text": "This organism does not belong to the second trophic level of a food chain",
+    "options": {
+      "1": "A only",
+      "2": "A and C only",
+      "3": "A, C and D only",
+      "4": "B, C and D only"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 155,
+    "question_text": "The odd one regarding the abiotic components of an ecosystem",
+    "options": {
+      "1": "Temperature",
+      "2": "Oxygen",
+      "3": "Decomposer",
+      "4": "Salinity"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 156,
+    "question_text": "Example for Phytoplankton living in an aquatic ecosystem",
+    "options": {
+      "1": "Pitsea",
+      "2": "Volvox",
+      "3": "Daphnia",
+      "4": "Water Lilly"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 157,
+    "question_text": "The finest Indian Teak is found in",
+    "options": {
+      "1": "Srisailam Tiger Reserve",
+      "2": "Sathpura National Park",
+      "3": "Khaziranga National Park",
+      "4": "Pachmarhi Wildlife Sanctuary"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 158,
+    "question_text": "The first Reserve Forest in India is",
+    "options": {
+      "1": "Pachmarhi Wildlife Sanctuary",
+      "2": "Sathpura National Park",
+      "3": "Bori Reserve Forest",
+      "4": "Pachmarhi Biosphere Reserve"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 159,
+    "question_text": "This is called ‘The Lungs of Our Planet’",
+    "options": {
+      "1": "Desert",
+      "2": "Forest",
+      "3": "Industry",
+      "4": "School"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 160,
+    "question_text": "These organisms are exclusively found in a particular area",
+    "options": {
+      "1": "Endemic species",
+      "2": "Endangered species",
+      "3": "Extinct species",
+      "4": "Exotic species"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 161,
+    "question_text": "Fauna means",
+    "options": {
+      "1": "Plants and animals living exclusively in a particular area",
+      "2": "Plants found in a particular area",
+      "3": "Animals found in a particular area",
+      "4": "Plants protected in a particular area"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 162,
+    "question_text": "Species means",
+    "options": {
+      "1": "A group of population live in a particular area",
+      "2": "A group of members that can produce sterile offsprings",
+      "3": "A group of members living exclusively in an area",
+      "4": "A group of population which are capable of"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 162,
+    "question_text": "interbreeding 163. These organisms numbers are dangerously diminishing to the level of extinction",
+    "options": {
+      "1": "Extinct organisms",
+      "2": "Endemic organisms",
+      "3": "Endangered organisms",
+      "4": "In – situ Organisms"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 164,
+    "question_text": "This contain the data of endangered species",
+    "options": {
+      "1": "Red data book",
+      "2": "Blue data book",
+      "3": "Yellow data book",
+      "4": "Green data book"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 165,
+    "question_text": "Siberian Cranes from Russia migrates to this place in Haryana every year",
+    "options": {
+      "1": "Bharatpur",
+      "2": "Khaziranga",
+      "3": "Ghana",
+      "4": "Sulthanpur"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 166,
+    "question_text": "This is not the flora of Pachmarhi Biosphere Reserve",
+    "options": {
+      "1": "Sal",
+      "2": "Wild mango",
+      "3": "Bison",
+      "4": "Jamun"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 167,
+    "question_text": "This is not the reason for bird migration",
+    "options": {
+      "1": "To protect themselves from predators",
+      "2": "To protect themselves from environment conditions",
+      "3": "For breeding",
+      "4": "For feeding"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 168,
+    "question_text": "Red Data Book is published by",
+    "options": {
+      "1": "IUCN",
+      "2": "WWN",
+      "3": "WES",
+      "4": "ICZN"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 169,
+    "question_text": "The poisonous producing by burning of fossil fuels is",
+    "options": {
+      "1": "CO",
+      "2": "NO 2",
+      "3": "Water vapour",
+      "4": "CO"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 2,
+    "question_text": "170. This is not an inorganic impurity in sewage",
+    "options": {
+      "1": "Metals",
+      "2": "Oil",
+      "3": "Phosphorus",
+      "4": "Nitrates"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 171,
+    "question_text": "The ‘World Water Day’ is on",
+    "options": {
+      "1": "21 June",
+      "2": "22 May",
+      "3": "25 April",
+      "4": "22 March"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 172,
+    "question_text": "Uppermost layer of the forest – A Lowermost layer of the forest – B. If both are formed by the plants, find out A and B.",
+    "options": {
+      "1": "A – Shrubs B - Trees",
+      "2": "A – Trees B - Herbs",
+      "3": "A – Trees B – Mosses",
+      "4": "A – Herbs B - Shrubs"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 173,
+    "question_text": "Acid rains are caused by",
+    "options": {
+      "1": "CO and SO 2 2",
+      "2": "SO and NO 2 2",
+      "3": "COand CO 2",
+      "4": "CO and NO"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 174,
+    "question_text": "2 174. Examples of organic impurities in water",
+    "options": {
+      "1": "Protozoans",
+      "2": "Phosphorus and Nitrogen",
+      "3": "Urea and Pesticides",
+      "4": "Metals"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 175,
+    "question_text": "Sewage is a",
+    "options": {
+      "1": "Solid waste produced in houses",
+      "2": "Liquid waste produced in houses",
+      "3": "Decomposed matter formed from plant wastes",
+      "4": "Dry dung"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 176,
+    "question_text": "These are the examples of onsite sewage disposal system",
+    "options": {
+      "1": "A and B only",
+      "2": "A and C only",
+      "3": "B and C only",
+      "4": "B and D only"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 177,
+    "question_text": "97% of the activated sludge contains",
+    "options": {
+      "1": "Water",
+      "2": "Floating wastes",
+      "3": "Aerobic bacteria",
+      "4": "Dried wastes"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 178,
+    "question_text": "Waste water is disinfected by using",
+    "options": {
+      "1": "Ozone",
+      "2": "Aerobic bacteria",
+      "3": "Anaerobic bacteria",
+      "4": "Pesticide"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 179,
+    "question_text": "Chloro Floro carbons are used in",
+    "options": {
+      "1": "Refrigerators",
+      "2": "Combustion of vehicle fuels",
+      "3": "Fire extinguishers",
+      "4": "Making paper"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 180,
+    "question_text": "‘Ganga Action Plan’ was launched in",
+    "options": {
+      "1": "1985",
+      "2": "1987",
+      "3": "1972",
+      "4": "1978"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 181,
+    "question_text": "Examples for cleaner fuels that do not damage Environment",
+    "options": {
+      "1": "Leaded petrol",
+      "2": "CNG and LPG",
+      "3": "Petrol",
+      "4": "CFC and CNG"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 182,
+    "question_text": "The poisonous gas released from incomplete burning of fuels",
+    "options": {
+      "1": "Sulphur dioxide",
+      "2": "Ozone",
+      "3": "Carbon monoxide",
+      "4": "Oxides of Nitrogen"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 183,
+    "question_text": "‘Marble cancer’ is not caused by",
+    "options": {
+      "1": "Sulphur dioxide and Nitrogen dioxide",
+      "2": "Suspended particular matter",
+      "3": "Chloro Floro carbons",
+      "4": "Acid rains"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 184,
+    "question_text": "Residual persistence of pesticides in grains is due to",
+    "options": {
+      "1": "Biological magnification",
+      "2": "Global warming",
+      "3": "Biodegradable wastes",
+      "4": "Formation of ozone layer"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 185,
+    "question_text": "Examples of greenhouse gases",
+    "options": {
+      "1": "Carbon monoxide and carbon dioxide",
+      "2": "Methane and Propane",
+      "3": "Carbon dioxide and Methane",
+      "4": "Ozone and Carbon dioxide"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 186,
+    "question_text": "Ozone is formed at higher levels of atmosphere",
+    "options": {
+      "1": "Breaking down of oxygen molecules by UV radiation",
+      "2": "Combining free oxygen atoms with oxygen molecules",
+      "3": "Forming a shield to prevent UV radiation",
+      "4": "Combining of three free oxygen atoms with each"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 186,
+    "question_text": "another 187. The group containing biodegradable items only",
+    "options": {
+      "1": "Grass, flowers and leather",
+      "2": "Grass, wood and plastic clip",
+      "3": "Fruit peels, coke tin and leather",
+      "4": "Dry cell, cake and plastic bottle"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 188,
+    "question_text": "Non-biodegradable wastes are",
+    "options": {
+      "1": "Broken down y enzymes b",
+      "2": "Broken down under ambient conditions",
+      "3": "Not Broken down by the action of bacteria",
+      "4": "Broken down y the action of saprophytes"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 188,
+    "question_text": "b 189. During 1970s the movement run by local communities to prevent cutting of trees",
+    "options": {
+      "1": "Jhum Cultivation",
+      "2": "Joint Forest Management Programme",
+      "3": "Chipko Movement",
+      "4": "Kyoto Protocol"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 190,
+    "question_text": "Indiscriminate usage of non-biodegradable pesticides affect mostly",
+    "options": {
+      "1": "Plants",
+      "2": "Rats",
+      "3": "Humans",
+      "4": "Snakes"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 191,
+    "question_text": "The deadly poisonous gas that protects us from the radiation of the Sun is",
+    "options": {
+      "1": "CO",
+      "2": "N 2",
+      "3": "CO 2",
+      "4": "O"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 3,
+    "question_text": "192. Droughts and desertification are the results of",
+    "options": {
+      "1": "Water pollution",
+      "2": "Deforestation",
+      "3": "Grazing and Animal Breeding",
+      "4": "Natural Reforestation"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 193,
+    "question_text": "“Science is that organised knowledge by testing and getting truth by observing this society, laws of nature, physical world” said by “",
+    "options": {
+      "1": "James Randy",
+      "2": "Oxford Advanced Learner Dictionary",
+      "3": "The Science Man power project",
+      "4": "J. B. Conant"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 194,
+    "question_text": "Choose the correct match/s",
+    "options": {
+      "1": "A- Correct, B- incorrect",
+      "2": "A- incorrect, B- correct",
+      "3": "A and B both are correct",
+      "4": "A and B both are correct"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 195,
+    "question_text": "This is not the Nature of Science from the below",
+    "options": {
+      "1": "Explorative Nature",
+      "2": "Rigid in Nature",
+      "3": "Cumulative in Nature",
+      "4": "Scientific Scepticism in Nature"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 196,
+    "question_text": "“Inheritance of Acquired Characters” the Theory proposed by Lamark, was disproved by Wiesemen later by his experiments on Rats is explains this nature of Science",
+    "options": {
+      "1": "Dynamic in Nature",
+      "2": "Curious in Nature",
+      "3": "Cumulative in Nature",
+      "4": "Problem solving in Nature"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 197,
+    "question_text": "When Lamark explained the Giraffe evolution through his ‘Inheritance of Acquired Characters’ got lot of acceptance. Later Wiesemen’s experiments on Rats by cutting its tails. Lamark Evaluation theory got criticism- This explains the development of Science is",
+    "options": {
+      "1": "Unidirectional",
+      "2": "Bidirectional",
+      "3": "Tri directional",
+      "4": "Tetra directional"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 198,
+    "question_text": "Identify the Aims of Teaching learning of science from the following",
+    "options": {
+      "1": "A, B, C only",
+      "2": "B, C, D only",
+      "3": "A, C, D only",
+      "4": "A, B, C, D"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 199,
+    "question_text": "The primary Science process skill from the following is",
+    "options": {
+      "1": "Developing Hypothesis",
+      "2": "Conducting Experiments",
+      "3": "Using tools",
+      "4": "Classification"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 200,
+    "question_text": "A teacher planned an introductory programme on ‘Sericulture’ for his students- this shown this Aim of Biological study",
+    "options": {
+      "1": "Utilizing leisure time Aim",
+      "2": "Utilizing Scientific Knowledge for the development humanity aim",
+      "3": "Preparing base for better life aim",
+      "4": "Preparing best citizens for society aim"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 201,
+    "question_text": "These are known as ‘Abstract goals’",
+    "options": {
+      "1": "Aims",
+      "2": "Objectives",
+      "3": "Specifications",
+      "4": "Values"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 202,
+    "question_text": "A student developed alternative tool for an experiment – this shows this value of science teaching",
+    "options": {
+      "1": "Vocational value",
+      "2": "Utilitarian value",
+      "3": "Creative value",
+      "4": "Interpretative value"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 203,
+    "question_text": "Identify the Primary process skill of science",
+    "options": {
+      "1": "A, B only",
+      "2": "A, B, C only",
+      "3": "C, D only",
+      "4": "B, C only"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 204,
+    "question_text": "The institute called ‘Deficiency diseases enquiry’ in 1928, later developed into",
+    "options": {
+      "1": "NIN",
+      "2": "ICRISAT",
+      "3": "NACO",
+      "4": "CCMB"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 205,
+    "question_text": "According to comparison of Biological science teaching learning Aims, Objectives. Identify the correct statements",
+    "options": {
+      "1": "A only Correct",
+      "2": "B only correct",
+      "3": "A and B both are correct",
+      "4": "A and B both are correct"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 206,
+    "question_text": "‘Having Objective means working meaningfully’ said by",
+    "options": {
+      "1": "John Deuy",
+      "2": "Carlile",
+      "3": "B. D. Bhatia",
+      "4": "Abraham Maslow"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 207,
+    "question_text": "These are not socio educational objectives",
+    "options": {
+      "1": "Globalization, Ethical development",
+      "2": "Intellectual development, Emotional balance",
+      "3": "Environmental protection, Modernization",
+      "4": "National integrity, Protection of Democracy"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 208,
+    "question_text": "“Inculcate Scientific attitude, Scientific interest for environmental protection – Biodiversity among the children” is a",
+    "options": {
+      "1": "Goal",
+      "2": "Aim",
+      "3": "Objective",
+      "4": "Specification"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 209,
+    "question_text": "“Student will be able to explain the uses of Biotechnology” is a",
+    "options": {
+      "1": "Objective",
+      "2": "Specification",
+      "3": "Goal",
+      "4": "Aim"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 210,
+    "question_text": "Identify the correct pairs regarding classification of educational objectives",
+    "options": {
+      "1": "A, C only",
+      "2": "B, C only",
+      "3": "C only",
+      "4": "A, B, C"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 211,
+    "question_text": "This belongs to Psychomotor domine",
+    "options": {
+      "1": "Receiving",
+      "2": "Valuing",
+      "3": "Organization",
+      "4": "Imitation"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 212,
+    "question_text": "Extrapolation” is step in this educational objective “",
+    "options": {
+      "1": "Application",
+      "2": "Analysis",
+      "3": "Synthesis",
+      "4": "Understanding"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 213,
+    "question_text": "This domine represents emotions, feelings, values, interests, likes, attitudes etc. of a student is",
+    "options": {
+      "1": "Affective domine",
+      "2": "Cognitive domine",
+      "3": "Physical domine",
+      "4": "Psychomotor domine"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 214,
+    "question_text": "According to Anderson and Krathwohl classification these are belonging to “Factual Knowledge”",
+    "options": {
+      "1": "Facts, Definitions",
+      "2": "Theories, Generalizations",
+      "3": "Demonstration of Activities",
+      "4": "Knowledge about the usage of tools and"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 214,
+    "question_text": "instruments 215. According to State Curriculum frame work APSCF- 2011 number of biological standards to be acquired by the students are",
+    "options": {
+      "1": "5",
+      "2": "7",
+      "3": "8",
+      "4": "9"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 216,
+    "question_text": "“Students will arrange the instruments with speed and accurately” is belongs to this educational objective",
+    "options": {
+      "1": "Imitation",
+      "2": "Precision",
+      "3": "Naturalisation",
+      "4": "Characterisation"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 217,
+    "question_text": "This is not the advantage of “Lecture Method”",
+    "options": {
+      "1": "This is easiest way in teaching methods",
+      "2": "It will take more time for preparation for a teacher for teaching",
+      "3": "One can teach more people, more content with in the less time",
+      "4": "Can complete syllabus according to time table"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 218,
+    "question_text": "According to Thurber and Collate “Lecture Demonstration Method” can be used in this contest",
+    "options": {
+      "1": "A, B only",
+      "2": "A, B, C only",
+      "3": "B, C, D only",
+      "4": "A, B, C, D"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 219,
+    "question_text": "This is not advantage of Lecture Demonstration method",
+    "options": {
+      "1": "Develop concrete concepts",
+      "2": "Develop Scientific attitudes",
+      "3": "Not a child centred method",
+      "4": "Develops knowledge through direct observations"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 219,
+    "question_text": "The principle that the “Inductive approach” does not 220. depend",
+    "options": {
+      "1": "Formulating Generalization from examples",
+      "2": "Formulating Generalization from individual items",
+      "3": "Going from concrete concepts to abstract concepts",
+      "4": "Abstract concepts to concrete concepts"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 221,
+    "question_text": "Teaching of a single concept done by a pupil teacher to acquire teaching skills, using specified teaching skill to a small number of pupils in a short duration of time is",
+    "options": {
+      "1": "Macro Teaching",
+      "2": "Micro Teaching",
+      "3": "Peer Teaching",
+      "4": "Remedial Teaching"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 222,
+    "question_text": "On this method the students listens while the teacher is explaining or writing",
+    "options": {
+      "1": "Laboratory method",
+      "2": "Scientific method",
+      "3": "Project method",
+      "4": "Lecture method"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 223,
+    "question_text": "The method used to derive specific items from general items is",
+    "options": {
+      "1": "Laboratory method",
+      "2": "Deductive method",
+      "3": "Project method",
+      "4": "Lecture demonstration method"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 224,
+    "question_text": "The method used to derive general principles from specific examples",
+    "options": {
+      "1": "Laboratory method",
+      "2": "Inductive method",
+      "3": "Project method",
+      "4": "Lecture demonstration method"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 225,
+    "question_text": "In this method, students find ways to solve problems in natural environment",
+    "options": {
+      "1": "Lecture method",
+      "2": "Lecture demonstration method",
+      "3": "Laboratory method",
+      "4": "Project method"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 226,
+    "question_text": "To prepare an Aquarium by the pupil, this method can be used",
+    "options": {
+      "1": "Explorative method",
+      "2": "Project method",
+      "3": "Problem solving method",
+      "4": "Demonstration method"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 227,
+    "question_text": "The best learning Experience among the following",
+    "options": {
+      "1": "Direct Experience",
+      "2": "Indirect Experience",
+      "3": "Vicarious Experience",
+      "4": "Bilateral Experience"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 228,
+    "question_text": "This is useful in learning Utilization of Natural resources",
+    "options": {
+      "1": "Demonstrations",
+      "2": "Field trips",
+      "3": "Experiments",
+      "4": "Collection of objects"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 229,
+    "question_text": "Fundamental characteristics of a textbook among the following",
+    "options": {
+      "1": "A, B only",
+      "2": "B, C only",
+      "3": "A, C only",
+      "4": "A, B, C"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 230,
+    "question_text": "Total marks in Vogal’s spot check evaluation scale are",
+    "options": {
+      "1": "10",
+      "2": "500",
+      "3": "150",
+      "4": "100"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 1000,
+    "question_text": "231. According to R.H White house proposed lay out of lecture room cum laboratory is",
+    "options": {
+      "1": "45 × 25 feet",
+      "2": "40 × 20 feet",
+      "3": "55 × 25 feet",
+      "4": "25 × 25 feet"
+    },
+    "answer": null
+  },
+  {
+    "question_id": 231,
+    "question_text": "“Mobile science Laboratory” first introduced in India by 232.",
+    "options": {
+      "1": "NCTE",
+      "2": "SITE",
+      "3": "NCERT",
+      "4": "NIEPA"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 233,
+    "question_text": "This percentage of learning will be done by seeing in students.",
+    "options": {
+      "1": "45%",
+      "2": "83%",
+      "3": "65%",
+      "4": "4%"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 234,
+    "question_text": "The projected teaching aid from the following.",
+    "options": {
+      "1": "Epidiascope",
+      "2": "Diorama",
+      "3": "Peg board",
+      "4": "Globe"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 235,
+    "question_text": "Patron of the “school science club” is",
+    "options": {
+      "1": "Librarian",
+      "2": "Selected student",
+      "3": "Science teacher",
+      "4": "Head master"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 236,
+    "question_text": "This is not the advantage of the objective question",
+    "options": {
+      "1": "More scope for conceptual expression",
+      "2": "having relatability",
+      "3": "No scope for dilemma",
+      "4": "Objectivity in awarding marks"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 237,
+    "question_text": "The book that records student’s behaviour in special situations is",
+    "options": {
+      "1": "Check list",
+      "2": "Cumulative record",
+      "3": "Anecdotal record",
+      "4": "Progress card"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 238,
+    "question_text": "“The activities conducted by pupil under the monitoring of the teacher is called educational planning” – said by",
+    "options": {
+      "1": "Spears",
+      "2": "Murre",
+      "3": "Cunning Hamm",
+      "4": "W. S. Jacobson"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 239,
+    "question_text": "The principles of curriculum development from the following are",
+    "options": {
+      "1": "A only",
+      "2": "A, B only",
+      "3": "B, C only",
+      "4": "A, B, C"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 240,
+    "question_text": "Brass articles in Biological laboratory should be cleaned with this",
+    "options": {
+      "1": "Spirit",
+      "2": "Braso",
+      "3": "Grease",
+      "4": "Formalin"
+    },
+    "answer": 2
+  }
+]

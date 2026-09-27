@@ -1,0 +1,2631 @@
+[
+  {
+    "question_id": 1,
+    "question_text": "Number of two digit numbers that are divisible by 4 is",
+    "options": {
+      "1": "21",
+      "2": "22",
+      "3": "23",
+      "4": "24"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 2,
+    "question_text": "LCM of two numbers is 120 and their HCF is 10 if one of the number is 30 then the other number is",
+    "options": {
+      "1": "20",
+      "2": "40",
+      "3": "60",
+      "4": "80"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 3,
+    "question_text": "Which of the following is terminating decimal",
+    "options": {
+      "1": "77/210",
+      "2": "21/60",
+      "3": "8/15",
+      "4": "12/55"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 4,
+    "question_text": "Which of the following is not a prime",
+    "options": {
+      "1": "42 + 52",
+      "2": "52 + 62",
+      "3": "62 + 72",
+      "4": "72 + 82"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 5,
+    "question_text": "The smallest three digit number that is divisible by 4, 6 and 8 is",
+    "options": {
+      "1": "108",
+      "2": "114",
+      "3": "120",
+      "4": "144"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 6,
+    "question_text": "HCF of 75, 105 and 175 is",
+    "options": {
+      "1": "5",
+      "2": "7",
+      "3": "15",
+      "4": "35"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 7,
+    "question_text": "Total number of factors of 600 is",
+    "options": {
+      "1": "20",
+      "2": "24",
+      "3": "30",
+      "4": "36"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 8,
+    "question_text": "A rational number in between 1/4 and 1/2 is",
+    "options": {
+      "1": "3/7",
+      "2": "4/7",
+      "3": "5/8",
+      "4": "6/11"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 9,
+    "question_text": "The Average of 4.2, 3.8 and 7.6 is 4.2 , 3.8 మరియు 7.6 యొకక సగటు",
+    "options": {
+      "1": "4.2",
+      "2": "4.8",
+      "3": "5.2",
+      "4": "4.6"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 10,
+    "question_text": "Half of 0.1 is",
+    "options": {
+      "1": "0.02",
+      "2": "0.5",
+      "3": "0.05",
+      "4": "0.2"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 11,
+    "question_text": "LCM of 20, 25 and 30 is",
+    "options": {
+      "1": "240",
+      "2": "120",
+      "3": "150",
+      "4": "300"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 12,
+    "question_text": "Which of the following numbers are co-prime",
+    "options": {
+      "1": "120, 144",
+      "2": "215, 216",
+      "3": "35, 165",
+      "4": "121, 143"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 13,
+    "question_text": "Number of digits in the square of a five-digit number is",
+    "options": {
+      "1": "9 or 10",
+      "2": "10 or 11",
+      "3": "10 or 12",
+      "4": "11 or 12"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 14,
+    "question_text": "How many consecutive odd positive integers added to get 144",
+    "options": {
+      "1": "8",
+      "2": "10",
+      "3": "12",
+      "4": "14"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 15,
+    "question_text": "Total number of three-digits perfect squares",
+    "options": {
+      "1": "20",
+      "2": "21",
+      "3": "22",
+      "4": "23"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 16,
+    "question_text": "which of the following is not a perfect square",
+    "options": {
+      "1": "1444",
+      "2": "2744",
+      "3": "3844",
+      "4": "7744"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 17,
+    "question_text": "((3.2)^3 + (1.8)^3) / ((3.2)^2 - 5.76 + (1.8)^2)",
+    "options": {
+      "1": "5",
+      "2": "5.2",
+      "3": "5.1",
+      "4": "6"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 18,
+    "question_text": "The smallest-square number that is divisible by each of the numbers 4, 9 and 10 is",
+    "options": {
+      "1": "180",
+      "2": "360",
+      "3": "900",
+      "4": "1600"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 19,
+    "question_text": "3√3375 =",
+    "options": {
+      "1": "15",
+      "2": "25",
+      "3": "35",
+      "4": "45"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 20,
+    "question_text": "1013 =",
+    "options": {
+      "1": "100030001",
+      "2": "1003001",
+      "3": "1030301",
+      "4": "103301"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 21,
+    "question_text": "73 − 63 =",
+    "options": {
+      "1": "1 + 7 × 6 × 2",
+      "2": "1 + 7 × 6 × 3",
+      "3": "1 + 7 × 6 ×",
+      "4": "1 + 7 × 6 × 4"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 22,
+    "question_text": "Unit digit of cube of 888 is",
+    "options": {
+      "1": "2",
+      "2": "4",
+      "3": "6",
+      "4": "8"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 23,
+    "question_text": "√13225",
+    "options": {
+      "1": "105",
+      "2": "115",
+      "3": "125",
+      "4": "135"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 24,
+    "question_text": "100012 =",
+    "options": {
+      "1": "1002001",
+      "2": "100020001",
+      "3": "10000200001",
+      "4": "100000020000001"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 25,
+    "question_text": "35−33 25 = 25−23",
+    "options": {
+      "1": "8",
+      "2": "9",
+      "3": "10",
+      "4": "12"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 26,
+    "question_text": "2×34×25 26 = 9×42",
+    "options": {
+      "1": "24",
+      "2": "36",
+      "3": "18",
+      "4": "27"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 27,
+    "question_text": "The distance between Earth and Moon is 384,000,000m. Express it in standard form",
+    "options": {
+      "1": "3.84 × 106",
+      "2": "3.84 × 108",
+      "3": "0.384 × 1010",
+      "4": "3.84 × 109"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 28,
+    "question_text": "Size of a plant cell is 0.00001275m express it into standard form",
+    "options": {
+      "1": "1275 × 10−9",
+      "2": "1.275 × 108",
+      "3": "1.275 × 10−5",
+      "4": "1.275 × 10−6"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 29,
+    "question_text": "(1/3)^(-2) - (1/2)^(-3) =",
+    "options": {
+      "1": "1",
+      "2": "9",
+      "3": "8",
+      "4": "2"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 30,
+    "question_text": "If (−3)𝑚−1 × (−3)6 = (−3)7 then 𝑚 =",
+    "options": {
+      "1": "0",
+      "2": "-1",
+      "3": "1",
+      "4": "2"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 31,
+    "question_text": "3𝑚+2−3𝑚−2 31 = 3𝑚+1−3𝑚−1",
+    "options": {
+      "1": "9/10",
+      "2": "10/3",
+      "3": "80/9",
+      "4": "3"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 32,
+    "question_text": "Which of the following is an irrational number",
+    "options": {
+      "1": "√50 − √18− √8",
+      "2": "√20 × √5",
+      "3": "(√7 + √5)(√7 − √5) 2",
+      "4": "(√3 + 1)"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 33,
+    "question_text": "√1 + 3 + 5 + 7 + 9 + 11 + 13 + 15 =",
+    "options": {
+      "1": "8",
+      "2": "7",
+      "3": "15",
+      "4": "10"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 34,
+    "question_text": "If 𝑥 = 2 − √3 then 𝑥 + = 𝑥 1",
+    "options": {
+      "1": "4",
+      "2": "2√3",
+      "3": "2",
+      "4": "√3"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 35,
+    "question_text": "(5 + √5)(√5− 5) =",
+    "options": {
+      "1": "15",
+      "2": "20",
+      "3": "-20",
+      "4": "-15"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 36,
+    "question_text": "An irrational number between 2 and 3 is",
+    "options": {
+      "1": "√2",
+      "2": "√3",
+      "3": "√5",
+      "4": "√10"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 37,
+    "question_text": "The ratio of 90cm to 1.5m is",
+    "options": {
+      "1": "5:3",
+      "2": "6:1",
+      "3": "3:5",
+      "4": "1:6"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 38,
+    "question_text": "An Equivalent ratio of 6:4 is",
+    "options": {
+      "1": "16:14",
+      "2": "2:3",
+      "3": "4:6",
+      "4": "3:2"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 39,
+    "question_text": "If ₹60 is divided in the ratio 1:2 between Krithi and Kiran, the share of Kiran is",
+    "options": {
+      "1": "₹40",
+      "2": "₹20",
+      "3": "₹30",
+      "4": "₹10"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 40,
+    "question_text": "The ratio of 500ml to 2liters is",
+    "options": {
+      "1": "25:1",
+      "2": "1:4",
+      "3": "50:1",
+      "4": "4:1"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 41,
+    "question_text": "Which of the following pair of ratios are in proportion?",
+    "options": {
+      "1": "1:5, 3:5",
+      "2": "2:9, 18:81",
+      "3": "15:45, 5:25",
+      "4": "4:12, 9:24"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 42,
+    "question_text": "Which of the following is in proportion?",
+    "options": {
+      "1": "4, 6, 8, 12",
+      "2": "33, 44, 75, 80",
+      "3": "1, 2, 3, 4",
+      "4": "3, 4, 7, 21"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 43,
+    "question_text": "Which statement among the following is false?",
+    "options": {
+      "1": "16:4 = 20:30",
+      "2": "12:18 = 14:21",
+      "3": "1:2 = 3:4",
+      "4": "21:6 = 25:6"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 44,
+    "question_text": "If 1/5 is expressed as percent, its value is",
+    "options": {
+      "1": "50%",
+      "2": "25%",
+      "3": "20%",
+      "4": "40%"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 45,
+    "question_text": "Converting 5/4 to percent is",
+    "options": {
+      "1": "150%",
+      "2": "80%",
+      "3": "120%",
+      "4": "125%"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 46,
+    "question_text": "Converting the decimal 0.75 to percent is",
+    "options": {
+      "1": "7.5%",
+      "2": "175%",
+      "3": "75%",
+      "4": "25%"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 47,
+    "question_text": "The value of 75% of 12 is",
+    "options": {
+      "1": "9",
+      "2": "75",
+      "3": "900",
+      "4": "10"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 48,
+    "question_text": "The fractional form of 25% is",
+    "options": {
+      "1": "4",
+      "2": "25/10",
+      "3": "2/10",
+      "4": "1/4"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 49,
+    "question_text": "If a bicycle is bought for ₹6000 and sold it for ₹5000, then the loss is",
+    "options": {
+      "1": "16 % 3",
+      "2": "18%",
+      "3": "20% 1",
+      "4": "33 %"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 50,
+    "question_text": "If the cost of a toy is ₹700 and it is sold by making a profit of 20% then its selling price is",
+    "options": {
+      "1": "₹720",
+      "2": "₹840",
+      "3": "₹560",
+      "4": "₹780"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 51,
+    "question_text": "An item marked at ₹840 and sold for ₹714 then the discount percentage is",
+    "options": {
+      "1": "10",
+      "2": "12",
+      "3": "24",
+      "4": "15"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 52,
+    "question_text": "A shop gives 20% discount. If a dress is marked at ₹1200, then the sale price of that dress is",
+    "options": {
+      "1": "₹1440",
+      "2": "₹1000",
+      "3": "₹960",
+      "4": "₹860"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 53,
+    "question_text": "A shop gives 20% discount. If a pair of shoes marked at ₹750, then the sale price of that item is",
+    "options": {
+      "1": "₹900",
+      "2": "₹700",
+      "3": "₹600",
+      "4": "₹640"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 54,
+    "question_text": "If the cost of a table is ₹3500 and it is sold at ₹4200, then the profit on it is",
+    "options": {
+      "1": "20%",
+      "2": "25%",
+      "3": "7%",
+      "4": "10%"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 55,
+    "question_text": "The selling price of the fan, which bought for ₹560 and expenses of ₹40 made on its repairs with a profit of 5%, is",
+    "options": {
+      "1": "₹540",
+      "2": "₹630",
+      "3": "₹500",
+      "4": "₹520"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 56,
+    "question_text": "If P= ₹4000, R= 15% and T= 2years then the simple interest is",
+    "options": {
+      "1": "₹1500",
+      "2": "₹1000",
+      "3": "₹1200",
+      "4": "₹2000"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 57,
+    "question_text": "What is the principal, if simple interest got ₹1080 for 3years at 18% of rate of interest per annum is?",
+    "options": {
+      "1": "₹3000",
+      "2": "₹2500",
+      "3": "₹4000",
+      "4": "₹2000"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 58,
+    "question_text": "The amount to be paid at the end of 2 years on ₹2400 at 5% per annum compounded annually is",
+    "options": {
+      "1": "₹2864",
+      "2": "₹2564",
+      "3": "₹2646",
+      "4": "₹2864"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 59,
+    "question_text": "A T.V was bought at a price of ₹21,000. After one year the value of the T.V was depreciated by 5%. Then the value of the T.V after one year is",
+    "options": {
+      "1": "₹19950",
+      "2": "₹20500",
+      "3": "₹18950",
+      "4": "₹20000"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 60,
+    "question_text": "The compound interest on ₹12600 for 2 years at 10% per annum compounded annually is",
+    "options": {
+      "1": "₹2520",
+      "2": "₹2646",
+      "3": "₹15246",
+      "4": "₹13246"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 61,
+    "question_text": "A line segments has _____ end points",
+    "options": {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "3"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 62,
+    "question_text": "The lines which do not meet are said to be ______ lines",
+    "options": {
+      "1": "Perpendicular లంబ",
+      "2": "Concurrent మిళిత",
+      "3": "Intersecting ఖ్ండన",
+      "4": "Parallel సమాంతర"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 63,
+    "question_text": "How many straight lines can pass through two given points?",
+    "options": {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "Infinite అనంతం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 64,
+    "question_text": "The measure of a right angle is",
+    "options": {
+      "1": "180°",
+      "2": "0°",
+      "3": "90°",
+      "4": "45°"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 65,
+    "question_text": "Sum of three angles in a triangle is equal to ______ right angles",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 66,
+    "question_text": "If the measure of an angle is 120°, it is _______angle",
+    "options": {
+      "1": "Acute angle అలప కోణం",
+      "2": "Right angle లంబ కోణం",
+      "3": "Obtuse angle అధిక కోణం",
+      "4": "Straight angle సరళ కోణం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 67,
+    "question_text": "The angle between the two perpendicular lines is",
+    "options": {
+      "1": "0°",
+      "2": "90°",
+      "3": "180°",
+      "4": "45°"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 68,
+    "question_text": "In an equilateral triangle, the measure of each interior angle of it is",
+    "options": {
+      "1": "50°",
+      "2": "90°",
+      "3": "60°",
+      "4": "45°"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 69,
+    "question_text": "The lengths of the sides of a triangle are 7cm, 8cm, 7cm. So it is a _______ triangle",
+    "options": {
+      "1": "Scalene విషమబాహు",
+      "2": "Isosceles సమదివబాహు",
+      "3": "Equilateral సమబాహు",
+      "4": "Right angled లంబకోణ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 70,
+    "question_text": "The sum of the measures of all interior of a triangle is",
+    "options": {
+      "1": "60°",
+      "2": "120°",
+      "3": "90°",
+      "4": "180°"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 71,
+    "question_text": "The sum of the measures of all the interior angles of a convex quadrilateral is",
+    "options": {
+      "1": "360°",
+      "2": "180°",
+      "3": "90°",
+      "4": "270°"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 72,
+    "question_text": "The measure of each interior angle of a rectangle is",
+    "options": {
+      "1": "60°",
+      "2": "90°",
+      "3": "120°",
+      "4": "45°"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 73,
+    "question_text": "The name of a polygon having 6 sides is",
+    "options": {
+      "1": "Octagon అషటభుజి",
+      "2": "Pentagon పంచభుజి",
+      "3": "Decagon దశభుజి",
+      "4": "Hexagon షడుుజి"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 74,
+    "question_text": "Which of the following is not a polygon?",
+    "options": {
+      "1": "Rectangle దీరఘచతురస్రం",
+      "2": "Hexagon షడుుజి",
+      "3": "Triangle త్రిభుజం",
+      "4": "Circle వృతతం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 75,
+    "question_text": "In a circle, the line segment which join the centre of the circle and any point on the circle is",
+    "options": {
+      "1": "Diameter వాయసం",
+      "2": "Radius వాయసారంా",
+      "3": "Chord జాయ",
+      "4": "Arc చాపం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 76,
+    "question_text": "The line segment which join any two points on a circle is",
+    "options": {
+      "1": "Segment of the circle వృతత ఖ్ండము",
+      "2": "Radius వాయసారంా",
+      "3": "Chord జాయ",
+      "4": "Arc చాపం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 77,
+    "question_text": "The longest chord in a circle is",
+    "options": {
+      "1": "Diameter వాయసం",
+      "2": "Radius వాయసారంా",
+      "3": "Chord జాయ",
+      "4": "Arc చాపం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 78,
+    "question_text": "In a circle, angles in the same segment are",
+    "options": {
+      "1": "Supplementary సంపూరకాలు",
+      "2": "Complementary పూరకాలు",
+      "3": "Conjugate angles సంయుగి కోణలు",
+      "4": "Equal సమానం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 79,
+    "question_text": "(5) 79 The measure of the angle formed in a semicircle at its centre is",
+    "options": {
+      "1": "360°",
+      "2": "90°",
+      "3": "180°",
+      "4": "270°"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 80,
+    "question_text": "Measure of the angle subtended by a diameter in a semicircle is",
+    "options": {
+      "1": "45°",
+      "2": "50°",
+      "3": "90°",
+      "4": "120°"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 81,
+    "question_text": "ABCD is a cyclic quadrilateral and ∠𝐴 = 50° then ∠𝐶 =",
+    "options": {
+      "1": "50°",
+      "2": "130°",
+      "3": "180°",
+      "4": "100°"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 82,
+    "question_text": "The angle between a tangent to a circle and the radius at the point of contact is",
+    "options": {
+      "1": "60°",
+      "2": "30°",
+      "3": "45°",
+      "4": "90°"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 83,
+    "question_text": "A tangent to a circle intersects it in ______ point(s)",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 84,
+    "question_text": "A secant of a circle intersects it in _____ point(s)",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 85,
+    "question_text": "If number of observations 𝑛 is odd then the observation which becomes the median is",
+    "options": {
+      "1": "( ) th 2 𝑛+1",
+      "2": "( ) th 2 𝑛+3",
+      "3": "( ) th 2",
+      "4": "2𝑛 th"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 86,
+    "question_text": "Mode of the data 2, 2, 2, 3, 3, 3, 4, 4, 4, x is 4. Value of x is",
+    "options": {
+      "1": "2",
+      "2": "3",
+      "3": "4",
+      "4": "5"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 87,
+    "question_text": "𝑓 −𝑓 87 Mode = 𝑙 + [ 1 0 ] × ℎ. Here 𝑙 means 2𝑓 −𝑓 −𝑓 1 0 2 𝑓 −𝑓",
+    "options": {
+      "1": "lower boundary of model class",
+      "2": "upper boundary of model class",
+      "3": "length of model class",
+      "4": "frequency of model class"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 88,
+    "question_text": "The mean of first 9 prime numbers is",
+    "options": {
+      "1": "9 1",
+      "2": "11 9",
+      "3": "11",
+      "4": "9"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 89,
+    "question_text": "Father of statistics",
+    "options": {
+      "1": "Pascal",
+      "2": "Libneitz",
+      "3": "Sir Ronald A. Fisher",
+      "4": "Selvistar"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 90,
+    "question_text": "If the mean of 2, 3, 4, 5, x is 5 then value of x is",
+    "options": {
+      "1": "3",
+      "2": "11",
+      "3": "5",
+      "4": "6"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 91,
+    "question_text": "Mean of 10 numbers is 7 and another 15 numbers is 12, then mean of those 25 numbers is",
+    "options": {
+      "1": "25",
+      "2": "19",
+      "3": "10",
+      "4": "250"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 92,
+    "question_text": "Mean of first 100 natural numbers is",
+    "options": {
+      "1": "48.5",
+      "2": "50.5",
+      "3": "50",
+      "4": "51.5"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 93,
+    "question_text": "𝑥 𝑥 𝑥 𝑥 93 Median of ,𝑥, , , is 5 then value of 𝑥 4 5 3 2 𝑥 𝑥 𝑥 𝑥",
+    "options": {
+      "1": "5",
+      "2": "10",
+      "3": "15",
+      "4": "20"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 94,
+    "question_text": "Average of 5 consecutive numbers is 16 the biggest number is",
+    "options": {
+      "1": "21",
+      "2": "19",
+      "3": "20",
+      "4": "18"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 95,
+    "question_text": "Median of 3/4, 1/2, 2/3, 1/6, 7/12 is",
+    "options": {
+      "1": "7/12",
+      "2": "1/6",
+      "3": "2/3",
+      "4": "3/4"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 96,
+    "question_text": "Mode of the data 2, 3, 4, 6, 3, 5, 8, 4, 3 is",
+    "options": {
+      "1": "4",
+      "2": "3",
+      "3": "2",
+      "4": "6"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 97,
+    "question_text": "If the sum and product of zeros of a quadratic polynomial are 3 and -2 then the quadratic polynomial is",
+    "options": {
+      "1": "𝑥2 + 3𝑥 + 2",
+      "2": "𝑥2 − 3𝑥 − 2",
+      "3": "𝑥2 + 3𝑥 − 2",
+      "4": "𝑥2 − 3𝑥 + 2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 98,
+    "question_text": "The degree of the polynomial 𝑥5 − 𝑥4 + 3 is",
+    "options": {
+      "1": "5",
+      "2": "4",
+      "3": "9",
+      "4": "10"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 99,
+    "question_text": "If P(x)= 5𝑥2 − 3𝑥 + 7 then P(3) is",
+    "options": {
+      "1": "52",
+      "2": "48",
+      "3": "45",
+      "4": "43"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 100,
+    "question_text": "The zero of the polynomial P(x)= 2𝑥 + 1 is",
+    "options": {
+      "1": "2",
+      "2": "1",
+      "3": "− 2",
+      "4": "0"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 101,
+    "question_text": "Roots of the quadratic equation 𝑥2 − 3𝑥 − 10 = 0 are",
+    "options": {
+      "1": "-2 or 5",
+      "2": "2 or -5",
+      "3": "2 or 5",
+      "4": "-2 or -5"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 102,
+    "question_text": "One example of a binomial of degree 35 is",
+    "options": {
+      "1": "𝑥30 + 𝑥5",
+      "2": "2𝑥34 + 𝑥1",
+      "3": "3𝑥35 − 4",
+      "4": "𝑥30 + 45"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 103,
+    "question_text": "A polynomial of degree 2 is",
+    "options": {
+      "1": "linear polynomial రేఖీయ బహుపది",
+      "2": "Quadratic polynomial వరగ బహుపది",
+      "3": "Cubic polynomial ఘన బహుపది",
+      "4": "Zero polynomial శూనయ బహుపది"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 104,
+    "question_text": "The number of solutions for a linear equation in two variables",
+    "options": {
+      "1": "Unique solution",
+      "2": "Only two solutions",
+      "3": "Infinitely many solutions",
+      "4": "No solution"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 105,
+    "question_text": "If 𝛼,𝛽,𝛾 are the roots of cubic polynomial 𝑎𝑥3 + 𝑏𝑥2 + 𝑐𝑥 + 𝑑 then 𝛼 ∙ 𝛽 ∙ 𝛾 =",
+    "options": {
+      "1": "− 𝑎",
+      "2": "𝑐/𝑎 𝑑",
+      "3": "− 𝑎",
+      "4": "𝑏/𝑎"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 106,
+    "question_text": "Two consecutive odd positive integers whose sum of squares is 290, then that numbers are",
+    "options": {
+      "1": "11, 13",
+      "2": "13, 15",
+      "3": "21, 23",
+      "4": "15, 17"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 107,
+    "question_text": "The discriminant of the equation 3x^2 - 2x + 1/3 = 0 is",
+    "options": {
+      "1": "2",
+      "2": "-2",
+      "3": "0",
+      "4": "5"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 108,
+    "question_text": "2𝑥 − 𝑘𝑦 + 3 = 0 and 4𝑥 + 6𝑦 − 5 = 0 are parallel then the value of 𝑘 is",
+    "options": {
+      "1": "3",
+      "2": "-3",
+      "3": "2",
+      "4": "-2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 109,
+    "question_text": "The 6th term in the AP: 21,18,15…… is",
+    "options": {
+      "1": "6",
+      "2": "9",
+      "3": "12",
+      "4": "3"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 110,
+    "question_text": "The 2nd term from the end of the AP: 3,8,13,……,253",
+    "options": {
+      "1": "162",
+      "2": "160",
+      "3": "248",
+      "4": "174"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 111,
+    "question_text": "6th term of an AP: 2, 5/2, 3, 7/2, ... is",
+    "options": {
+      "1": "4",
+      "2": "9/2",
+      "3": "5",
+      "4": "11/2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 112,
+    "question_text": "Common difference of AP: 1,3,5,7,……..",
+    "options": {
+      "1": "1",
+      "2": "3",
+      "3": "2",
+      "4": "5"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 113,
+    "question_text": "The fourth term of the AP whose first term is 10 and common difference is 5",
+    "options": {
+      "1": "10",
+      "2": "15",
+      "3": "20",
+      "4": "25"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 114,
+    "question_text": "Common difference in the AP: 3, 3 + √2, 3 + 2√2….. is",
+    "options": {
+      "1": "3 + √2",
+      "2": "√2",
+      "3": "√3",
+      "4": "3 − √2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 115,
+    "question_text": "Number of terms of the AP: 24,21,18,…..3",
+    "options": {
+      "1": "8",
+      "2": "5",
+      "3": "6",
+      "4": "7"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 116,
+    "question_text": "The sum of the 10 terms of the AP: 2,7,12,….. is",
+    "options": {
+      "1": "240",
+      "2": "245",
+      "3": "250",
+      "4": "255"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 117,
+    "question_text": "The Sum of 10 terms of the AP: -0.5,-1.0,-1.5….. is",
+    "options": {
+      "1": "-30.5",
+      "2": "27.5",
+      "3": "-32.5",
+      "4": "-27.5"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 118,
+    "question_text": "Sum of first 14 terms of an AP is 1050 and its first term is 10 then 20th term is",
+    "options": {
+      "1": "200",
+      "2": "225",
+      "3": "250",
+      "4": "275"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 119,
+    "question_text": "Which terms of the AP: 63,65,67,….. and 3,10,17,…. Are equal",
+    "options": {
+      "1": "11",
+      "2": "12",
+      "3": "13",
+      "4": "14"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 120,
+    "question_text": "17th term of an AP exceeds its 10th term by 7 then the common difference is",
+    "options": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 121,
+    "question_text": "There is a path of one meter width running inside along the perimeter of the park 30𝑚 × 20𝑚, that has to be cemented. If 1 bag of cement is required to cement 4𝑚2 area, how many bags of cement would be required to construct the cement path?",
+    "options": {
+      "1": "96",
+      "2": "196",
+      "3": "24",
+      "4": "49"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 122,
+    "question_text": "The area of a trapezium shaped field is 480𝑚2, the distance between two parallel sides is 15𝑚 and one of the parallel side is 20𝑚. Then the other parallel side is (in cm)",
+    "options": {
+      "1": "64",
+      "2": "54",
+      "3": "44",
+      "4": "34"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 123,
+    "question_text": "The area of a rhombus is 240𝑐𝑚2 and one of the diagonals is 16𝑐𝑚 then the other diagonal length is (in cm)",
+    "options": {
+      "1": "20",
+      "2": "30",
+      "3": "40",
+      "4": "15"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 124,
+    "question_text": "The shape of the top surface a table is a trapezium. If its parallel sides are 1m and 1.2𝑚 and perpendicular distance between them is 0.8𝑚 then its area is (𝑖𝑛 𝑚2)",
+    "options": {
+      "1": "88",
+      "2": "8.8",
+      "3": "0.88",
+      "4": "880"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 125,
+    "question_text": "The diagonal of a quadrilateral shapes field is 24𝑚 and the perpendiculars dropped on it from the remaining opposite vertices are 8𝑚 and 13𝑚. The area of the field is (𝑖𝑛 𝑚2)",
+    "options": {
+      "1": "152",
+      "2": "252",
+      "3": "150",
+      "4": "250"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 126,
+    "question_text": "The floor of a building consists of 3000 tiles which are in rhombus shape and each of its diagonals are 45𝑐𝑚 and 30𝑐𝑚 in length. The total cost of polishing the floor at ₹4 per m2 is (in rupees)",
+    "options": {
+      "1": "810",
+      "2": "81",
+      "3": "270",
+      "4": "2025"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 127,
+    "question_text": "Total surface area of a cuboid is",
+    "options": {
+      "1": "2(𝑙ℎ + 𝑏ℎ)",
+      "2": "2(𝑙ℎ + 𝑏𝑙)",
+      "3": "2(𝑙ℎ + 𝑏ℎ + 𝑙𝑏)",
+      "4": "(𝑙ℎ + 𝑏ℎ + 𝑙𝑏)"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 128,
+    "question_text": "Two cubes each with side “b” are joined to form a cuboid. The surface area of a cuboid is",
+    "options": {
+      "1": "18 b2",
+      "2": "12 b2",
+      "3": "10 b2",
+      "4": "8 b2"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 129,
+    "question_text": "After the surface area of a cube is painted, the cube is cut into 64 smaller cubes of same dimensions. How many have no face painted?",
+    "options": {
+      "1": "4",
+      "2": "6",
+      "3": "8",
+      "4": "10"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 130,
+    "question_text": "An aquarium is in the form of a cuboid whose external measures are 80𝑐𝑚 × 30𝑐𝑚 × 40𝑐𝑚. The capacity of aquarium in litres is",
+    "options": {
+      "1": "24",
+      "2": "56",
+      "3": "72",
+      "4": "96"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 131,
+    "question_text": "The height of a cylinder whose radius is 7𝑐𝑚 and the lateral surface area 660 𝑐𝑚2 is (in cm)",
+    "options": {
+      "1": "15",
+      "2": "9",
+      "3": "6",
+      "4": "5"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 132,
+    "question_text": "Formula to find total surface area of cylinder is",
+    "options": {
+      "1": "2𝜋𝑟ℎ",
+      "2": "𝜋𝑟2ℎ",
+      "3": "2𝜋𝑟(𝑟 + ℎ)",
+      "4": "𝜋𝑟(𝑟 + ℎ)"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 133,
+    "question_text": "1 Liter = _______ 𝑐𝑚3",
+    "options": {
+      "1": "10",
+      "2": "100",
+      "3": "1000",
+      "4": "10000"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 134,
+    "question_text": "A godown is in the form of a cuboid of measures 60𝑚 × 40𝑚 × 30𝑚. How many cuboidal boxes can be stored in it if the volume of one box is 0.8𝑚3?",
+    "options": {
+      "1": "90",
+      "2": "900",
+      "3": "9000",
+      "4": "90000"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 135,
+    "question_text": "A rectangular piece of paper 11𝑐𝑚 × 4𝑐𝑚 is folded without over lapping to make a cylinder of height 4𝑐𝑚 its base diameter is (in 𝑐𝑚)",
+    "options": {
+      "1": "3.5",
+      "2": "7",
+      "3": "7/4",
+      "4": "14"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 136,
+    "question_text": "The height of a cuboid whose base area 180𝑐𝑚2 and volume 900𝑐𝑚3 is (𝑖𝑛 𝑐𝑚)",
+    "options": {
+      "1": "0.5",
+      "2": "5",
+      "3": "2.5",
+      "4": "1.25"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 137,
+    "question_text": "A milk tank is in the form of cylinder whose radius is 1.5𝑚 and length is 7𝑚. Find the quantity of milk in liters that can be stored in the tank?",
+    "options": {
+      "1": "49500",
+      "2": "4950",
+      "3": "495",
+      "4": "49.5"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 138,
+    "question_text": "If each edge of a cube is doubled its volume will becomes ______ times to its original",
+    "options": {
+      "1": "2",
+      "2": "4",
+      "3": "6",
+      "4": "8"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 139,
+    "question_text": "Given a cylindrical tank, in which situation will you find volume",
+    "options": {
+      "1": "a and c",
+      "2": "a and b",
+      "3": "b and c",
+      "4": "All a, b, c"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 140,
+    "question_text": "Water is pouring into a cuboidal reservoir at the rate of 60 liters per minute. If the volume of reservoir is 108𝑚3 then it will take to fill the reservoir (𝑖𝑛 ℎ𝑜𝑢𝑟𝑠)",
+    "options": {
+      "1": "1800",
+      "2": "3",
+      "3": "30",
+      "4": "300"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 141,
+    "question_text": "The height and the slant height of a cone are 21𝑐𝑚 and 28𝑐𝑚 respectively then its volume is (𝑖𝑛 𝑐𝑚3)",
+    "options": {
+      "1": "7546",
+      "2": "7645",
+      "3": "7564",
+      "4": "7465"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 142,
+    "question_text": "A right triangle ABC with sides 5𝑐𝑚, 12𝑐𝑚 and 13𝑐𝑚 is revolved about the side 12𝑐𝑚 then the volume of solid so obtained is (𝑖𝑛 𝑐𝑚3)",
+    "options": {
+      "1": "100𝜋",
+      "2": "720 𝜋",
+      "3": "24 𝜋",
+      "4": "72 𝜋"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 143,
+    "question_text": "The amount of water displaced by a solid spherical ball of diameter 0.21𝑚 (𝑖𝑛 𝑙𝑖𝑡𝑒𝑟𝑠)",
+    "options": {
+      "1": "4.851",
+      "2": "48.51",
+      "3": "485.1",
+      "4": "4851"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 144,
+    "question_text": "The curved surface area of cone is 𝜋𝑟𝑙 then its total surface area is",
+    "options": {
+      "1": "𝜋𝑟𝑙 + 𝜋𝑟",
+      "2": "𝜋𝑟𝑙 + 2𝜋𝑟",
+      "3": "𝜋𝑟𝑙 + 𝜋𝑟2",
+      "4": "𝜋𝑟𝑙 + 2𝜋𝑟2"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 145,
+    "question_text": "The sum of the probabilities of all the elementary events of an experiment is",
+    "options": {
+      "1": "0",
+      "2": "1",
+      "3": "2",
+      "4": "10"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 146,
+    "question_text": "The probability of certain event is",
+    "options": {
+      "1": "0",
+      "2": "1/2",
+      "3": "1",
+      "4": "1/3"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 147,
+    "question_text": "The probability of an impossible event is",
+    "options": {
+      "1": "3",
+      "2": "1",
+      "3": "0",
+      "4": "1/2"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 148,
+    "question_text": "The probability of drawing a king card from a well- shuffled deck of 52 cards is",
+    "options": {
+      "1": "26",
+      "2": "1/13",
+      "3": "3/53",
+      "4": "1/12"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 149,
+    "question_text": "The probability of drawing a face card from well- shuffled deck of 52 cards is",
+    "options": {
+      "1": "13",
+      "2": "2/13",
+      "3": "1/13",
+      "4": "3/52"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 150,
+    "question_text": "The probability of getting an even number when a die",
+    "options": {
+      "1": "is thrown ones/3",
+      "2": "1/2",
+      "3": "1/6",
+      "4": "5/6"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 151,
+    "question_text": "The probability of drawing a white marble randomly from a certain box contains 5 red marbles, 8 white marbles and 4 green marbles.",
+    "options": {
+      "1": "17",
+      "2": "4/17",
+      "3": "12/17",
+      "4": "8/17"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 152,
+    "question_text": "The winning probability of a player A in a game with player B is 0.35. Then the winning probability of player B is",
+    "options": {
+      "1": "0.35",
+      "2": "0.55",
+      "3": "0.65",
+      "4": "0.75"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 153,
+    "question_text": "In a normal year the probability of celebrating two friends their birth day on same day is",
+    "options": {
+      "1": "2",
+      "2": "1/365",
+      "3": "1/366",
+      "4": "1/24"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 154,
+    "question_text": "When two dice are thrown the probability of getting same number on the top of dice is",
+    "options": {
+      "1": "6",
+      "2": "5/36",
+      "3": "13/36",
+      "4": "1/4"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 155,
+    "question_text": "The probability of getting at least one head when two coins tossed at a time",
+    "options": {
+      "1": "0.25",
+      "2": "0.50",
+      "3": "0.75",
+      "4": "1.0"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 156,
+    "question_text": "The probability of getting a head when a coin is tossed ones is",
+    "options": {
+      "1": "0",
+      "2": "1",
+      "3": "1/2 1",
+      "4": "−"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 157,
+    "question_text": "One of the point of trisection of the line segment joining points (2,−2) and (−7,4)",
+    "options": {
+      "1": "(0,0)",
+      "2": "(2,0)",
+      "3": "(−1,0)",
+      "4": "(−7,0)"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 158,
+    "question_text": "If (𝑥,𝑦) is equidistant from (7,1) and (3,5) then relation between 𝑥 and 𝑦 is",
+    "options": {
+      "1": "𝑥 − 𝑦 = 2",
+      "2": "𝑥 + 𝑦 = 2",
+      "3": "2𝑥 + 𝑦 = 0",
+      "4": "𝑥 − 2𝑦 = 5"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 159,
+    "question_text": "The distance between the points (4,0) and (8,0) is (in units)",
+    "options": {
+      "1": "0",
+      "2": "6",
+      "3": "12",
+      "4": "4"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 160,
+    "question_text": "If three points are collinear the area of triangle formed by those three points is (in sq. units)",
+    "options": {
+      "1": "3",
+      "2": "0",
+      "3": "1",
+      "4": "10"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 161,
+    "question_text": "The distance between the points (𝑥,7) and (1,15) is 10 the value of 𝑥 is",
+    "options": {
+      "1": "7 or -5",
+      "2": "-7 or 5",
+      "3": "5 or -5",
+      "4": "0 or 5"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 162,
+    "question_text": "(−4,6), (2,−2) and (2,5) are vertices of a triangle then centroid is",
+    "options": {
+      "1": "(3,0)",
+      "2": "(0,3)",
+      "3": "(−4,5)",
+      "4": "(6,2)"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 163,
+    "question_text": "The distance between the points (0,0) and (7,4) is (in units)",
+    "options": {
+      "1": "7",
+      "2": "4",
+      "3": "√65",
+      "4": "√89"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 164,
+    "question_text": "Coordinates of the point which divides the line segment joining the points (4,−3) and (8,5) in the ratio 3:1 is",
+    "options": {
+      "1": "(7,3)",
+      "2": "(3,7)",
+      "3": "(10,3)",
+      "4": "(7,10)"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 165,
+    "question_text": "Centroid of a triangle divides the median in the ratio",
+    "options": {
+      "1": "1:1",
+      "2": "2:5",
+      "3": "2:1",
+      "4": "5:3"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 166,
+    "question_text": "The radius of the circle whose centre is (3,2) and passes through (−5,6) is (in units)",
+    "options": {
+      "1": "4",
+      "2": "4√5",
+      "3": "√5",
+      "4": "2√3"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 167,
+    "question_text": "Midpoint of the line segment joining the points (3,0) and (−1,4) is",
+    "options": {
+      "1": "(0,0)",
+      "2": "(2,1)",
+      "3": "(1,2)",
+      "4": "(3,4)"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 168,
+    "question_text": "If (1,2), (4,𝑦), (𝑥,6) and (3,5) are vertices of a parallelogram then taken in an order value of 𝑥 and 𝑦 are",
+    "options": {
+      "1": "𝑥 = 3,𝑦 = 10",
+      "2": "𝑥 = 0,𝑦 = 10",
+      "3": "𝑥 = 3,𝑦 = 6",
+      "4": "𝑥 = 6,𝑦 = 3"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 169,
+    "question_text": "The first use of the idea of ‘sine’ in the way we use it today by",
+    "options": {
+      "1": "Bhaskaracharya భాసకరా చారుయడు",
+      "2": "Varahamihara వరాహ్యమీహ్యర",
+      "3": "Aryabhata ఆరయభట్ట",
+      "4": "Srinivasa Ramanujan శ్రీనివాస రామానుజన్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 170,
+    "question_text": "If tan𝐴 = then sin𝐴 = 3",
+    "options": {
+      "1": "4/5",
+      "2": "4/5",
+      "3": "5/4",
+      "4": "3/4"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 171,
+    "question_text": "In ∆𝐴𝐵𝐶, right angled at B, 𝐴𝐵 = 24𝑐𝑚, 𝐵𝐶 = 7𝑐𝑚 then cos𝐶 =",
+    "options": {
+      "1": "24",
+      "2": "24/25",
+      "3": "7/25",
+      "4": "7/24"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 172,
+    "question_text": "sin45° + cos45° =",
+    "options": {
+      "1": "√2",
+      "2": "1/2√2",
+      "3": "1/√2",
+      "4": "2√2"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 173,
+    "question_text": "2tan30° 173 = 1+tan230°",
+    "options": {
+      "1": "sin60°",
+      "2": "sin30°",
+      "3": "cos60°",
+      "4": "tan60°"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 174,
+    "question_text": "If sin(𝐴 − 𝐵) = , cos(𝐴 + 𝐵) = , 2 2 0° < 𝐴 + 𝐵 ≤ 90°, 𝐴 > 𝐵 then the value of 𝐴 1 1 sin(𝐴 − 𝐵) = , cos(𝐴 + 𝐵) = ,",
+    "options": {
+      "1": "45°",
+      "2": "15°",
+      "3": "60°",
+      "4": "30°"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 175,
+    "question_text": "tan2𝜃 − sec2𝜃 =",
+    "options": {
+      "1": "1",
+      "2": "-1",
+      "3": "2",
+      "4": "1/2"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 176,
+    "question_text": "In a right triangle ABC, right angled at B, if tan𝐴 = 1 then 2sin𝐴cos𝐴 =",
+    "options": {
+      "1": "√2",
+      "2": "1/√2",
+      "3": "2√2",
+      "4": "1"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 177,
+    "question_text": "tan𝐴 × cot𝐴 =",
+    "options": {
+      "1": "sin𝐴 × cos𝐴",
+      "2": "cos𝐴 × sec𝐴",
+      "3": "sec𝐴 × 𝑐𝑜𝑠𝑒𝑐 𝐴",
+      "4": "sin𝐴 × sec𝐴"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 178,
+    "question_text": "sin2𝐴 = 2sin𝐴is true when A=",
+    "options": {
+      "1": "0°",
+      "2": "30°",
+      "3": "45°",
+      "4": "60°"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 179,
+    "question_text": "sin60°cos30° + sin30°cos60° =",
+    "options": {
+      "1": "0",
+      "2": "2",
+      "3": "1",
+      "4": "2+√3/2"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 180,
+    "question_text": "If the length of the shadow of a person is equal to the height of the person, then the angle of inclination of sun rays is",
+    "options": {
+      "1": "30°",
+      "2": "60°",
+      "3": "45°",
+      "4": "90°"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 181,
+    "question_text": "The length of the shadow of a tower is √3 times the height of the tower then the angle of inclination is",
+    "options": {
+      "1": "30°",
+      "2": "60°",
+      "3": "45°",
+      "4": "90°"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 182,
+    "question_text": "A person observes the top of a pole at a point on the ground 15m away from the foot of the tower at the angle of 60° then the height of the pole is (in m)",
+    "options": {
+      "1": "45",
+      "2": "15√3",
+      "3": "15/√3",
+      "4": "30"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 183,
+    "question_text": "When the length of the shadow of a tower and the angle of inclination ‘𝜃’ is given then the trigonometric ratio used to find the height of the tower is",
+    "options": {
+      "1": "sin𝜃",
+      "2": "cos𝜃",
+      "3": "tan𝜃",
+      "4": "sec𝜃"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 184,
+    "question_text": "A person observed the top of a flag pole at an angle of 45° from the point on the ground which is 40m away from the foot of the flag pole then the height of flag pole is (in m)",
+    "options": {
+      "1": "40√3",
+      "2": "40/√3",
+      "3": "45",
+      "4": "40"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 185,
+    "question_text": "The ratio of height of a tree to the shadow of the tree is √3:1 then the angle of inclination at that time is",
+    "options": {
+      "1": "30°",
+      "2": "60°",
+      "3": "45°",
+      "4": "90°"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 186,
+    "question_text": "The length of metal wire required from the top of electrical pole to a point which is 5m away from the foot of an electrical pole making an angle of 60° with the ground is (in m)",
+    "options": {
+      "1": "2",
+      "2": "10/√3",
+      "3": "5√3",
+      "4": "10"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 187,
+    "question_text": "An observer 1.5m tall is 28.5m away from a chimney. The angle of elevation of the top of the chimney from her eyes is 45°, the height of the chimney is (in m) 1.5 మీ ఎతుత వునన ఒక పరిశీలకురాలు చిమీన నుండ 28.5 మీ",
+    "options": {
+      "1": "28.5",
+      "2": "30",
+      "3": "57",
+      "4": "27"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 188,
+    "question_text": "The angle of elevation of the top of a tower from the point on the ground, which is 30m away from the foot of the tower is 30° then the height of the tower (in m)",
+    "options": {
+      "1": "√3",
+      "2": "20√3",
+      "3": "30√3",
+      "4": "10√3"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 189,
+    "question_text": "The angle formed by the line of sight with the horizontal when the point being viewed is above the horizontal level is",
+    "options": {
+      "1": "Angle of elevation ఊరధవ కోణము",
+      "2": "Angle of depression నిమన కోణము",
+      "3": "Angle of inclination పతన కోణము",
+      "4": "Alternate angle ఏకాంతర కోణము"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 190,
+    "question_text": "The angle formed by the line of sight with the horizontal when the point being viewed is below the horizontal level is",
+    "options": {
+      "1": "Angle of elevation ఊరధవ కోణము",
+      "2": "Angle of depression నిమన కోణము",
+      "3": "Angle of inclination పతన కోణము",
+      "4": "Alternate angle ఏకాంతర కోణము"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 191,
+    "question_text": "In ∆𝑃𝑄𝑅, right angle at ‘Q’. 𝑃𝑄 = 3𝑐𝑚 and 𝑃𝑅 = 6𝑐𝑚 then the value of ∠𝑄𝑃𝑅 =",
+    "options": {
+      "1": "30°",
+      "2": "45°",
+      "3": "60°",
+      "4": "90°"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 192,
+    "question_text": "“Mathematics is the mirror of civilization” these are the words given by",
+    "options": {
+      "1": "Hogben హ్యబేన్",
+      "2": "Aristotil అరిసాటటిల్",
+      "3": "Lindsay ల్ండ్ స్త",
+      "4": "Gauss గాస్"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 193,
+    "question_text": "“Mathematics is gateway and key to all sciences”, Stated by the mathematician is",
+    "options": {
+      "1": "Becon బేకన్",
+      "2": "Locke లాక",
+      "3": "Gauss గాస్",
+      "4": "Lindsay ల్ండ్ స్త"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 194,
+    "question_text": "Author of the book “Elements”",
+    "options": {
+      "1": "Pythagoras పైథాగరస్",
+      "2": "Thales థేల్స",
+      "3": "Rene Descarte రనెడెకారట",
+      "4": "Euclid యూకిలడ్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 195,
+    "question_text": "Mathematics derived from two Greek words. One is manthanien the other one is",
+    "options": {
+      "1": "Technie",
+      "2": "Tichnee",
+      "3": "Techne",
+      "4": "Tecne"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 196,
+    "question_text": "A mathematician who defined “Mathematics is the science that draws necessary conclusions”, is",
+    "options": {
+      "1": "Benjamin peirce బంజిమన్ పియర్స",
+      "2": "Aristotle అరిసాటటిల్",
+      "3": "Locke లాక్",
+      "4": "Lindsay ల్ండ్ స్త"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 197,
+    "question_text": "Which of the following does not belong to the ‘nature of mathematics’",
+    "options": {
+      "1": "Chance to check సరిచూస్తకొనే అవకాశం",
+      "2": "Mathematics is not logical",
+      "3": "Accuracy ఖ్చిితతవం",
+      "4": "Abstractness అమూరత లక్షణం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 198,
+    "question_text": "The objective that does not belongs to ‘Affective domain’ is",
+    "options": {
+      "1": "Receiving గ్రహించడం",
+      "2": "Precision / sensitive స్తనిశ్చతతవం",
+      "3": "Organisation వయవసాపా నం",
+      "4": "Responding ప్రతిసపందించడం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 199,
+    "question_text": "This objective belongs to ‘Affective domain’ is",
+    "options": {
+      "1": "Manipulation హసతలాఘవం",
+      "2": "Naturalization సహజీకరణం",
+      "3": "Sensitive స్తనిశ్చతతవం",
+      "4": "Valuing విలువకట్టడం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 200,
+    "question_text": "The name of the mathematician who revealed approximately the value of 𝜋 as 3.1416 is",
+    "options": {
+      "1": "Brahmagupta బ్రహి గుపత",
+      "2": "Aryabhata ఆరయభట్ట",
+      "3": "Bhaskracharya భాసకరాచారయ",
+      "4": "Euclid యూకిలడ్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 201,
+    "question_text": "“For common calculation, we can take 𝜋 = √10”. This statement was proposed by the mathematician",
+    "options": {
+      "1": "Bhaskaracharya భాసకరచారయ",
+      "2": "Aryabhata ఆరయభట్ట",
+      "3": "Brahma gupta బ్రహిగుపత",
+      "4": "Euclid యూకిలడ్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 202,
+    "question_text": "“Prime numbers are infinite” statement was given by",
+    "options": {
+      "1": "Srinivasa Ramanujan శ్రీనివాస రామానుజన్",
+      "2": "Euclid యూకిలడ్",
+      "3": "Aryabhata ఆరయభట్ట",
+      "4": "Bhaskracharya భాసకరాచారయ"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 203,
+    "question_text": "“The sum of three angles in a triangle is 180° or two right angles”. This statement was given by",
+    "options": {
+      "1": "Pythagoras పైథాగరస్",
+      "2": "Euclid యూకిలడ్",
+      "3": "Brahmagupta బ్రహిగుపత",
+      "4": "Aryabhata ఆరయభట్ట"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 204,
+    "question_text": "The teaching method considered as the ‘Product of thinking’ is",
+    "options": {
+      "1": "Laboratory method ప్రయోగశల పదదతి",
+      "2": "Heuristic method అనేవషణ పదదతి",
+      "3": "Analysis method విశ్శలషణ పదదతి",
+      "4": "Synthesis method సంశ్శలషణ పదదతి"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 205,
+    "question_text": "Who propagated Deductive method in mathematics",
+    "options": {
+      "1": "Armstrong ఆర్ి సారంగ్",
+      "2": "Cominius కొమిన్నయస్",
+      "3": "Pestalozzi పెసాటలజీ",
+      "4": "Bellord బలార్ీ"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 206,
+    "question_text": "Who said that “Education is life”",
+    "options": {
+      "1": "Young యంగ్",
+      "2": "Kilpatric కిల్ పాట్రిక్",
+      "3": "John Dewey జాన్ డ్యయయి",
+      "4": "Stevenson స్టటవెనసన్"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 207,
+    "question_text": "The method which leads from “particular to general” is",
+    "options": {
+      "1": "Inductive ఆగమన",
+      "2": "Deductive నిగమన",
+      "3": "Analysis విశ్శలషణ",
+      "4": "Synthesis సంశ్శలషణ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 208,
+    "question_text": "By using this method we come to know that the “problem solving procedure” only",
+    "options": {
+      "1": "Synthesis సంశ్శలషణ",
+      "2": "Analysis విశ్శలషణ",
+      "3": "Project ప్రాజకుట",
+      "4": "Deductive నిగమన"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 209,
+    "question_text": "This method proceeds from particular examples to general rules of formulas is",
+    "options": {
+      "1": "Deductive నిగమన",
+      "2": "Inductive ఆగమన",
+      "3": "Synthesis సంశ్శలషణ",
+      "4": "Analytic విశ్శలషణ"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 210,
+    "question_text": "This is the convenient method to derive formula for compound interest is",
+    "options": {
+      "1": "Inductive method అగమన పదదతి",
+      "2": "Deductive method నిగమన పదదతి",
+      "3": "Analytic method విశ్శలషణ పదదతి",
+      "4": "Synthetic method సంశ్శలషణ పదదతి"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 211,
+    "question_text": "This method is based on the principles “learning by doing” and “learning by observing” is",
+    "options": {
+      "1": "Inductive అగమన",
+      "2": "Deductive నిగమన",
+      "3": "Analytic విశ్శలషణ",
+      "4": "Laboratory ప్రయోగశల"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 212,
+    "question_text": "This method is based on the principle “learning by doing” is",
+    "options": {
+      "1": "Project method ప్రాజక్ టపదదతి",
+      "2": "Heuristic method అనేవషణ పదదతి",
+      "3": "Problem solving సమసాయ సాధ్న",
+      "4": "Deductive నిగమన"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 213,
+    "question_text": "“A project is a bit of real life that has been imported into school”. This definition was given by",
+    "options": {
+      "1": "Kilpatrick కిల్ పాట్రిక్",
+      "2": "Ballard బలార్ీ",
+      "3": "Stevenson స్టటవెన్ సన్",
+      "4": "Armstrong ఆర్ి సారంగ్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 214,
+    "question_text": "This is not a limitation to analytic method",
+    "options": {
+      "1": "Lengthy method ఇది ఒక స్తదీర ఘపదదతి",
+      "2": "It takes more time",
+      "3": "We cannot solve problems with speed",
+      "4": "This is suitable for all kinds of problem"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 215,
+    "question_text": "This is the time-saving teaching method",
+    "options": {
+      "1": "Inductive method ఆగమన పదదతి",
+      "2": "Synthetic method సంశ్శలషణ పదదతి",
+      "3": "Analytic method విశ్శలషణ పదదతి",
+      "4": "Heuristic method అనేవషణ పదదతి"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 216,
+    "question_text": "This item does not included in the unit plan",
+    "options": {
+      "1": "Content analysis విషయ విశ్శలషణ",
+      "2": "Teaching learning material",
+      "3": "Teaching method బోధ్న పదదతి",
+      "4": "Objectives and specifications"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 217,
+    "question_text": "“The student explains in his own words”. Belongs to this academic standard",
+    "options": {
+      "1": "Connection అను సంధానము",
+      "2": "Communication వయకతపరచడం",
+      "3": "Reasoning - proof",
+      "4": "Representation - visualisation"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 218,
+    "question_text": "Which of the following item does not belong to 5E – learning model?",
+    "options": {
+      "1": "Engage నిమగనం కావడం",
+      "2": "Explore అనేవష్టంచడం",
+      "3": "Explain వివరించడం",
+      "4": "Experience అనుభవం"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 219,
+    "question_text": "“Pupils will prepare meaningful problems and solve them”. This as one of the vision of school",
+    "options": {
+      "1": "NPE – 1986 & POA – 1982",
+      "2": "NCF – 2005 & APSCF – 2011",
+      "3": "NPE – 1986 & NCF – 2005",
+      "4": "POA – 1992 & NCF – 2005"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 220,
+    "question_text": "“Importance to core elements and reduction in course content in curriculum”, proposed by",
+    "options": {
+      "1": "NPE – 1986",
+      "2": "POA – 1992",
+      "3": "NCF – 2005",
+      "4": "NEP – 2020"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 221,
+    "question_text": "“Education must move towards less content and more towards learning”. This is proposed by",
+    "options": {
+      "1": "NEP – 2020",
+      "2": "NCF – 2005",
+      "3": "POA – 1992",
+      "4": "NPE – 1986"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 222,
+    "question_text": "“A problem corner can be started by the maths club, with suitable puzzles and mathematical problems at all levels”. This recommendation is made by",
+    "options": {
+      "1": "NPE – 1986",
+      "2": "POA – 1992",
+      "3": "NEP – 2020",
+      "4": "APSCF – 2011"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 223,
+    "question_text": "“Bilingual teaching learning material should be available”. In which of the following this was mentioned",
+    "options": {
+      "1": "NCF – 2005",
+      "2": "APSCF – 2011",
+      "3": "NEP – 2020",
+      "4": "NPE – 1986"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 224,
+    "question_text": "In the Herbartian steps of a lesson plan, the step “Generalization” comes before this step",
+    "options": {
+      "1": "Presentation సమరపణ",
+      "2": "Preparation సననహం",
+      "3": "Recapitulation పునరివమరే",
+      "4": "Association సంసరగం"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 225,
+    "question_text": "“Children learn to enjoy mathematics rather than fear it”. This suggestion is form",
+    "options": {
+      "1": "NCF – 2005, APSCF – 2011",
+      "2": "NCF – 2005, RTE – 2009",
+      "3": "RTE – 2009, APSCF – 2011",
+      "4": "NCF – 2005, NPE – 1986"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 226,
+    "question_text": "The educationist who suggested to follow certain rules in framing mathematical instructional objectives",
+    "options": {
+      "1": "Breslich బ్రెసిలచ్",
+      "2": "Munnik మునినక్",
+      "3": "Frust ఫ్రస్ట",
+      "4": "Herbart హెరాార్ట"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 227,
+    "question_text": "In the Herbartian steps of a lesson plan, the step Association comes before this step",
+    "options": {
+      "1": "Presentation సమరపణ",
+      "2": "Application వినియోగం",
+      "3": "Recapitulation పునరివమరే",
+      "4": "Generalisation సాధారణీకరణ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 228,
+    "question_text": "The evaluation tool that reflect a student’s personality is",
+    "options": {
+      "1": "Check list చెక్ ల్స్తట",
+      "2": "Rating scale రేటింగు స్తకలు",
+      "3": "Anecdotal record ఏనకోీట్ల్ రికారుీ",
+      "4": "Questionnaire ప్రశనవళి"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 229,
+    "question_text": "“Evaluation is continuous process”. This statement was given by",
+    "options": {
+      "1": "Secondary Education Committee",
+      "2": "Eshwarbai Patel ఈశవరభాయ్ పటేల్ కమిటీ",
+      "3": "Kothari commission కోఠారి కమీషన్",
+      "4": "Yashpal committee యష్ పాల్ కమిటీ"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 230,
+    "question_text": "This evaluation conducted after the completion of the teaching learning process",
+    "options": {
+      "1": "Summative సంగ్రహణతిక",
+      "2": "Formative నిరాిణతిక",
+      "3": "Diagnostic లోపనిరాధరణ",
+      "4": "Prognostic ప్రాగుపితక"
+    },
+    "answer": 3
+  },
+  {
+    "question_id": 231,
+    "question_text": "This evaluation conducted during the completion of the teaching learning process",
+    "options": {
+      "1": "Summative సంగ్రహణతిక",
+      "2": "Formative నిరాిణతిక",
+      "3": "Diagnostic లోపనిరాధరణ",
+      "4": "Progrostic ప్రాగుపితక"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 232,
+    "question_text": "The tool which is not used in formative assessment",
+    "options": {
+      "1": "Pupils written work విదాయరులధ రాత పని",
+      "2": "Project work ప్రాజకుట పని",
+      "3": "slip test సిలప్ ట్స్ట",
+      "4": "Teacher’s written work ఉపాధాయయుల రాత పని"
+    },
+    "answer": 2
+  },
+  {
+    "question_id": 233,
+    "question_text": "The tool which has more weightage in formative assessment",
+    "options": {
+      "1": "Student’s participation-responses",
+      "2": "Students written work విదాయరులధ రాతపని",
+      "3": "Project work ప్రాజకుట పని",
+      "4": "Slip test సిలప్ ట్స్ట"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 234,
+    "question_text": "Which of the following does not belong to objective type questions?",
+    "options": {
+      "1": "Multiple choice questions",
+      "2": "Matching జత పరచడం",
+      "3": "Odd man out విభినన అంశనిన గురితంచుట్",
+      "4": "Association form సంసరగ రూపం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 235,
+    "question_text": "Which of the following does not belong to very short answer type questions?",
+    "options": {
+      "1": "Completion form పూరణం",
+      "2": "Association form సంసరగం",
+      "3": "Analogy form సాదృశయ రూపం",
+      "4": "Odd man out విభినన అంశనిన గురితంచుట్"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 236,
+    "question_text": "Which of the following belong to objective type questions?",
+    "options": {
+      "1": "Alternative response type",
+      "2": "Completion form పూరణం",
+      "3": "Association form సంసరగం",
+      "4": "Analogy form సాదృశయ రూపం"
+    },
+    "answer": 4
+  },
+  {
+    "question_id": 237,
+    "question_text": "Which of the following belong to very short answer type questions?",
+    "options": {
+      "1": "Association form సంసరగం",
+      "2": "Matching జతపరచడం",
+      "3": "Multiple choice బాహుళైచిిక ప్రశనలు",
+      "4": "Odd man out విభినన అంశనిన గురితంచుట్"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 238,
+    "question_text": "Circle : 2𝜋𝑟 :: square : ? . This type of question belongs to",
+    "options": {
+      "1": "Completion question పూరకం",
+      "2": "Association form సంసరగం",
+      "3": "Analogy form సాదృశయ రూపం",
+      "4": "Matching జతపరచడం"
+    },
+    "answer": 1
+  },
+  {
+    "question_id": 239,
+    "question_text": "This learning aid is used to understand that multiplication is repeated addition, and division is repeated subtraction",
+    "options": {
+      "1": "Peg board పెగ్ బోరు ీ",
+      "2": "Geo board జియో బోరుీ",
+      "3": "Grid paper గళళ కాగతం",
+      "4": "Beads frame పూసల చట్రం"
+    },
+    "answer": 3
+  }
+]
