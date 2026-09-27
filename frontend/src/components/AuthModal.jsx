@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { X, Lock, Mail, User, ArrowRight, Eye, EyeOff } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 
@@ -11,6 +11,26 @@ export default function AuthModal({ isOpen, onClose }) {
   const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState('');
   const [submitting, setSubmitting] = useState(false);
+
+  // Clear credentials whenever modal opens or closes
+  useEffect(() => {
+    if (isOpen) {
+      setUsername('');
+      setEmail('');
+      setPassword('');
+      setError('');
+      setShowPassword(false);
+    }
+  }, [isOpen]);
+
+  const handleClose = () => {
+    setUsername('');
+    setEmail('');
+    setPassword('');
+    setError('');
+    setShowPassword(false);
+    onClose();
+  };
 
   if (!isOpen) return null;
 
@@ -35,7 +55,7 @@ export default function AuthModal({ isOpen, onClose }) {
         }
         await login(username.trim(), password);
       }
-      onClose();
+      handleClose();
     } catch (err) {
       setError(err.message || 'Authentication failed');
     } finally {
@@ -57,7 +77,7 @@ export default function AuthModal({ isOpen, onClose }) {
             </p>
           </div>
           <button
-            onClick={onClose}
+            onClick={handleClose}
             className="text-theme-textSecondary hover:text-theme-textPrimary p-1.5 rounded-lg hover:bg-theme-background transition-colors"
           >
             <X size={18} />
@@ -83,7 +103,7 @@ export default function AuthModal({ isOpen, onClose }) {
         </div>
 
         {/* Form */}
-        <form onSubmit={handleSubmit} className="p-6 space-y-4">
+        <form onSubmit={handleSubmit} autoComplete="off" className="p-6 space-y-4">
           {error && (
             <div className="p-3 rounded-lg bg-[#FBEAE8] border border-[#F1C4BE] text-[#9A3428] text-xs leading-snug space-y-1.5">
               <div>{error}</div>
@@ -118,7 +138,9 @@ export default function AuthModal({ isOpen, onClose }) {
               </span>
               <input
                 type="text"
+                name="auth_user_field"
                 required
+                autoComplete="off"
                 autoCapitalize="none"
                 autoCorrect="off"
                 spellCheck={false}
@@ -141,7 +163,9 @@ export default function AuthModal({ isOpen, onClose }) {
                 </span>
                 <input
                   type="email"
+                  name="auth_email_field"
                   required
+                  autoComplete="off"
                   autoCapitalize="none"
                   autoCorrect="off"
                   spellCheck={false}
@@ -164,7 +188,9 @@ export default function AuthModal({ isOpen, onClose }) {
               </span>
               <input
                 type={showPassword ? "text" : "password"}
+                name="auth_pwd_field"
                 required
+                autoComplete="new-password"
                 autoCapitalize="none"
                 autoCorrect="off"
                 spellCheck={false}
@@ -196,7 +222,7 @@ export default function AuthModal({ isOpen, onClose }) {
           <div className="pt-2 text-center">
             <button
               type="button"
-              onClick={onClose}
+              onClick={handleClose}
               className="text-xs text-theme-textSecondary hover:text-theme-textPrimary underline underline-offset-4"
             >
               Continue without signing in (Guest Mode)
