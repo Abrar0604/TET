@@ -10,6 +10,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse, JSONResponse
 from pydantic import BaseModel
+from sqlalchemy import func
 from sqlalchemy.orm import Session
 
 from database import Base, engine, get_db
@@ -199,12 +200,14 @@ def register(req: RegisterRequest, db: Session = Depends(get_db)):
     if "@" not in email:
         raise HTTPException(status_code=400, detail="Please enter a valid email address")
 
-    existing_user = db.query(User).filter((User.username == username) | (User.email == email)).first()
+    existing_user = db.query(User).filter(
+        (func.lower(User.username) == username.lower()) | (func.lower(User.email) == email)
+    ).first()
     if existing_user:
         if existing_user.username.lower() == username.lower():
-            raise HTTPException(status_code=400, detail="Username is already taken")
+            raise HTTPException(status_code=400, detail="Username is already taken. Try signing in or choosing another username.")
         else:
-            raise HTTPException(status_code=400, detail="Email is already registered")
+            raise HTTPException(status_code=400, detail="Email is already registered. Try signing in instead.")
 
     new_user = User(
         username=username,
@@ -228,11 +231,22 @@ def register(req: RegisterRequest, db: Session = Depends(get_db)):
 
 @api.post("/auth/login")
 def login(req: LoginRequest, db: Session = Depends(get_db)):
-    ident = req.username_or_email.strip()
-    user = db.query(User).filter((User.username == ident) | (User.email == ident.lower())).first()
+    ident = req.username_or_email.strip().lower()
+    user = db.query(User).filter(
+        (func.lower(User.username) == ident) | (func.lower(User.email) == ident)
+    ).first()
     
-    if not user or not verify_password(req.password, user.hashed_password):
-        raise HTTPException(status_code=401, detail="Invalid username/email or password")
+    if not user:
+        raise HTTPException(
+            status_code=401, 
+            detail="No account found with this username or email. Please register first or check spelling."
+        )
+
+    if not verify_password(req.password, user.hashed_password):
+        raise HTTPException(
+            status_code=401, 
+            detail="Incorrect password. Please verify your password."
+        )
 
     token = create_access_token({"sub": str(user.id), "username": user.username})
     return {

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { X, Lock, Mail, User, ArrowRight } from 'lucide-react';
+import { X, Lock, Mail, User, ArrowRight, Eye, EyeOff } from 'lucide-react';
 import { useAuth } from '../context/AuthContext';
 
 export default function AuthModal({ isOpen, onClose }) {
@@ -8,6 +8,7 @@ export default function AuthModal({ isOpen, onClose }) {
   const [username, setUsername] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
+  const [showPassword, setShowPassword] = useState(false);
   const [error, setError] = useState('');
   const [submitting, setSubmitting] = useState(false);
 
@@ -25,14 +26,14 @@ export default function AuthModal({ isOpen, onClose }) {
           setSubmitting(false);
           return;
         }
-        await register(username, email, password);
+        await register(username.trim(), email.trim(), password);
       } else {
         if (!username.trim() || !password.trim()) {
           setError('Please enter your username/email and password.');
           setSubmitting(false);
           return;
         }
-        await login(username, password);
+        await login(username.trim(), password);
       }
       onClose();
     } catch (err) {
@@ -84,8 +85,26 @@ export default function AuthModal({ isOpen, onClose }) {
         {/* Form */}
         <form onSubmit={handleSubmit} className="p-6 space-y-4">
           {error && (
-            <div className="p-3 rounded-lg bg-[#FBEAE8] border border-[#F1C4BE] text-[#9A3428] text-sm leading-snug">
-              {error}
+            <div className="p-3 rounded-lg bg-[#FBEAE8] border border-[#F1C4BE] text-[#9A3428] text-xs leading-snug space-y-1.5">
+              <div>{error}</div>
+              {!isRegister && (error.toLowerCase().includes('register') || error.toLowerCase().includes('no account') || error.toLowerCase().includes('invalid')) && (
+                <button
+                  type="button"
+                  onClick={() => { setIsRegister(true); setError(''); }}
+                  className="block text-[11px] underline font-semibold text-[#802D22] hover:opacity-80"
+                >
+                  New here? Click here to Create an Account
+                </button>
+              )}
+              {isRegister && error.toLowerCase().includes('already') && (
+                <button
+                  type="button"
+                  onClick={() => { setIsRegister(false); setError(''); }}
+                  className="block text-[11px] underline font-semibold text-[#802D22] hover:opacity-80"
+                >
+                  Already registered? Click here to Sign In
+                </button>
+              )}
             </div>
           )}
 
@@ -100,9 +119,12 @@ export default function AuthModal({ isOpen, onClose }) {
               <input
                 type="text"
                 required
+                autoCapitalize="none"
+                autoCorrect="off"
+                spellCheck={false}
                 value={username}
                 onChange={(e) => setUsername(e.target.value)}
-                placeholder={isRegister ? 'e.g. learner2026' : 'Enter username or email'}
+                placeholder={isRegister ? 'e.g. abrar' : 'Enter username or email'}
                 className="w-full pl-9 pr-3 py-2.5 bg-theme-background border border-theme-border rounded-lg text-sm text-theme-textPrimary placeholder:text-theme-textSecondary/50 focus:outline-none focus:border-theme-primary transition-colors"
               />
             </div>
@@ -120,6 +142,9 @@ export default function AuthModal({ isOpen, onClose }) {
                 <input
                   type="email"
                   required
+                  autoCapitalize="none"
+                  autoCorrect="off"
+                  spellCheck={false}
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   placeholder="e.g. learner@example.com"
@@ -138,13 +163,24 @@ export default function AuthModal({ isOpen, onClose }) {
                 <Lock size={16} />
               </span>
               <input
-                type="password"
+                type={showPassword ? "text" : "password"}
                 required
+                autoCapitalize="none"
+                autoCorrect="off"
+                spellCheck={false}
                 value={password}
                 onChange={(e) => setPassword(e.target.value)}
                 placeholder="••••••••"
-                className="w-full pl-9 pr-3 py-2.5 bg-theme-background border border-theme-border rounded-lg text-sm text-theme-textPrimary placeholder:text-theme-textSecondary/50 focus:outline-none focus:border-theme-primary transition-colors"
+                className="w-full pl-9 pr-10 py-2.5 bg-theme-background border border-theme-border rounded-lg text-sm text-theme-textPrimary placeholder:text-theme-textSecondary/50 focus:outline-none focus:border-theme-primary transition-colors"
               />
+              <button
+                type="button"
+                onClick={() => setShowPassword(!showPassword)}
+                className="absolute inset-y-0 right-0 pr-3 flex items-center text-theme-textSecondary hover:text-theme-textPrimary"
+                title={showPassword ? "Hide password" : "Show password"}
+              >
+                {showPassword ? <EyeOff size={16} /> : <Eye size={16} />}
+              </button>
             </div>
           </div>
 
