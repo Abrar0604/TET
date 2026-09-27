@@ -4,3 +4,4 @@ sqlalchemy
 pydantic
 pyjwt
 bcrypt
+psycopg2-binary
